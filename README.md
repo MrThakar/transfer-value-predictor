@@ -12,6 +12,9 @@ Player values seemed like a good fit, because everyone who watches has an
 opinion on what a player is worth, and I wanted to see how far stats alone
 could get.
 
+**Built with:** Python, pandas, scikit-learn, Matplotlib, FastAPI, React,
+TypeScript, Tailwind, pytest, GitHub Actions, Docker
+
 ![Actual vs. predicted market value](outputs/actual_vs_predicted.png)
 
 ## How well it works
@@ -80,78 +83,17 @@ played, so I switched.
    train on seasons that come after the ones it is tested on.
 6. Score every model once on the held-out season.
 
-## Running it
+## The app and the engineering around it
 
-```bash
-git clone https://github.com/MrThakar/transfer-value-predictor.git
-cd transfer-value-predictor
-python -m venv .venv
-source .venv/bin/activate        # Windows: .venv\Scripts\activate
-pip install -r requirements-dev.txt
-python -m transfer_value.train
-```
-
-That downloads the data, trains the models and writes the charts and metrics
-to `outputs/` and the model to `models/`. There are a few options:
-
-```bash
-python -m transfer_value.train --leagues GB1 --seasons 2022 2023 2024 2025
-python -m transfer_value.train --min-minutes 900 --refresh
-```
-
-### Web app
-
-```bash
-cd frontend && npm install && npm run build && cd ..
-uvicorn transfer_value.api:app
-```
-
-Then open `http://127.0.0.1:8000`. Change any number and the estimate updates,
-along with the real players valued closest to it. FastAPI serves the built
-React page and the API from the same process.
-
-When working on the front end, run `uvicorn transfer_value.api:app` in one
-terminal and `npm run dev` inside `frontend/` in another, and use
-`http://localhost:5173`.
-
-### API
-
-```bash
-curl -X POST http://127.0.0.1:8000/predict \
-  -H "Content-Type: application/json" \
-  -d '{"age": 24.5, "position": "Attack", "sub_position": "Centre-Forward",
-       "league": "GB1", "appearances": 34, "minutes_played": 2900,
-       "goals": 18, "assists": 6, "prev_minutes": 2500, "prev_goals": 12,
-       "prev_assists": 4, "club_points_per_game": 2.0,
-       "club_goal_diff_per_game": 0.9}'
-```
-
-```json
-{"predicted_value_eur": 84671000.0, "model": "Gradient Boosting"}
-```
-
-Only age, position, appearances and minutes are required. The other endpoints
-are `/comparables`, `/metadata` and `/health`; `/docs` has the full list.
-
-### Docker
-
-```bash
-docker build -t transfer-value .
-docker run -p 8000:8000 transfer-value
-```
-
-The image builds the front end, trains the model and serves everything on one
-port.
-
-### Tests
-
-```bash
-python -m pytest
-```
-
-The tests run on small made-up tables, so they don't need the real data or a
-network connection. GitHub Actions runs them and builds the front end on every
-push.
+- A FastAPI service wraps the model. `POST /predict` takes a player's season
+  and returns a value, with the inputs validated by Pydantic.
+- A React + TypeScript + Tailwind page calls that API. Change any number and
+  the estimate updates, along with the real players valued closest to it.
+- 20 pytest tests cover the feature building, the model code and the API. They
+  run on small made-up tables, so they don't need the real data.
+- GitHub Actions runs the tests and builds the front end on every push.
+- A Dockerfile builds the front end, trains the model and serves everything
+  from one container.
 
 ## Layout
 
@@ -174,3 +116,14 @@ outputs/           charts and metrics from the last training run
 - Add contract length
 - Report error separately for players who are new to the dataset
 - Prediction ranges, not just a single number
+
+## Running it
+
+```bash
+pip install -r requirements-dev.txt
+python -m transfer_value.train
+cd frontend && npm install && npm run build && cd ..
+uvicorn transfer_value.api:app
+```
+
+Then open `http://127.0.0.1:8000`.
