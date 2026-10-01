@@ -2,6 +2,9 @@
 
 ![CI](https://github.com/MrThakar/transfer-value-predictor/actions/workflows/ci.yml/badge.svg)
 
+**Live demo:** https://transfer-value-predictor.onrender.com (free hosting, so
+it can take about a minute to wake up)
+
 A model that estimates what a footballer is worth from one season of stats,
 with a small web app for trying it out. It covers the top five European
 leagues and uses Transfermarkt market values as the target.
