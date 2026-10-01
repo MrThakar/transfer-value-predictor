@@ -95,21 +95,6 @@ played, so I switched.
 - A Dockerfile builds the front end, trains the model and serves everything
   from one container.
 
-## Layout
-
-```
-transfer_value/    Python package
-  data.py          downloads and loads the tables
-  features.py      builds the player-season rows and features
-  model.py         models, cross-validation, scoring
-  train.py         runs the whole pipeline
-  plots.py         charts
-  api.py           FastAPI app
-frontend/          React + TypeScript + Tailwind
-tests/             pytest
-outputs/           charts and metrics from the last training run
-```
-
 ## To do
 
 - Add xG and xA from FBref or Understat
