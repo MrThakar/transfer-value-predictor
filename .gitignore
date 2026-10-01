@@ -1,0 +1,22 @@
+# Downloaded / derived data and trained models (re-created by the pipeline)
+data/
+models/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Front end
+frontend/node_modules/
+frontend/dist/
+
+# Local tooling
+.claude/

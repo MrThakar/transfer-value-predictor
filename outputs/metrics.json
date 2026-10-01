@@ -1,0 +1,20 @@
+{
+  "best_model": "Gradient Boosting",
+  "holdout_season": 2025,
+  "train_rows": 7800,
+  "holdout_rows": 1964,
+  "holdout": {
+    "holdout_mae_eur": 5411532.744944192,
+    "holdout_rmse_eur": 10618123.540194726,
+    "holdout_r2": 0.7286253319452142,
+    "holdout_r2_log": 0.8274964914391615
+  },
+  "holdout_mae_by_league": {
+    "ES1": 5026913.810609014,
+    "FR1": 5274428.033720367,
+    "GB1": 8583693.93619524,
+    "IT1": 3809679.445703903,
+    "L1": 4407435.713283057
+  },
+  "holdout_median_pct_error": 31.830375873100515
+}

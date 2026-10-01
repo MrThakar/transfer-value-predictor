@@ -1,0 +1,1965 @@
+name,league,position,sub_position,age,minutes_played,goals,assists,market_value_in_eur,predicted_value_eur
+Lamine Yamal,ES1,Attack,Right Winger,18.9,2270,16,12,200000000.0,240661183.9
+Erling Haaland,GB1,Attack,Centre-Forward,25.9,2959,27,8,200000000.0,91449272.4
+Kylian Mbappé,ES1,Attack,Centre-Forward,27.5,2606,25,5,180000000.0,86359106.0
+Pedri,ES1,Midfield,Central Midfield,23.6,2110,2,9,150000000.0,81040707.2
+Michael Olise,L1,Attack,Right Winger,24.5,2320,15,21,150000000.0,132303564.7
+Vitinha,FR1,Midfield,Defensive Midfield,26.3,2121,1,7,140000000.0,47890346.4
+Khvicha Kvaratskhelia,FR1,Attack,Left Winger,25.3,1482,8,4,140000000.0,50229591.9
+João Neves,FR1,Midfield,Central Midfield,21.7,1286,5,1,140000000.0,51265770.2
+Vinicius Junior,ES1,Attack,Left Winger,25.9,2825,16,6,140000000.0,90145811.9
+Jude Bellingham,ES1,Midfield,Attacking Midfield,23.0,1918,6,4,130000000.0,72101362.1
+Désiré Doué,FR1,Attack,Right Winger,21.0,1356,7,6,120000000.0,54072452.1
+Declan Rice,GB1,Midfield,Central Midfield,27.4,3099,4,7,120000000.0,82232771.6
+Bukayo Saka,GB1,Attack,Right Winger,24.8,2226,7,7,110000000.0,86272154.7
+Julián Alvarez,ES1,Attack,Centre-Forward,26.4,1903,8,4,100000000.0,35513208.0
+Cole Palmer,GB1,Midfield,Attacking Midfield,24.1,1965,10,1,100000000.0,51215185.3
+Dominik Szoboszlai,GB1,Midfield,Attacking Midfield,25.6,3233,6,7,100000000.0,58967867.5
+Ousmane Dembélé,FR1,Attack,Centre-Forward,29.1,1063,10,7,100000000.0,42000595.3
+Florian Wirtz,GB1,Midfield,Attacking Midfield,23.1,2390,5,4,100000000.0,64443444.3
+William Saliba,GB1,Defender,Centre-Back,25.2,2615,1,0,100000000.0,69652087.8
+Fermín López,ES1,Midfield,Attacking Midfield,23.1,1798,6,9,100000000.0,70613226.2
+Moisés Caicedo,GB1,Midfield,Defensive Midfield,24.6,2802,3,1,100000000.0,39957086.9
+Jamal Musiala,L1,Midfield,Attacking Midfield,23.3,679,3,4,100000000.0,57058041.1
+Morgan Rogers,GB1,Midfield,Attacking Midfield,23.9,3285,10,7,90000000.0,89542238.1
+Arda Güler,ES1,Midfield,Attacking Midfield,21.3,2027,4,9,90000000.0,49952473.4
+Aleksandar Pavlovic,L1,Midfield,Defensive Midfield,22.1,1461,3,1,90000000.0,43558723.1
+Enzo Fernández,GB1,Midfield,Central Midfield,25.4,3121,10,4,90000000.0,46552849.7
+Federico Valverde,ES1,Midfield,Central Midfield,27.9,2747,5,8,90000000.0,45045098.9
+Rayan Cherki,GB1,Midfield,Attacking Midfield,22.8,1786,4,12,90000000.0,69767565.2
+Yan Diomande,L1,Attack,Left Winger,19.6,2483,12,9,90000000.0,84923675.2
+Lautaro Martínez,IT1,Attack,Centre-Forward,28.8,2178,17,6,85000000.0,62984728.2
+Alexander Isak,GB1,Attack,Centre-Forward,26.7,702,3,1,85000000.0,43155837.6
+Willian Pacho,FR1,Defender,Centre-Back,24.7,1915,0,0,80000000.0,38147525.4
+João Pedro,GB1,Attack,Centre-Forward,24.7,2674,15,8,80000000.0,45578294.8
+Antoine Semenyo,GB1,Attack,Right Winger,26.4,3205,17,4,80000000.0,58387175.9
+Hugo Ekitiké,GB1,Attack,Centre-Forward,24.0,1811,11,4,80000000.0,57257157.1
+Warren Zaïre-Emery,FR1,Midfield,Central Midfield,20.3,2454,3,4,80000000.0,86987691.6
+Nuno Mendes,FR1,Defender,Left-Back,24.0,1250,4,5,80000000.0,39121991.5
+Ryan Gravenberch,GB1,Midfield,Defensive Midfield,24.1,2996,5,3,80000000.0,53502864.9
+Achraf Hakimi,FR1,Defender,Right-Back,27.6,1374,2,2,80000000.0,30993604.7
+Nico Paz,IT1,Midfield,Attacking Midfield,21.8,2886,12,7,80000000.0,89289814.5
+Pau Cubarsí,ES1,Defender,Centre-Back,19.4,2706,1,0,80000000.0,123518582.4
+Sandro Tonali,GB1,Midfield,Defensive Midfield,26.1,2545,0,2,80000000.0,28430462.7
+Estêvão,GB1,Attack,Right Winger,19.1,846,2,2,80000000.0,18626831.9
+Bryan Mbeumo,GB1,Attack,Right Winger,26.9,2625,11,3,75000000.0,82052885.3
+Jérémy Doku,GB1,Attack,Left Winger,24.1,1786,5,7,75000000.0,51417805.1
+Matheus Cunha,GB1,Attack,Centre-Forward,27.1,2503,10,4,75000000.0,68668231.6
+Kenan Yıldız,IT1,Attack,Left Winger,21.1,2844,10,7,75000000.0,66486871.5
+Elliot Anderson,GB1,Midfield,Central Midfield,23.6,3335,4,4,75000000.0,57776290.4
+Gabriel,GB1,Defender,Centre-Back,28.5,2751,3,4,75000000.0,62124939.3
+Benjamin Sesko,GB1,Attack,Centre-Forward,23.0,1637,11,1,75000000.0,52393432.5
+Martín Zubimendi,GB1,Midfield,Defensive Midfield,27.4,3002,5,1,75000000.0,71405396.3
+Marc Guéhi,GB1,Defender,Centre-Back,25.9,3150,3,4,70000000.0,36818661.9
+Kobbie Mainoo,GB1,Midfield,Central Midfield,21.2,1654,1,2,70000000.0,38303757.7
+Dayot Upamecano,L1,Defender,Centre-Back,27.6,1798,1,1,70000000.0,37353738.1
+Aurélien Tchouaméni,ES1,Midfield,Defensive Midfield,26.4,2623,1,0,70000000.0,37644085.2
+Bruno Guimarães,GB1,Midfield,Central Midfield,28.6,2460,9,6,70000000.0,38668625.6
+Adam Wharton,GB1,Midfield,Defensive Midfield,22.4,2563,1,5,70000000.0,30887416.5
+Nico O'Reilly,GB1,Defender,Left-Back,21.2,2649,5,3,70000000.0,56519932.8
+Phil Foden,GB1,Midfield,Attacking Midfield,26.0,2085,7,5,70000000.0,46797880.2
+Alexis Mac Allister,GB1,Midfield,Central Midfield,27.5,2663,2,4,70000000.0,30812220.6
+Bradley Barcola,FR1,Attack,Left Winger,23.8,1750,11,2,70000000.0,71304967.7
+Morgan Gibbs-White,GB1,Midfield,Attacking Midfield,26.4,3113,15,4,70000000.0,60362836.5
+Jurriën Timber,GB1,Defender,Right-Back,25.0,2457,3,6,70000000.0,71874549.4
+Junior Kroupi,GB1,Attack,Centre-Forward,20.0,1683,13,0,70000000.0,44591804.4
+Luis Díaz,L1,Attack,Left Winger,29.4,2451,15,17,70000000.0,55140241.1
+Raphinha,ES1,Attack,Left Winger,29.5,1389,13,3,70000000.0,67375980.5
+Josko Gvardiol,GB1,Defender,Centre-Back,24.4,1374,2,2,70000000.0,37212397.8
+Igor Thiago,GB1,Attack,Centre-Forward,25.0,3287,22,1,65000000.0,47565981.9
+Martin Ødegaard,GB1,Midfield,Attacking Midfield,27.5,1371,1,7,65000000.0,49463585.5
+Alessandro Bastoni,IT1,Defender,Centre-Back,27.2,2249,1,4,65000000.0,50163598.8
+Viktor Gyökeres,GB1,Attack,Centre-Forward,28.0,2231,14,1,65000000.0,47190193.8
+Anthony Gordon,GB1,Attack,Left Winger,25.3,1814,6,2,65000000.0,28447210.7
+Eberechi Eze,GB1,Midfield,Attacking Midfield,28.0,1900,7,2,65000000.0,58073216.8
+Dean Huijsen,ES1,Defender,Centre-Back,21.2,2037,2,2,60000000.0,52258311.7
+Pedro Neto,GB1,Attack,Right Winger,26.3,2643,5,6,60000000.0,31895107.1
+Lennart Karl,L1,Midfield,Attacking Midfield,18.3,1282,5,6,60000000.0,53634749.0
+Rasmus Højlund,IT1,Attack,Centre-Forward,23.4,2762,12,6,60000000.0,65316864.2
+Luka Vuskovic,L1,Defender,Centre-Back,19.3,2442,6,1,60000000.0,29084919.2
+Cody Gakpo,GB1,Attack,Left Winger,27.1,2749,7,5,60000000.0,38541206.6
+Jules Koundé,ES1,Defender,Right-Back,27.6,2261,1,3,60000000.0,45360771.2
+Dani Olmo,ES1,Midfield,Attacking Midfield,28.1,2077,7,8,60000000.0,51564227.3
+Rayan,GB1,Attack,Right Winger,19.9,1120,5,2,60000000.0,31655192.4
+Harry Kane,L1,Attack,Centre-Forward,32.9,2382,36,5,60000000.0,30310312.4
+Reece James,GB1,Defender,Right-Back,26.5,1960,2,5,60000000.0,16003008.3
+Trent Alexander-Arnold,ES1,Defender,Right-Back,27.7,1164,0,4,60000000.0,18369412.0
+Pablo Barrios,ES1,Midfield,Central Midfield,23.0,1666,1,1,55000000.0,26312153.3
+Rúben Dias,GB1,Defender,Centre-Back,29.1,2140,2,0,55000000.0,31801443.6
+Riccardo Calafiori,GB1,Defender,Left-Back,24.1,1708,1,2,55000000.0,37843056.1
+Iliman Ndiaye,GB1,Attack,Right Winger,26.3,2789,6,3,55000000.0,34293215.0
+Mason Greenwood,FR1,Attack,Right Winger,24.7,2471,16,7,55000000.0,47456642.4
+Nick Woltemade,GB1,Attack,Centre-Forward,24.3,2004,8,3,55000000.0,24804215.4
+Carlos Baleba,GB1,Midfield,Defensive Midfield,22.4,1662,0,0,55000000.0,26846087.3
+Jérémy Jacquet,FR1,Defender,Centre-Back,20.9,1673,0,0,55000000.0,13115875.1
+Kai Havertz,GB1,Attack,Centre-Forward,27.0,583,2,3,55000000.0,34440191.7
+Nico Schlotterbeck,L1,Defender,Centre-Back,26.5,2520,5,2,55000000.0,39705373.9
+Marcus Thuram,IT1,Attack,Centre-Forward,28.9,1913,13,6,50000000.0,64546618.6
+Eduardo Camavinga,ES1,Midfield,Central Midfield,23.6,1526,1,0,50000000.0,18903781.3
+Alejandro Balde,ES1,Defender,Left-Back,22.7,1875,0,2,50000000.0,51588431.1
+Piero Hincapié,GB1,Defender,Centre-Back,24.4,1882,1,2,50000000.0,60222225.7
+Federico Dimarco,IT1,Defender,Left-Back,28.6,2704,7,18,50000000.0,51096286.9
+Manu Koné,IT1,Midfield,Central Midfield,25.1,2459,2,3,50000000.0,38686064.8
+Castello Lukeba,L1,Defender,Centre-Back,23.5,2177,1,0,50000000.0,21901190.6
+Nicolò Barella,IT1,Midfield,Central Midfield,29.3,2533,3,9,50000000.0,42658877.6
+Matheus Nunes,GB1,Defender,Right-Back,27.8,2865,1,7,50000000.0,32294320.4
+Rafael Leão,IT1,Attack,Left Winger,27.0,1861,9,3,50000000.0,42491111.4
+Rodri,GB1,Midfield,Defensive Midfield,30.0,1514,1,0,50000000.0,16991189.8
+Yann Bisseck,IT1,Defender,Centre-Back,25.5,1922,3,2,50000000.0,58988210.3
+Omar Marmoush,GB1,Attack,Centre-Forward,27.4,699,3,3,50000000.0,35398378.5
+Micky van de Ven,GB1,Defender,Centre-Back,25.2,3043,4,1,50000000.0,30464838.9
+Mohammed Kudus,GB1,Attack,Right Winger,25.9,1546,2,6,50000000.0,41602163.8
+Tijjani Reijnders,GB1,Midfield,Central Midfield,27.9,1636,5,2,50000000.0,38284602.6
+Felix Nmecha,L1,Midfield,Central Midfield,25.7,2190,2,3,50000000.0,29681958.5
+Noni Madueke,GB1,Attack,Right Winger,24.3,1217,3,1,50000000.0,42263246.8
+Ferran Torres,ES1,Attack,Centre-Forward,26.3,1975,16,2,50000000.0,77584737.2
+Maxence Lacroix,GB1,Defender,Centre-Back,26.2,3087,1,2,50000000.0,29521052.7
+Marc Cucurella,GB1,Defender,Left-Back,27.9,2710,1,4,50000000.0,23468862.1
+Murillo,GB1,Defender,Centre-Back,23.9,2133,1,0,50000000.0,33465789.5
+Álvaro Carreras,ES1,Defender,Left-Back,23.2,2334,2,3,50000000.0,29911403.9
+Johan Manzambi,L1,Midfield,Central Midfield,20.7,2096,5,5,50000000.0,21020364.8
+Mateus Fernandes,GB1,Midfield,Central Midfield,21.9,3026,3,4,50000000.0,39953076.2
+Abdukodir Khusanov,GB1,Defender,Centre-Back,22.3,1429,0,0,50000000.0,32659669.9
+Alberto Moleiro,ES1,Attack,Left Winger,22.7,2491,10,6,50000000.0,63227639.9
+Leny Yoro,GB1,Defender,Centre-Back,20.6,1739,0,2,50000000.0,36692914.7
+Ayyoub Bouaddi,FR1,Midfield,Central Midfield,18.7,2328,0,1,50000000.0,23756757.0
+Maghnes Akliouche,FR1,Attack,Right Winger,24.3,2410,6,7,50000000.0,20681426.5
+Alex Scott,GB1,Midfield,Central Midfield,22.8,2860,3,1,50000000.0,33174686.0
+Éderson,IT1,Midfield,Central Midfield,26.9,2235,2,1,45000000.0,19088385.4
+Yankuba Minteh,GB1,Attack,Right Winger,21.9,2401,3,4,45000000.0,36363600.8
+Ibrahim Maza,L1,Midfield,Attacking Midfield,20.6,1854,3,5,45000000.0,32080346.4
+Franco Mastantuono,ES1,Attack,Right Winger,18.8,1037,1,0,45000000.0,19590853.4
+Amadou Onana,GB1,Midfield,Defensive Midfield,24.8,1764,2,0,45000000.0,35734010.3
+Ibrahima Konaté,GB1,Defender,Centre-Back,27.1,3100,1,0,45000000.0,29427241.0
+Can Uzun,L1,Midfield,Attacking Midfield,20.6,1164,8,5,45000000.0,18386342.6
+Gabriel Martinelli,GB1,Attack,Left Winger,25.0,1073,1,4,45000000.0,33528343.8
+Cristian Romero,GB1,Defender,Centre-Back,28.1,1873,4,1,45000000.0,23316157.4
+Rodrygo,ES1,Attack,Right Winger,25.4,676,1,4,45000000.0,19164663.1
+Jarell Quansah,L1,Defender,Centre-Back,23.4,2302,4,0,45000000.0,22476849.7
+Jan Paul van Hecke,GB1,Defender,Centre-Back,26.0,3211,3,3,45000000.0,30763345.0
+Tino Livramento,GB1,Defender,Right-Back,23.6,1328,0,1,45000000.0,18625038.2
+Malick Thiaw,GB1,Defender,Centre-Back,24.9,2964,4,0,45000000.0,27515870.6
+Said El Mala,L1,Attack,Left Winger,19.8,1958,13,5,45000000.0,23111275.8
+Gianluigi Donnarumma,GB1,Goalkeeper,Goalkeeper,27.3,3060,0,0,45000000.0,40894962.2
+James Garner,GB1,Midfield,Defensive Midfield,25.3,3414,2,7,45000000.0,37321172.1
+Joan García,ES1,Goalkeeper,Goalkeeper,25.1,2700,0,0,45000000.0,63522605.7
+Donyell Malen,IT1,Attack,Centre-Forward,27.4,2123,18,3,45000000.0,33942637.7
+Amad Diallo,GB1,Attack,Right Winger,23.9,2346,2,4,45000000.0,55395619.0
+Pio Esposito,IT1,Attack,Centre-Forward,21.0,1560,7,4,45000000.0,54144153.7
+Myles Lewis-Skelly,GB1,Defender,Left-Back,19.7,698,0,0,45000000.0,21669593.1
+Angelo Stiller,L1,Midfield,Defensive Midfield,25.2,2746,2,6,45000000.0,32091062.6
+Eric García,ES1,Defender,Centre-Back,25.4,2730,1,2,40000000.0,49719424.5
+Mamadou Sangaré,FR1,Midfield,Central Midfield,24.0,2327,3,4,40000000.0,28544403.8
+Nico González,GB1,Midfield,Defensive Midfield,24.4,1567,1,0,40000000.0,32281134.6
+Lamine Camara,FR1,Midfield,Central Midfield,22.5,1851,3,4,40000000.0,19342124.6
+Antony,ES1,Attack,Right Winger,26.3,2460,8,6,40000000.0,31218133.7
+Nicolas Jackson,L1,Attack,Centre-Forward,25.0,1004,8,2,40000000.0,37903904.5
+Xavi Simons,GB1,Midfield,Attacking Midfield,23.2,1847,2,5,40000000.0,42643766.1
+Jorrel Hato,GB1,Defender,Left-Back,20.3,1143,0,0,40000000.0,14309569.4
+Senny Mayulu,FR1,Midfield,Central Midfield,20.1,1682,4,4,40000000.0,58887942.7
+Tom Bischof,L1,Midfield,Central Midfield,21.0,1294,3,3,40000000.0,42428702.7
+Lisandro Martínez,GB1,Defender,Centre-Back,28.4,1231,0,0,40000000.0,21431930.5
+Josip Stanisic,L1,Defender,Right-Back,26.2,1855,2,4,40000000.0,36144972.2
+Pape Gueye,ES1,Midfield,Central Midfield,27.4,2143,5,2,40000000.0,34761101.6
+Maximilian Beier,L1,Attack,Centre-Forward,23.7,2037,9,9,40000000.0,56316821.2
+Rayan Aït-Nouri,GB1,Defender,Left-Back,25.0,976,0,2,40000000.0,30862807.5
+Strahinja Pavlović,IT1,Defender,Centre-Back,25.1,2870,5,1,40000000.0,33145186.7
+Karim Adeyemi,L1,Attack,Right Winger,24.4,1196,7,4,40000000.0,27284833.8
+Folarin Balogun,FR1,Attack,Centre-Forward,25.0,2247,13,5,40000000.0,19094852.0
+Bart Verbruggen,GB1,Goalkeeper,Goalkeeper,23.8,3420,0,0,40000000.0,39171985.5
+Jamie Leweling,L1,Attack,Right Winger,25.3,2379,7,9,40000000.0,34150631.5
+Álex Baena,ES1,Attack,Left Winger,24.9,1572,2,3,40000000.0,23596814.3
+Michael Kayode,GB1,Defender,Right-Back,21.9,3264,1,1,40000000.0,27983986.7
+Jobe Bellingham,L1,Midfield,Central Midfield,20.7,1785,0,2,40000000.0,28199448.1
+Petar Sučić,IT1,Midfield,Central Midfield,22.6,1764,2,2,40000000.0,38456145.4
+João Gomes,GB1,Midfield,Central Midfield,25.3,2835,1,1,40000000.0,13703791.5
+Jarrad Branthwaite,GB1,Defender,Centre-Back,24.0,681,1,1,40000000.0,18639889.2
+Giuliano Simeone,ES1,Attack,Right Winger,23.5,2110,4,6,40000000.0,32341596.5
+Andrey Santos,GB1,Midfield,Central Midfield,22.1,1255,1,0,40000000.0,29147340.1
+Trevoh Chalobah,GB1,Defender,Centre-Back,26.9,2782,3,0,40000000.0,25484409.8
+Lewis Hall,GB1,Defender,Left-Back,21.8,2180,1,1,40000000.0,30804692.3
+Bazoumana Touré,L1,Attack,Left Winger,20.3,2326,5,12,40000000.0,33412576.5
+Gregor Kobel,L1,Goalkeeper,Goalkeeper,28.5,3060,0,0,40000000.0,24092094.3
+Marcus Rashford,ES1,Attack,Left Winger,28.6,1762,8,9,40000000.0,43548040.7
+Ilya Zabarnyi,FR1,Defender,Centre-Back,23.8,2387,1,0,40000000.0,48430697.4
+Nathaniel Brown,L1,Defender,Left-Back,23.0,2658,4,4,40000000.0,15802988.2
+Nico Williams,ES1,Attack,Left Winger,23.9,1689,6,4,40000000.0,13879515.9
+Christoph Baumgartner,L1,Midfield,Attacking Midfield,26.9,2793,13,9,40000000.0,44798944.9
+Scott McTominay,IT1,Midfield,Central Midfield,29.5,2793,10,3,40000000.0,39147108.0
+Christian Pulisic,IT1,Attack,Right Winger,27.7,1612,8,4,40000000.0,32146915.8
+Abde Ezzalzouli,ES1,Attack,Left Winger,24.5,2255,10,9,40000000.0,45683949.8
+Christian Kofane,L1,Attack,Centre-Forward,19.9,1235,5,5,40000000.0,26989760.4
+Boubacar Kamara,GB1,Midfield,Defensive Midfield,26.6,1418,1,3,40000000.0,26434461.6
+Valentín Barco,FR1,Midfield,Central Midfield,21.9,2171,2,4,40000000.0,19715360.6
+Cristhian Mosquera,GB1,Defender,Centre-Back,22.0,989,0,0,40000000.0,35328385.4
+Ademola Lookman,IT1,Attack,Left Winger,28.7,1419,6,0,40000000.0,16450789.6
+Ezri Konsa,GB1,Defender,Centre-Back,28.6,3036,0,0,40000000.0,26810958.4
+Ismaïla Sarr,GB1,Attack,Right Winger,28.3,2177,9,1,40000000.0,33498256.5
+Wesley,IT1,Defender,Right-Back,22.8,2458,5,1,40000000.0,30719459.0
+Endrick,FR1,Attack,Centre-Forward,19.9,1235,5,7,40000000.0,25603406.7
+Alphonso Davies,L1,Defender,Left-Back,25.6,523,1,3,40000000.0,14736942.5
+Kaishu Sano,L1,Midfield,Defensive Midfield,25.5,3060,1,3,40000000.0,12754706.1
+Jørgen Strand Larsen,GB1,Attack,Centre-Forward,26.4,2315,4,1,40000000.0,13020144.1
+Giorgio Scalvini,IT1,Defender,Centre-Back,22.5,1817,3,1,38000000.0,19434519.5
+Khéphren Thuram,IT1,Midfield,Central Midfield,25.2,2453,3,3,38000000.0,35724057.1
+Bremer,IT1,Defender,Centre-Back,29.2,2175,4,3,35000000.0,13111143.1
+Finn Jeltsch,L1,Defender,Centre-Back,19.9,1506,0,1,35000000.0,23356133.4
+Patrick Dorgu,GB1,Attack,Left Winger,21.6,1445,4,4,35000000.0,37024491.5
+Lucas Bergvall,GB1,Midfield,Central Midfield,20.4,967,1,3,35000000.0,20598923.2
+Habib Diarra,GB1,Midfield,Central Midfield,22.4,1409,2,3,35000000.0,38539359.4
+Brahim Díaz,ES1,Attack,Right Winger,26.9,1252,1,8,35000000.0,18681866.7
+Fisnik Asllani,L1,Attack,Centre-Forward,23.9,2358,10,9,35000000.0,27856149.6
+Frenkie de Jong,ES1,Midfield,Central Midfield,29.1,1631,1,5,35000000.0,32493138.6
+Senne Lammens,GB1,Goalkeeper,Goalkeeper,23.9,2880,0,0,35000000.0,29600257.8
+Archie Gray,GB1,Midfield,Defensive Midfield,20.3,1480,2,2,35000000.0,43308565.5
+Jacob Ramsey,GB1,Midfield,Central Midfield,25.0,1445,2,3,35000000.0,18302919.7
+Crysencio Summerville,GB1,Attack,Left Winger,24.6,2484,5,4,35000000.0,25482153.3
+Estéban Lepaul,FR1,Attack,Centre-Forward,26.2,2705,21,5,35000000.0,27619524.5
+Ethan Nwaneri,FR1,Midfield,Attacking Midfield,19.2,487,2,1,35000000.0,7582311.5
+Kiernan Dewsbury-Hall,GB1,Midfield,Central Midfield,27.8,2638,8,6,35000000.0,24834822.3
+Mile Svilar,IT1,Goalkeeper,Goalkeeper,26.8,3420,0,0,35000000.0,34014056.2
+Marco Palestra,IT1,Defender,Right-Back,21.3,3085,1,4,35000000.0,10724677.6
+Joaquín Panichelli,FR1,Attack,Centre-Forward,23.7,2196,16,1,35000000.0,26681677.1
+Dušan Vlahović,IT1,Attack,Centre-Forward,26.4,970,7,1,35000000.0,23268631.8
+Jeremie Frimpong,GB1,Defender,Right-Back,25.5,1040,0,2,35000000.0,25845233.0
+Sven Botman,GB1,Defender,Centre-Back,26.4,1839,1,1,35000000.0,13935595.0
+Dávid Hancko,ES1,Defender,Centre-Back,28.5,2433,0,2,35000000.0,11578857.7
+Ferdi Kadıoğlu,GB1,Defender,Left-Back,26.7,3134,1,0,35000000.0,18159276.7
+Evan Ndicka,IT1,Defender,Centre-Back,26.8,2683,3,0,35000000.0,40024813.8
+Kevin Schade,GB1,Attack,Left Winger,24.5,2758,8,4,35000000.0,40704700.2
+Bruno Fernandes,GB1,Midfield,Attacking Midfield,31.8,3068,9,21,35000000.0,31036298.5
+Curtis Jones,GB1,Midfield,Central Midfield,25.4,1930,1,2,35000000.0,22844996.7
+Milos Kerkez,GB1,Defender,Left-Back,22.6,2261,2,1,35000000.0,32988799.1
+Máximo Perrone,IT1,Midfield,Defensive Midfield,23.4,2750,3,4,35000000.0,40024458.7
+Pedro Porro,GB1,Defender,Right-Back,26.8,2798,1,2,35000000.0,28934566.4
+Gerard Martín,ES1,Defender,Centre-Back,24.3,2122,0,0,35000000.0,36668221.5
+Joshua Kimmich,L1,Midfield,Defensive Midfield,31.3,2282,2,8,35000000.0,23669927.5
+Malo Gusto,GB1,Defender,Right-Back,23.1,2268,2,3,35000000.0,19486546.0
+Savinho,GB1,Attack,Left Winger,22.2,821,1,2,35000000.0,27563938.3
+Dango Ouattara,GB1,Attack,Right Winger,24.3,2282,7,8,35000000.0,35190871.8
+Evanilson,GB1,Attack,Centre-Forward,26.7,2762,6,3,35000000.0,33193176.4
+Ange-Yoan Bonny,IT1,Attack,Centre-Forward,22.6,1130,5,6,35000000.0,30330745.0
+Bilal El Khannouss,L1,Midfield,Attacking Midfield,22.1,1635,4,5,35000000.0,34563650.5
+Matias Fernandez-Pardo,FR1,Attack,Centre-Forward,21.4,2382,8,5,35000000.0,32109611.5
+Edmond Tapsoba,L1,Defender,Centre-Back,27.4,2576,5,3,35000000.0,23745196.1
+Igor Paixão,FR1,Attack,Left Winger,26.0,1985,6,6,35000000.0,14861232.8
+Matías Soulé,IT1,Attack,Right Winger,23.2,2162,6,5,35000000.0,39205650.4
+Yasin Ayari,GB1,Midfield,Central Midfield,22.7,1925,3,3,35000000.0,28827767.8
+Noah Sadiki,GB1,Midfield,Central Midfield,21.5,2896,0,1,35000000.0,34357133.8
+Marc Pubill,ES1,Defender,Centre-Back,23.0,1382,1,1,35000000.0,10303025.9
+Harvey Barnes,GB1,Attack,Left Winger,28.5,1961,7,1,32000000.0,17424325.5
+Serhou Guirassy,L1,Attack,Centre-Forward,30.3,2351,17,2,32000000.0,27535892.1
+Antonio Nusa,L1,Attack,Left Winger,21.2,2040,4,3,32000000.0,34059029.6
+Sepp van den Berg,GB1,Defender,Centre-Back,24.5,2761,0,2,32000000.0,33464730.9
+Yegor Yarmolyuk,GB1,Midfield,Central Midfield,22.3,2667,1,2,32000000.0,30247215.6
+Anthony Elanga,GB1,Attack,Right Winger,24.1,1313,0,1,32000000.0,25071000.4
+Pierre Kalulu,IT1,Defender,Centre-Back,26.0,3282,2,5,32000000.0,26954087.5
+Conor Gallagher,GB1,Midfield,Central Midfield,26.4,1856,3,1,32000000.0,19505988.1
+Konrad Laimer,L1,Defender,Right-Back,29.1,1997,3,9,32000000.0,31816105.4
+Lucas Paquetá,GB1,Midfield,Attacking Midfield,28.8,1522,4,1,32000000.0,22090013.2
+Santiago Castro,IT1,Attack,Centre-Forward,21.7,2365,7,3,32000000.0,27543051.6
+Moise Kean,IT1,Attack,Centre-Forward,26.3,2041,8,1,32000000.0,13624721.4
+Dan Ndoye,GB1,Attack,Right Winger,25.6,1176,1,1,32000000.0,24718313.3
+Thierno Barry,GB1,Attack,Centre-Forward,23.6,1915,8,0,30000000.0,29386165.6
+Leon Avdullahu,L1,Midfield,Defensive Midfield,22.3,2838,0,1,30000000.0,23168272.6
+Víctor Muñoz,ES1,Attack,Left Winger,22.9,2670,6,2,30000000.0,16022215.1
+Marco Carnesecchi,IT1,Goalkeeper,Goalkeeper,26.0,3330,0,0,30000000.0,18645517.1
+Nikola Krstović,IT1,Attack,Centre-Forward,26.2,1786,10,5,30000000.0,22827252.1
+Gonzalo García,ES1,Attack,Centre-Forward,22.2,952,6,1,30000000.0,19757570.9
+Diogo Dalot,GB1,Defender,Right-Back,27.2,2616,1,3,30000000.0,30259986.7
+Mikel Jauregizar,ES1,Midfield,Central Midfield,22.6,2843,2,0,30000000.0,17645776.9
+Charles De Ketelaere,IT1,Midfield,Attacking Midfield,25.3,2190,3,5,30000000.0,30132726.0
+Weston McKennie,IT1,Midfield,Central Midfield,27.8,2841,5,6,30000000.0,26567354.4
+Tyler Morton,FR1,Midfield,Defensive Midfield,23.6,2524,2,2,30000000.0,14370790.5
+Mario Gila,IT1,Defender,Centre-Back,25.8,2482,0,0,30000000.0,11924252.9
+Jean-Philippe Mateta,GB1,Attack,Centre-Forward,29.0,2223,12,0,30000000.0,25817265.7
+Rômulo,L1,Attack,Centre-Forward,24.3,2209,9,4,30000000.0,38190766.6
+Gavi,ES1,Midfield,Central Midfield,21.9,574,0,1,30000000.0,16659977.4
+Jonathan Burkardt,L1,Attack,Centre-Forward,25.9,1340,13,1,30000000.0,15217915.4
+Fabián Ruiz,FR1,Midfield,Central Midfield,30.2,1129,1,4,30000000.0,20641265.9
+Alessandro Buongiorno,IT1,Defender,Centre-Back,27.0,2522,0,1,30000000.0,23726270.3
+Omari Hutchinson,GB1,Midfield,Attacking Midfield,22.6,1684,1,7,30000000.0,31755169.0
+Callum Hudson-Odoi,GB1,Attack,Left Winger,25.6,1848,3,4,30000000.0,27947947.6
+Ethan Ampadu,GB1,Midfield,Defensive Midfield,25.7,3123,1,1,30000000.0,25667162.8
+Malick Fofana,FR1,Attack,Left Winger,21.2,754,2,1,30000000.0,14531598.7
+Jamie Gittens,GB1,Attack,Left Winger,21.9,490,0,2,30000000.0,35555722.7
+Vitor Reis,ES1,Defender,Centre-Back,20.4,3138,1,1,30000000.0,12163372.5
+Honest Ahanor,IT1,Defender,Centre-Back,18.3,1375,0,0,30000000.0,19873387.4
+Ayden Heaven,GB1,Defender,Centre-Back,19.7,923,0,1,30000000.0,21612886.6
+Youri Tielemans,GB1,Midfield,Central Midfield,29.1,1863,0,4,30000000.0,26235396.0
+Adrien Truffert,GB1,Defender,Left-Back,24.6,3380,1,5,30000000.0,31961263.8
+Matthijs de Ligt,GB1,Defender,Centre-Back,26.8,1170,1,0,30000000.0,29092098.0
+Ben White,GB1,Defender,Right-Back,28.7,704,0,1,30000000.0,12850081.0
+Robin Risser,FR1,Goalkeeper,Goalkeeper,21.5,2970,0,1,30000000.0,23929841.9
+Marc Bernal,ES1,Midfield,Defensive Midfield,19.1,787,2,1,30000000.0,17188627.3
+Jacobo Ramón,IT1,Defender,Centre-Back,21.4,2743,2,0,30000000.0,38248760.1
+Assane Diao,IT1,Attack,Left Winger,20.8,1084,2,1,30000000.0,28733054.1
+Mikkel Damsgaard,GB1,Midfield,Attacking Midfield,25.9,2058,4,4,30000000.0,25585427.2
+Ian Maatsen,GB1,Defender,Left-Back,24.3,1599,0,2,30000000.0,16134253.6
+Rio Ngumoha,GB1,Attack,Left Winger,17.8,551,2,1,30000000.0,16511871.5
+Pape Matar Sarr,GB1,Midfield,Central Midfield,23.8,1389,2,4,30000000.0,26400007.4
+David Raya,GB1,Goalkeeper,Goalkeeper,30.7,3330,0,0,30000000.0,36740619.5
+Yéremy Pino,GB1,Attack,Right Winger,23.7,2252,2,3,30000000.0,27068899.3
+Jarrod Bowen,GB1,Attack,Right Winger,29.5,3409,9,11,30000000.0,37965327.4
+Niccolò Pisilli,IT1,Midfield,Central Midfield,21.7,1285,2,4,30000000.0,21698756.9
+Brian Brobbey,GB1,Attack,Centre-Forward,24.4,1934,7,1,30000000.0,22633705.6
+Djed Spence,GB1,Defender,Left-Back,25.8,2056,0,0,30000000.0,18148297.7
+Francisco Conceição,IT1,Attack,Right Winger,23.5,2098,3,5,30000000.0,26877556.3
+Georges Mikautadze,ES1,Attack,Centre-Forward,25.6,2297,14,6,30000000.0,69119663.7
+Brennan Johnson,GB1,Attack,Right Winger,25.1,1723,2,1,30000000.0,22891145.5
+Destiny Udogie,GB1,Defender,Left-Back,23.5,1342,0,1,30000000.0,20985414.1
+Gonçalo Ramos,FR1,Attack,Centre-Forward,25.0,1309,6,1,30000000.0,24969457.9
+Martin Baturina,IT1,Midfield,Attacking Midfield,23.3,1569,6,3,30000000.0,26467070.5
+Nathan Collins,GB1,Defender,Centre-Back,25.1,2972,1,2,30000000.0,34594756.0
+Ibrahim Mbaye,FR1,Attack,Right Winger,18.4,998,3,2,30000000.0,31469531.8
+Jesús Rodríguez,IT1,Attack,Left Winger,20.6,1735,2,9,30000000.0,37450825.6
+Malik Tillman,L1,Midfield,Attacking Midfield,24.0,1677,6,1,30000000.0,18362437.3
+Jonathan David,IT1,Attack,Centre-Forward,26.4,1784,6,4,30000000.0,21368256.6
+Georginio Rutter,GB1,Attack,Centre-Forward,24.2,1791,3,4,30000000.0,21581848.1
+Matvey Safonov,FR1,Goalkeeper,Goalkeeper,27.3,1350,0,0,30000000.0,13338500.4
+Assan Ouédraogo,L1,Midfield,Central Midfield,20.1,955,4,3,28000000.0,24812597.6
+Chris Richards,GB1,Defender,Centre-Back,26.2,2826,1,0,28000000.0,24616553.2
+Jonathan Tah,L1,Defender,Centre-Back,30.3,2019,2,1,28000000.0,25893724.4
+Jonathan Rowe,IT1,Attack,Left Winger,23.1,1674,3,3,28000000.0,13497103.5
+Caoimhín Kelleher,GB1,Goalkeeper,Goalkeeper,27.6,3330,0,0,28000000.0,19030599.6
+William Osula,GB1,Attack,Centre-Forward,22.9,811,7,0,28000000.0,16652169.5
+Giorgi Mamardashvili,GB1,Goalkeeper,Goalkeeper,25.7,868,0,0,28000000.0,14562665.2
+Anton Stach,GB1,Midfield,Defensive Midfield,27.6,2378,5,3,28000000.0,35791717.9
+Alisson Santos,IT1,Attack,Left Winger,23.7,836,4,0,28000000.0,15353647.2
+Neco Williams,GB1,Defender,Left-Back,25.2,3206,2,3,28000000.0,33964480.2
+Robin Roefs,GB1,Goalkeeper,Goalkeeper,23.4,3150,0,0,28000000.0,33685645.4
+Jaydee Canvot,GB1,Defender,Centre-Back,19.9,1514,0,0,28000000.0,27448357.1
+Marquinhos,FR1,Defender,Centre-Back,32.1,1049,0,0,28000000.0,7701628.5
+Maxime Estève,GB1,Defender,Centre-Back,24.1,2938,0,0,28000000.0,10099175.8
+Kang-in Lee,FR1,Midfield,Attacking Midfield,25.3,1522,3,4,28000000.0,46830381.4
+Oscar Bobb,GB1,Attack,Right Winger,22.9,1037,0,1,28000000.0,10232282.3
+Taty Castellanos,GB1,Attack,Centre-Forward,27.7,2090,8,3,28000000.0,24309687.3
+Jack Hinshelwood,GB1,Midfield,Defensive Midfield,21.2,1751,4,4,28000000.0,30206085.4
+Calvin Bassey,GB1,Defender,Centre-Back,26.5,2532,1,1,28000000.0,27259676.4
+Liam Delap,GB1,Attack,Centre-Forward,23.3,1101,1,1,28000000.0,20648036.3
+Wesley Fofana,GB1,Defender,Centre-Back,25.5,1726,0,1,28000000.0,15108844.3
+Enzo Le Fée,GB1,Midfield,Central Midfield,26.4,2936,5,6,28000000.0,29724406.0
+Nikola Milenković,GB1,Defender,Centre-Back,28.7,3375,0,0,28000000.0,34574663.3
+Hugo Larsson,L1,Midfield,Central Midfield,22.0,1820,2,2,28000000.0,12765732.6
+Dominic Solanke,GB1,Attack,Centre-Forward,28.8,1001,3,0,28000000.0,23508242.9
+Dean Henderson,GB1,Goalkeeper,Goalkeeper,29.3,3330,0,0,28000000.0,27008976.0
+Matteo Ruggeri,ES1,Defender,Left-Back,23.9,1775,0,3,28000000.0,15474756.8
+El Hadji Malick Diouf,GB1,Defender,Left-Back,21.5,2711,0,5,28000000.0,21359580.9
+Brajan Gruda,L1,Midfield,Attacking Midfield,22.0,1471,4,4,28000000.0,21212490.8
+Alejandro Garnacho,GB1,Attack,Left Winger,22.0,1268,1,4,28000000.0,32643043.9
+Djordje Petrovic,GB1,Goalkeeper,Goalkeeper,26.7,3420,0,0,28000000.0,28996289.9
+Amine Gouiri,FR1,Attack,Centre-Forward,26.3,1331,8,3,28000000.0,18563271.6
+Dilane Bakwa,GB1,Attack,Right Winger,23.8,657,1,5,28000000.0,53046180.3
+Karim Coulibaly,L1,Defender,Centre-Back,19.1,2122,1,0,28000000.0,12650193.1
+Mattéo Guendouzi,IT1,Midfield,Central Midfield,27.2,1430,2,1,27000000.0,12414172.5
+Konstantinos Koulierakis,L1,Defender,Centre-Back,22.5,2481,4,1,25000000.0,13555330.3
+Carlos Romero,ES1,Defender,Left-Back,24.6,3195,6,3,25000000.0,15614338.8
+Mikel Oyarzabal,ES1,Attack,Centre-Forward,29.1,2715,15,4,25000000.0,16931757.9
+Ollie Watkins,GB1,Attack,Centre-Forward,30.5,2854,16,3,25000000.0,29446197.5
+Tyrick Mitchell,GB1,Defender,Left-Back,26.8,3255,1,2,25000000.0,25194792.5
+Natan,ES1,Defender,Centre-Back,25.4,2810,0,0,25000000.0,21695874.9
+Tylel Tati,FR1,Defender,Centre-Back,18.4,1724,0,0,25000000.0,5902817.8
+Noah Okafor,GB1,Attack,Left Winger,26.1,1569,8,1,25000000.0,24797002.4
+Ernest Poku,L1,Attack,Right Winger,22.4,1485,5,5,25000000.0,18547527.7
+Mason Mount,GB1,Midfield,Attacking Midfield,27.4,1017,3,0,25000000.0,19569518.9
+Justin Kluivert,GB1,Midfield,Attacking Midfield,27.1,953,2,0,25000000.0,33855688.8
+Denzel Dumfries,IT1,Defender,Right-Back,30.2,1328,3,1,25000000.0,16599576.2
+Tyler Adams,GB1,Midfield,Defensive Midfield,27.3,1779,2,2,25000000.0,25857925.3
+Christopher Nkunku,IT1,Attack,Centre-Forward,28.6,1351,7,3,25000000.0,10320861.4
+Tarik Muharemović,IT1,Defender,Centre-Back,23.3,2835,2,2,25000000.0,10795626.4
+Sander Berge,GB1,Midfield,Defensive Midfield,28.3,2911,0,1,25000000.0,27352037.3
+Jon Gorrotxategi,ES1,Midfield,Defensive Midfield,24.4,2215,1,3,25000000.0,9698956.0
+David Raum,L1,Defender,Left-Back,28.1,2556,3,7,25000000.0,21662482.6
+Manuel Locatelli,IT1,Midfield,Defensive Midfield,28.4,3005,1,2,25000000.0,21686297.7
+Mikel Merino,GB1,Midfield,Central Midfield,30.0,1027,4,3,25000000.0,21527491.7
+Gianluca Scamacca,IT1,Attack,Centre-Forward,27.5,1319,10,1,25000000.0,14574499.4
+Joelinton,GB1,Midfield,Central Midfield,29.8,1956,2,1,25000000.0,15924382.4
+Denis Zakaria,FR1,Midfield,Defensive Midfield,29.6,2034,2,1,25000000.0,9488244.2
+Mats Wieffer,GB1,Defender,Right-Back,26.6,1908,2,3,25000000.0,17493207.4
+Jon Martín,ES1,Defender,Centre-Back,20.1,2250,2,0,25000000.0,17547106.6
+Arnaud Kalimuendo,L1,Attack,Centre-Forward,24.4,1509,6,1,25000000.0,10891360.2
+Renato Veiga,ES1,Defender,Centre-Back,22.9,2478,0,0,25000000.0,27615781.6
+Lewis Miley,GB1,Midfield,Central Midfield,20.1,1494,1,4,25000000.0,26892426.1
+Lucas Chevalier,FR1,Goalkeeper,Goalkeeper,24.6,1530,0,0,25000000.0,30554891.3
+Bafodé Diakité,GB1,Defender,Centre-Back,25.4,1275,0,0,25000000.0,22895963.9
+Marcos Senesi,GB1,Defender,Centre-Back,29.1,3290,0,5,25000000.0,16017121.2
+Kenneth Taylor,IT1,Midfield,Central Midfield,24.1,1402,3,2,25000000.0,9778707.5
+Ardon Jashari,IT1,Midfield,Defensive Midfield,23.9,700,0,1,25000000.0,7968103.6
+Charlie Cresswell,FR1,Defender,Centre-Back,23.8,2533,3,2,25000000.0,14373433.0
+Manuel Ugarte,GB1,Midfield,Defensive Midfield,25.2,881,0,0,25000000.0,19463648.8
+Albian Hajdari,L1,Defender,Centre-Back,23.1,2440,1,2,25000000.0,15989689.4
+André,GB1,Midfield,Defensive Midfield,24.9,2766,1,0,25000000.0,15025499.6
+Oihan Sancet,ES1,Midfield,Attacking Midfield,26.1,1804,4,0,25000000.0,8466653.6
+Evann Guessand,GB1,Attack,Right Winger,25.0,916,1,1,25000000.0,28558949.3
+Mike Penders,FR1,Goalkeeper,Goalkeeper,20.9,2970,0,0,25000000.0,21408427.1
+Harry Wilson,GB1,Attack,Right Winger,29.2,2694,10,7,25000000.0,22653194.8
+Javi Guerra,ES1,Midfield,Central Midfield,23.1,2070,4,6,25000000.0,13603646.5
+Arthur Atta,IT1,Midfield,Central Midfield,23.4,2563,5,4,25000000.0,15125779.9
+Anastasios Douvikas,IT1,Attack,Centre-Forward,26.9,2278,14,2,25000000.0,33538023.1
+Nathan Ngoy,FR1,Defender,Centre-Back,23.0,2404,1,2,25000000.0,11491624.0
+Noah Atubolu,L1,Goalkeeper,Goalkeeper,24.1,3060,0,0,25000000.0,15363787.2
+Ramon Hendriks,L1,Defender,Centre-Back,24.9,2023,0,3,25000000.0,13934101.4
+Ismaël Koné,IT1,Midfield,Central Midfield,24.0,2757,6,0,25000000.0,14012882.5
+Conor Bradley,GB1,Defender,Right-Back,22.9,933,0,2,25000000.0,18625184.2
+Diego Moreira,FR1,Midfield,Left Midfield,21.9,2045,4,7,25000000.0,24988178.5
+Loïs Openda,IT1,Attack,Centre-Forward,26.3,702,1,0,25000000.0,10309451.7
+Julian Ryerson,L1,Defender,Right-Back,28.6,2274,0,15,25000000.0,22680917.3
+Chemsdine Talbi,GB1,Attack,Right Winger,21.1,1564,4,2,25000000.0,25892389.4
+Julio Enciso,FR1,Midfield,Attacking Midfield,22.4,1893,3,6,25000000.0,20036415.4
+Richarlison,GB1,Attack,Centre-Forward,29.1,1960,11,4,25000000.0,21866532.1
+Yoane Wissa,GB1,Attack,Centre-Forward,29.8,521,1,1,25000000.0,16752472.1
+Josh King,GB1,Midfield,Attacking Midfield,19.4,1304,1,2,25000000.0,23731011.1
+Samson Baidoo,FR1,Defender,Centre-Back,22.2,1827,2,1,25000000.0,18504329.9
+Josh Acheampong,GB1,Defender,Right-Back,20.1,663,1,0,25000000.0,8809722.0
+Marcus Tavernier,GB1,Midfield,Attacking Midfield,27.2,2743,7,4,25000000.0,30823205.2
+Igor Jesus,GB1,Attack,Centre-Forward,25.3,2315,6,4,25000000.0,22791147.2
+Exequiel Palacios,L1,Midfield,Central Midfield,27.7,1097,0,1,25000000.0,9976604.7
+Kevin,GB1,Attack,Left Winger,23.4,1038,1,2,25000000.0,9848715.3
+Hákon Arnar Haraldsson,FR1,Midfield,Attacking Midfield,23.2,2477,8,3,25000000.0,26361991.8
+Chris Rigg,GB1,Midfield,Attacking Midfield,19.0,766,1,1,25000000.0,13116910.5
+Keane Lewis-Potter,GB1,Midfield,Left Midfield,25.3,1970,3,3,25000000.0,18330995.7
+Nicolas Seiwald,L1,Midfield,Defensive Midfield,25.1,2704,0,2,25000000.0,25947867.5
+Diego Gómez,GB1,Midfield,Central Midfield,23.2,2139,5,1,25000000.0,22279222.9
+Quinten Timber,FR1,Midfield,Central Midfield,25.0,1112,0,0,25000000.0,8230761.7
+Vitaliy Mykolenko,GB1,Defender,Left-Back,27.0,2961,0,1,25000000.0,24953176.3
+Jean-Mattéo Bahoya,L1,Attack,Left Winger,21.1,1330,3,4,25000000.0,9160339.7
+Yuito Suzuki,L1,Attack,Second Striker,24.6,1637,4,3,24000000.0,8076361.5
+Nicolò Rovella,IT1,Midfield,Defensive Midfield,24.5,512,0,1,23000000.0,6888324.8
+Carlos Augusto,IT1,Defender,Left-Back,27.4,1753,1,2,23000000.0,25301954.9
+James Hill,GB1,Defender,Centre-Back,24.4,2104,0,3,23000000.0,17821261.9
+David Neres,IT1,Attack,Right Winger,29.3,925,3,3,23000000.0,13198099.3
+Youssouf Fofana,IT1,Midfield,Defensive Midfield,27.4,2217,2,3,23000000.0,21985449.3
+Koni De Winter,IT1,Defender,Centre-Back,24.0,1798,1,1,23000000.0,22483678.3
+Neil El Aynaoui,IT1,Midfield,Central Midfield,25.0,991,1,2,23000000.0,14066356.4
+Lloyd Kelly,IT1,Defender,Centre-Back,27.7,2998,1,1,23000000.0,15238655.7
+Oumar Solet,IT1,Defender,Centre-Back,26.4,2961,3,1,23000000.0,11635664.8
+Lesley Ugochukwu,GB1,Midfield,Defensive Midfield,22.2,2351,3,2,22000000.0,19262181.5
+Davide Frattesi,IT1,Midfield,Central Midfield,26.7,552,0,0,22000000.0,13471788.1
+Samir El Mourabet,FR1,Midfield,Central Midfield,20.7,2137,1,3,22000000.0,14521367.2
+Davide Bartesaghi,IT1,Defender,Left-Back,20.5,2443,2,0,22000000.0,26518757.9
+Sam Beukema,IT1,Defender,Centre-Back,27.6,1680,2,0,22000000.0,19805532.0
+Fábio Silva,L1,Attack,Centre-Forward,23.9,805,2,6,22000000.0,15378341.8
+Miguel Gutiérrez,IT1,Defender,Left-Back,24.9,1484,1,1,22000000.0,16371789.7
+Ryan Sessegnon,GB1,Defender,Left-Back,26.1,1822,3,3,22000000.0,22107522.3
+Isak Hien,IT1,Defender,Centre-Back,27.4,1965,1,0,22000000.0,12883968.3
+Simon Adingra,FR1,Attack,Left Winger,24.5,1520,4,3,22000000.0,8234339.6
+Mohamed Salah,GB1,Attack,Right Winger,34.0,2150,7,7,22000000.0,20950164.6
+Martial Godo,FR1,Attack,Left Winger,23.3,1587,10,2,22000000.0,18538776.2
+Giacomo Raspadori,IT1,Attack,Second Striker,26.3,1019,3,3,22000000.0,10002830.0
+Brenden Aaronson,GB1,Midfield,Attacking Midfield,25.6,2470,4,5,22000000.0,24207787.4
+Luis Henrique,IT1,Midfield,Right Midfield,24.5,1621,1,3,22000000.0,42836028.0
+Lucas Beraldo,FR1,Defender,Centre-Back,22.6,1571,2,1,22000000.0,36372242.7
+Igor Matanovic,L1,Attack,Centre-Forward,23.2,1563,11,2,22000000.0,12136527.8
+Trai Hume,GB1,Defender,Right-Back,24.2,3039,2,1,22000000.0,23208534.7
+Matty Cash,GB1,Defender,Right-Back,28.9,3022,3,3,22000000.0,22009511.9
+Jean-Clair Todibo,GB1,Defender,Centre-Back,26.5,1819,0,1,22000000.0,16209976.7
+Mamadou Sarr,FR1,Defender,Centre-Back,20.8,1406,0,0,22000000.0,13840211.0
+Robert Sánchez,GB1,Goalkeeper,Goalkeeper,28.6,3041,0,1,22000000.0,22745020.8
+Deniz Undav,L1,Attack,Centre-Forward,29.9,2249,19,6,22000000.0,24323968.9
+Chrislain Matsima,L1,Defender,Centre-Back,24.1,1490,1,1,22000000.0,7889857.6
+Noa Lang,IT1,Attack,Left Winger,27.0,661,1,2,22000000.0,5806451.2
+Dominic Calvert-Lewin,GB1,Attack,Centre-Forward,29.2,2730,14,1,22000000.0,25485952.3
+Bernardo Silva,GB1,Midfield,Attacking Midfield,31.8,2888,2,4,22000000.0,17323245.3
+Maxim De Cuyper,GB1,Defender,Left-Back,25.5,1414,2,3,22000000.0,12303050.3
+Ladislav Krejci,GB1,Defender,Centre-Back,27.2,2541,2,1,22000000.0,14394914.4
+Kaoru Mitoma,GB1,Attack,Left Winger,29.1,1722,3,1,22000000.0,25251669.0
+Nico González,ES1,Attack,Left Winger,28.2,1471,5,0,22000000.0,11327034.0
+Samuele Ricci,IT1,Midfield,Defensive Midfield,24.8,1297,1,4,22000000.0,14144640.0
+Pascal Struijk,GB1,Defender,Centre-Back,26.8,2937,0,1,22000000.0,17829965.1
+Daniel Muñoz,GB1,Defender,Right-Back,30.1,2404,4,3,22000000.0,16151241.4
+Ermedin Demirovic,L1,Attack,Centre-Forward,28.2,1498,12,4,22000000.0,25008952.3
+Álex Jiménez,GB1,Defender,Right-Back,21.1,2372,1,0,22000000.0,24101744.6
+Unai Simón,ES1,Goalkeeper,Goalkeeper,29.0,3330,0,0,22000000.0,6450877.2
+Daniel Svensson,L1,Defender,Left-Back,24.3,2453,2,2,22000000.0,23492765.7
+Mathys Tel,GB1,Attack,Centre-Forward,21.1,1342,4,1,22000000.0,25756936.6
+Antonee Robinson,GB1,Defender,Left-Back,28.9,1492,1,0,22000000.0,17152481.9
+Jhon Lucumí,IT1,Defender,Centre-Back,28.0,2287,1,0,22000000.0,10040233.9
+Randal Kolo Muani,GB1,Attack,Centre-Forward,27.5,1669,1,1,20000000.0,21273927.1
+Zion Suzuki,IT1,Goalkeeper,Goalkeeper,23.8,1800,0,0,20000000.0,8267789.4
+Joshua Zirkzee,GB1,Attack,Centre-Forward,25.1,609,2,1,20000000.0,14538149.5
+Ismaëlo Ganiou,FR1,Defender,Centre-Back,21.3,2014,3,0,20000000.0,26034926.0
+Leopold Querfeld,L1,Defender,Centre-Back,22.5,2704,3,0,20000000.0,16135191.4
+Vanja Milinković-Savić,IT1,Goalkeeper,Goalkeeper,29.3,2430,0,1,20000000.0,15769735.5
+Aleix García,L1,Midfield,Central Midfield,29.0,2676,3,9,20000000.0,20914864.4
+Lucas Da Cunha,IT1,Midfield,Central Midfield,25.0,2748,6,5,20000000.0,41857798.9
+Joachim Andersen,GB1,Defender,Centre-Back,30.0,2877,0,1,20000000.0,12976722.9
+Cher Ndour,IT1,Midfield,Central Midfield,21.9,1874,3,0,20000000.0,9325267.3
+Loïc Badé,L1,Defender,Centre-Back,26.2,1652,0,0,20000000.0,15396955.8
+Evan Ferguson,IT1,Attack,Centre-Forward,21.7,776,3,2,20000000.0,16380737.9
+Noahkai Banks,L1,Defender,Centre-Back,19.5,1727,1,1,20000000.0,13270346.5
+Arthur Vermeeren,FR1,Midfield,Defensive Midfield,21.3,823,0,1,20000000.0,7332665.7
+Dan Ballard,GB1,Defender,Centre-Back,26.7,2148,2,2,20000000.0,19614068.1
+Carney Chukwuemeka,L1,Midfield,Central Midfield,22.7,907,2,0,20000000.0,9140895.1
+Andy Diouf,IT1,Midfield,Central Midfield,23.1,569,1,0,20000000.0,17345764.5
+Alex Iwobi,GB1,Attack,Left Winger,30.1,2436,4,3,20000000.0,16452959.7
+Emile Smith Rowe,GB1,Midfield,Attacking Midfield,25.9,1928,3,0,20000000.0,19215366.6
+Lorenzo Lucca,IT1,Attack,Centre-Forward,25.8,528,2,0,20000000.0,11604209.1
+Chema Andrés,L1,Midfield,Defensive Midfield,21.1,1306,3,1,20000000.0,17456016.8
+Alejandro Grimaldo,L1,Defender,Left-Back,30.7,2524,8,8,20000000.0,12367350.7
+Kevin Danso,GB1,Defender,Centre-Back,27.7,1491,0,0,20000000.0,18457090.7
+Rodrigo Muniz,GB1,Attack,Centre-Forward,25.1,997,1,1,20000000.0,15153289.3
+Alexis Saelemaekers,IT1,Midfield,Right Midfield,27.0,2802,3,4,20000000.0,25578982.5
+Mandela Keita,IT1,Midfield,Defensive Midfield,24.1,2994,1,1,20000000.0,11222002.6
+Min-jae Kim,L1,Defender,Centre-Back,29.6,1605,1,1,20000000.0,26217758.8
+Raúl Asencio,ES1,Defender,Centre-Back,23.3,1708,2,0,20000000.0,24858409.7
+Afonso Moreira,FR1,Attack,Left Winger,21.2,1719,4,8,20000000.0,16113074.1
+Pavel Sulc,FR1,Midfield,Attacking Midfield,25.5,1569,11,3,20000000.0,17893877.9
+Guéla Doué,FR1,Defender,Right-Back,23.7,2064,2,6,20000000.0,17699689.5
+Lorenzo Bernasconi,IT1,Midfield,Left Midfield,22.6,1569,0,3,20000000.0,13287212.5
+Santiago Mouriño,ES1,Defender,Right-Back,24.3,2384,1,2,20000000.0,28775353.3
+Kévin Danois,FR1,Midfield,Central Midfield,22.0,2839,3,1,20000000.0,10782565.1
+Jayden Addai,IT1,Attack,Right Winger,20.8,687,3,0,20000000.0,14866318.9
+Matthis Abline,FR1,Attack,Centre-Forward,23.2,2497,6,5,20000000.0,7146906.3
+Nnamdi Collins,L1,Defender,Centre-Back,22.4,1498,1,2,20000000.0,8795546.2
+Tolu Arokodare,GB1,Attack,Centre-Forward,25.6,1408,3,1,20000000.0,6976812.4
+Rodrigo Bentancur,GB1,Midfield,Defensive Midfield,29.0,1892,1,1,20000000.0,21054806.4
+Timothy Weah,FR1,Midfield,Right Midfield,26.3,2263,2,2,20000000.0,15744353.7
+Ismaël Doukouré,FR1,Defender,Centre-Back,22.9,2077,0,2,20000000.0,15915710.6
+Rocco Reitz,L1,Midfield,Central Midfield,24.0,2639,0,4,20000000.0,11303980.4
+Billy Gilmour,IT1,Midfield,Defensive Midfield,25.0,802,1,0,20000000.0,9369834.6
+David Affengruber,ES1,Defender,Centre-Back,25.2,2953,1,1,20000000.0,7103220.6
+Dani Vivian,ES1,Defender,Centre-Back,26.9,2563,1,0,20000000.0,9735112.8
+Ronald Araujo,ES1,Defender,Centre-Back,27.3,1061,3,0,20000000.0,16316369.6
+Robin Le Normand,ES1,Defender,Centre-Back,29.6,1783,1,1,20000000.0,10074248.1
+Lutsharel Geertruida,GB1,Defender,Right-Back,25.9,1685,0,0,20000000.0,14662703.2
+Malang Sarr,FR1,Defender,Centre-Back,27.4,2925,0,1,20000000.0,15656504.5
+Nicola Zalewski,IT1,Midfield,Left Midfield,24.4,1905,2,5,20000000.0,13617136.8
+Mike Maignan,IT1,Goalkeeper,Goalkeeper,31.0,3296,0,0,20000000.0,15182986.1
+Orri Óskarsson,ES1,Attack,Centre-Forward,21.8,830,9,0,20000000.0,11087967.2
+Wouter Burger,L1,Midfield,Defensive Midfield,25.3,2441,4,8,20000000.0,22431801.4
+Gabriel Gudmundsson,GB1,Defender,Left-Back,27.1,2639,0,0,20000000.0,20610509.8
+Andrea Cambiaso,IT1,Defender,Left-Back,26.3,2796,3,4,20000000.0,26153711.7
+Equi Fernández,L1,Midfield,Defensive Midfield,23.9,987,0,1,20000000.0,9698761.7
+Amine Adli,GB1,Attack,Left Winger,26.1,1082,3,2,20000000.0,12954792.0
+Jaidon Anthony,GB1,Attack,Left Winger,26.5,2735,8,4,20000000.0,14119886.4
+Mateus Mané,GB1,Midfield,Attacking Midfield,18.7,1790,3,2,20000000.0,22206035.9
+Jaka Bijol,GB1,Defender,Centre-Back,27.4,1893,1,2,20000000.0,25224535.5
+Pau Torres,GB1,Defender,Centre-Back,29.4,1676,0,0,20000000.0,14920422.3
+Thiago Pitarch,ES1,Midfield,Central Midfield,18.9,597,0,2,20000000.0,6214075.4
+Ibrahim Sangaré,GB1,Midfield,Defensive Midfield,28.5,2080,2,2,20000000.0,22153089.7
+Mohamed Amoura,L1,Attack,Centre-Forward,26.1,1928,8,4,20000000.0,9207834.9
+Rodrigo Mendoza,ES1,Midfield,Central Midfield,21.3,1232,1,1,20000000.0,5956096.4
+Éder Militão,ES1,Defender,Centre-Back,28.4,1142,2,1,20000000.0,10306972.3
+Jack Grealish,GB1,Attack,Left Winger,30.8,1632,2,6,20000000.0,9813824.7
+Carlos Espí,ES1,Attack,Centre-Forward,20.9,1339,11,0,20000000.0,15139221.1
+Arthur Avom,FR1,Midfield,Central Midfield,21.5,2115,2,1,20000000.0,7369103.4
+Sergi Altimira,ES1,Midfield,Central Midfield,24.8,1182,1,2,20000000.0,9400556.5
+Williot Swedberg,ES1,Attack,Left Winger,22.4,1268,5,5,20000000.0,10540550.0
+Johan Bakayoko,L1,Attack,Right Winger,23.2,774,2,0,20000000.0,7891548.6
+Johnny Cardoso,ES1,Midfield,Central Midfield,24.7,892,0,0,20000000.0,11573043.7
+Takefusa Kubo,ES1,Attack,Right Winger,25.0,1509,2,4,20000000.0,11100060.1
+Rudy Matondo,FR1,Midfield,Central Midfield,18.3,1352,2,0,20000000.0,6898460.5
+Marcos Llorente,ES1,Defender,Right-Back,31.4,2184,0,4,20000000.0,7292987.4
+Armand Laurienté,IT1,Attack,Left Winger,27.5,2614,7,9,19000000.0,7984232.7
+Hiroki Ito,L1,Defender,Centre-Back,27.1,921,1,2,18000000.0,14588234.8
+Dwight McNeil,GB1,Attack,Left Winger,26.6,1169,0,1,18000000.0,17498162.4
+Yann Gboho,FR1,Attack,Left Winger,25.4,2610,8,3,18000000.0,15008309.1
+Serge Gnabry,L1,Attack,Second Striker,30.9,1228,8,6,18000000.0,22270181.0
+Ander Barrenetxea,ES1,Attack,Left Winger,24.5,1769,3,5,18000000.0,10399940.6
+Lamare Bogarde,GB1,Midfield,Defensive Midfield,22.4,1048,0,0,18000000.0,17159657.1
+Marc Casadó,ES1,Midfield,Defensive Midfield,22.8,981,0,1,18000000.0,26943803.5
+Cucho Hernández,ES1,Attack,Centre-Forward,27.2,2595,11,3,18000000.0,26998486.9
+Vanderson,FR1,Defender,Right-Back,25.0,613,0,2,18000000.0,5733996.9
+Jonas Urbig,L1,Goalkeeper,Goalkeeper,22.9,1110,0,0,18000000.0,16375680.5
+El Chadaille Bitshiabu,L1,Defender,Centre-Back,21.1,654,0,0,18000000.0,6670102.2
+Facundo Medina,FR1,Defender,Centre-Back,27.0,1366,0,1,18000000.0,9629237.6
+Wilson Odobert,GB1,Attack,Left Winger,21.5,981,0,2,18000000.0,15915758.7
+Jeff Ekhator,IT1,Attack,Centre-Forward,19.6,944,3,0,18000000.0,10539346.2
+Douglas Luiz,GB1,Midfield,Central Midfield,28.1,922,1,0,18000000.0,11130599.6
+Beto,GB1,Attack,Centre-Forward,28.4,1565,9,1,18000000.0,17452824.9
+Lucas Høgsberg,FR1,Defender,Centre-Back,20.0,1798,0,0,18000000.0,13486565.5
+Toti,GB1,Defender,Centre-Back,27.4,1427,0,0,18000000.0,8797318.0
+Guillaume Restes,FR1,Goalkeeper,Goalkeeper,21.3,2940,0,0,18000000.0,15864946.7
+Noussair Mazraoui,GB1,Defender,Right-Back,28.6,984,0,0,18000000.0,14113400.5
+Pietro Comuzzo,IT1,Defender,Centre-Back,21.3,1696,1,0,18000000.0,10477298.0
+Óscar Mingueza,ES1,Defender,Right-Back,27.1,1968,1,4,18000000.0,9192072.8
+Konstantinos Mavropanos,GB1,Defender,Centre-Back,28.5,2532,3,0,18000000.0,20326432.7
+Javi Rodríguez,ES1,Defender,Centre-Back,23.0,2561,0,1,18000000.0,17198890.3
+Paul Nebel,L1,Midfield,Attacking Midfield,23.7,2078,5,2,18000000.0,16077963.2
+Maximilian Mittelstädt,L1,Defender,Left-Back,29.2,2189,6,4,18000000.0,14530340.0
+Waldemar Anton,L1,Defender,Centre-Back,29.9,2880,2,0,18000000.0,16752838.5
+Elye Wahi,FR1,Attack,Centre-Forward,23.4,1249,5,2,18000000.0,4646777.2
+Kader Meïté,FR1,Attack,Centre-Forward,18.7,530,3,2,18000000.0,7415156.8
+Patrik Schick,L1,Attack,Centre-Forward,30.4,1996,16,3,18000000.0,17116588.7
+Robinio Vaz,FR1,Attack,Centre-Forward,19.3,578,5,2,18000000.0,8328423.9
+Daniele Ghilardi,IT1,Defender,Centre-Back,23.4,1086,0,0,18000000.0,12298369.6
+Andrei Rațiu,ES1,Defender,Right-Back,28.0,2804,0,4,18000000.0,8978450.2
+Tim Iroegbunam,GB1,Midfield,Central Midfield,23.0,1486,0,3,18000000.0,15013281.9
+Jadon Sancho,GB1,Attack,Left Winger,26.2,873,0,2,18000000.0,17337656.9
+Alexander Sørloth,ES1,Attack,Centre-Forward,30.5,1981,13,0,18000000.0,12787899.8
+Joe Rodon,GB1,Defender,Centre-Back,28.6,2954,2,0,18000000.0,17139145.0
+Samuel Chukwueze,GB1,Attack,Right Winger,27.1,1099,3,4,18000000.0,14913691.4
+Santiago Gimenez,IT1,Attack,Centre-Forward,25.2,896,0,2,18000000.0,9428695.7
+Guglielmo Vicario,GB1,Goalkeeper,Goalkeeper,29.7,2790,0,0,18000000.0,19082065.7
+Matt O'Riley,FR1,Midfield,Central Midfield,25.6,942,2,2,18000000.0,8889643.6
+Kacper Potulski,L1,Defender,Centre-Back,18.7,1060,1,1,18000000.0,11174162.4
+Aleksandr Golovin,FR1,Midfield,Attacking Midfield,30.0,1661,5,5,18000000.0,6589941.6
+Diego Coppola,FR1,Defender,Centre-Back,22.5,1364,0,2,18000000.0,5486692.5
+Dayann Methalie,FR1,Defender,Left-Back,20.3,1884,2,2,18000000.0,7604299.3
+Leonardo Balerdi,FR1,Defender,Centre-Back,27.4,1998,0,1,18000000.0,10358982.7
+Wilson Isidor,GB1,Attack,Centre-Forward,25.8,1159,6,0,18000000.0,12176123.0
+Adrien Rabiot,IT1,Midfield,Central Midfield,31.2,2640,6,5,18000000.0,16058603.6
+Sidiki Chérif,FR1,Attack,Centre-Forward,19.5,1164,4,0,18000000.0,9195472.1
+Jake O'Brien,GB1,Defender,Right-Back,25.1,3124,1,1,18000000.0,22574841.1
+Ola Aina,GB1,Defender,Right-Back,29.7,1590,0,0,18000000.0,17134598.6
+Kristoffer Ajer,GB1,Defender,Centre-Back,28.2,1809,0,1,18000000.0,15186882.9
+Pablo,GB1,Attack,Centre-Forward,22.5,828,0,1,18000000.0,9327720.2
+Lucas Hernández,FR1,Defender,Left-Back,30.3,1746,0,3,18000000.0,16582995.6
+Aladji Bamba,FR1,Midfield,Defensive Midfield,19.9,815,0,2,18000000.0,4386637.0
+Leandro Trossard,GB1,Attack,Left Winger,31.5,2008,6,6,18000000.0,18790798.3
+Fábio Vieira,L1,Midfield,Attacking Midfield,26.0,2217,7,5,18000000.0,8343816.3
+Ritsu Doan,L1,Attack,Right Winger,28.0,2379,5,5,17000000.0,12452547.8
+Wael Mohya,L1,Midfield,Attacking Midfield,17.5,549,2,1,17000000.0,5037325.3
+Tim Lemperle,L1,Attack,Centre-Forward,24.4,1960,8,2,17000000.0,21340647.9
+Nadiem Amiri,L1,Midfield,Central Midfield,29.6,2092,12,3,17000000.0,12207801.9
+Jakub Kamiński,L1,Attack,Left Winger,24.0,3023,7,5,17000000.0,10026070.5
+Yan Couto,L1,Defender,Right-Back,24.0,995,2,3,17000000.0,11872758.7
+Manuel Akanji,IT1,Defender,Centre-Back,30.9,2820,2,0,17000000.0,20654804.2
+Matteo Gabbia,IT1,Defender,Centre-Back,26.7,2531,0,0,17000000.0,24822449.8
+Arthur Theate,L1,Defender,Centre-Back,26.1,2144,1,1,17000000.0,9661307.0
+Fikayo Tomori,IT1,Defender,Centre-Back,28.5,2563,0,2,17000000.0,13682605.5
+Kamaldeen Sulemana,IT1,Attack,Left Winger,24.3,1002,2,1,17000000.0,9380827.7
+Conrad Harder,L1,Attack,Centre-Forward,21.2,919,3,3,17000000.0,12626947.7
+Soungoutou Magassa,GB1,Midfield,Defensive Midfield,22.7,979,1,0,17000000.0,14301764.0
+Merlin Röhl,GB1,Midfield,Attacking Midfield,23.9,743,1,0,16000000.0,12406370.1
+Florentino,GB1,Midfield,Defensive Midfield,26.8,2114,0,2,16000000.0,8234778.1
+Lazar Samardžić,IT1,Midfield,Attacking Midfield,24.3,1022,2,2,16000000.0,8443504.6
+Wilfried Gnonto,GB1,Attack,Right Winger,22.6,524,0,3,16000000.0,8491546.1
+Ezechiel Banzuzi,L1,Midfield,Central Midfield,21.3,578,0,1,16000000.0,4722621.7
+Nordi Mukiele,GB1,Defender,Right-Back,28.6,2787,3,4,16000000.0,18663905.2
+Jean-Ricner Bellegarde,GB1,Midfield,Central Midfield,28.0,1250,1,1,16000000.0,8976747.8
+Emmanuel Agbadou,GB1,Defender,Centre-Back,29.0,1101,0,0,16000000.0,5903873.6
+Tosin Adarabioyo,GB1,Defender,Centre-Back,28.7,789,0,0,16000000.0,10218598.6
+Eliezer Mayenda,GB1,Attack,Centre-Forward,21.1,756,2,0,16000000.0,12064731.7
+Dodô,IT1,Defender,Right-Back,27.6,3139,1,2,16000000.0,8690807.9
+Hakan Çalhanoğlu,IT1,Midfield,Defensive Midfield,32.3,1651,9,4,16000000.0,17520532.5
+Emiliano Buendía,GB1,Attack,Left Winger,29.5,1760,6,2,16000000.0,16682489.4
+Vitaly Janelt,GB1,Midfield,Defensive Midfield,28.1,1437,1,4,16000000.0,22659741.7
+Nicolò Fagioli,IT1,Midfield,Central Midfield,25.3,2567,2,3,16000000.0,9432844.5
+Radu Drăgușin,GB1,Defender,Centre-Back,24.4,516,0,0,16000000.0,10273407.1
+Aaron Hickey,GB1,Defender,Right-Back,24.0,686,0,0,16000000.0,6243106.0
+Oliver Provstgaard,IT1,Defender,Centre-Back,23.0,1527,0,0,16000000.0,6259501.0
+Quilindschy Hartman,GB1,Defender,Left-Back,24.6,1830,0,5,16000000.0,9308404.6
+Fer López,ES1,Midfield,Attacking Midfield,22.1,1405,1,2,16000000.0,7244165.3
+Alexsandro,FR1,Defender,Centre-Back,26.9,510,0,0,15000000.0,6743074.3
+Vladyslav Vanat,ES1,Attack,Centre-Forward,24.4,1960,9,1,15000000.0,9551430.0
+Gustav Isaksen,IT1,Attack,Right Winger,25.2,1598,5,1,15000000.0,10386221.0
+Virgil van Dijk,GB1,Defender,Centre-Back,34.9,3420,6,0,15000000.0,5653672.2
+Benoît Badiashile,GB1,Defender,Centre-Back,25.2,471,0,0,15000000.0,7652608.0
+Raoul Bellanova,IT1,Midfield,Right Midfield,26.1,1373,0,1,15000000.0,13922775.0
+Alexis Claude-Maurice,L1,Midfield,Attacking Midfield,28.0,2108,5,4,15000000.0,8814678.9
+Axel Disasi,GB1,Defender,Centre-Back,28.3,1255,0,0,15000000.0,11181848.0
+Rodrigo Gomes,GB1,Midfield,Left Midfield,22.9,958,3,0,15000000.0,7787924.3
+Jayden Bogle,GB1,Defender,Right-Back,25.9,2805,1,4,15000000.0,16977175.0
+Antonín Kinský,GB1,Goalkeeper,Goalkeeper,23.3,630,0,0,15000000.0,9437943.6
+Pablo Pagis,FR1,Attack,Left Winger,23.5,1772,10,5,15000000.0,10699807.1
+Thibaut Courtois,ES1,Goalkeeper,Goalkeeper,34.1,2880,0,0,15000000.0,7939573.8
+Mohamed-Ali Cho,FR1,Attack,Right Winger,22.4,1681,4,3,15000000.0,7248657.2
+Nicolò Zaniolo,IT1,Attack,Second Striker,27.0,2271,5,6,15000000.0,8946776.9
+Marshall Munetsi,FR1,Midfield,Central Midfield,30.0,1852,5,3,15000000.0,4695609.1
+Hamed Traoré,FR1,Attack,Left Winger,26.3,636,2,2,15000000.0,10963956.4
+Brooke Norton-Cuffy,IT1,Defender,Right-Back,22.4,2215,2,1,15000000.0,8420284.7
+Jan Oblak,ES1,Goalkeeper,Goalkeeper,33.4,2700,0,0,15000000.0,5917418.6
+Carlos Álvarez,ES1,Midfield,Attacking Midfield,22.9,1898,3,1,15000000.0,7199815.5
+Elia Caprile,IT1,Goalkeeper,Goalkeeper,24.8,3420,0,0,15000000.0,9542156.1
+Noah Nartey,FR1,Midfield,Attacking Midfield,20.7,540,2,0,15000000.0,5831632.1
+Sergio Gómez,ES1,Defender,Left-Back,25.8,2706,0,6,15000000.0,13464153.9
+Nahuel Molina,ES1,Defender,Right-Back,28.2,1321,2,2,15000000.0,7674089.3
+Odilon Kossounou,IT1,Defender,Centre-Back,25.4,985,1,0,15000000.0,6789654.4
+Carlos Alcaraz,GB1,Midfield,Central Midfield,23.5,685,0,1,15000000.0,12608540.0
+Mads Hermansen,GB1,Goalkeeper,Goalkeeper,25.9,1620,0,1,15000000.0,16255893.0
+Mathías Olivera,IT1,Defender,Left-Back,28.6,1368,0,0,15000000.0,9861752.5
+Ansgar Knauff,L1,Attack,Right Winger,24.4,1322,4,2,15000000.0,7234126.3
+Roony Bardghji,ES1,Attack,Right Winger,20.6,640,1,1,15000000.0,9848244.8
+Riccardo Orsolini,IT1,Attack,Right Winger,29.4,2117,10,1,15000000.0,11565429.6
+Antonio Vergara,IT1,Midfield,Attacking Midfield,23.4,614,1,3,15000000.0,8973805.0
+Jon Aramburu,ES1,Defender,Right-Back,23.9,2779,1,0,15000000.0,12510811.0
+Jordan Teze,FR1,Defender,Right-Back,26.7,2494,1,2,15000000.0,6291381.0
+Mamadou Coulibaly,FR1,Midfield,Central Midfield,22.1,1382,3,3,15000000.0,7715896.9
+Nicolò Savona,GB1,Defender,Right-Back,23.2,1026,2,0,15000000.0,23527334.3
+Breel Embolo,FR1,Attack,Centre-Forward,29.3,1873,8,3,15000000.0,10650936.3
+Nayef Aguerd,FR1,Defender,Centre-Back,30.2,1579,1,0,15000000.0,7062136.6
+Samú Costa,ES1,Midfield,Defensive Midfield,25.5,2707,7,2,15000000.0,15240771.7
+Ozan Kabak,L1,Defender,Centre-Back,26.2,1745,4,0,15000000.0,10634017.2
+Chadi Riad,GB1,Defender,Centre-Back,23.0,554,0,1,15000000.0,7272593.0
+Cesare Casadei,IT1,Midfield,Central Midfield,23.4,1990,6,0,15000000.0,7852650.5
+Sebastiano Esposito,IT1,Attack,Second Striker,24.0,2702,7,5,15000000.0,17955309.7
+Mateo Pellegrino,IT1,Attack,Centre-Forward,24.6,2994,9,1,15000000.0,13430525.4
+Julian Brandt,L1,Midfield,Attacking Midfield,30.1,1608,7,4,15000000.0,17557446.9
+Philipp Treu,L1,Defender,Right-Back,25.5,2188,1,2,15000000.0,9804315.2
+Francesco Camarda,IT1,Attack,Centre-Forward,18.3,679,1,0,15000000.0,4274300.1
+Montrell Culbreath,L1,Attack,Right Winger,18.8,740,1,0,15000000.0,12658929.3
+Pau Navarro,ES1,Defender,Centre-Back,21.1,1924,0,0,15000000.0,26132739.4
+Gianluca Mancini,IT1,Defender,Centre-Back,30.2,3066,4,2,15000000.0,21495702.4
+Mika Biereth,FR1,Attack,Centre-Forward,23.3,1063,2,2,15000000.0,5267759.5
+Nathan Tella,L1,Attack,Right Winger,26.9,870,1,6,15000000.0,14657887.7
+Moussa Niakhaté,FR1,Defender,Centre-Back,30.3,2758,0,2,15000000.0,8457604.1
+Abdoul Ouattara,FR1,Defender,Right-Back,20.6,1764,2,1,15000000.0,12094671.5
+Juan Miranda,IT1,Defender,Left-Back,26.4,2573,1,5,15000000.0,12852186.3
+Arsène Kouassi,FR1,Defender,Left-Back,22.5,2612,2,8,15000000.0,8064961.6
+Prosper Peter,FR1,Attack,Centre-Forward,18.9,1266,5,0,15000000.0,9041115.6
+Aaron Wan-Bissaka,GB1,Defender,Right-Back,28.6,2084,0,3,15000000.0,15119947.5
+Miguel Román,ES1,Midfield,Central Midfield,23.5,1310,1,0,15000000.0,6389263.9
+Akor Adams,ES1,Attack,Centre-Forward,26.4,2060,10,3,15000000.0,9351040.1
+Hannibal,GB1,Midfield,Attacking Midfield,23.4,1231,1,4,15000000.0,9800109.0
+Quentin Merlin,FR1,Defender,Left-Back,24.1,2532,1,6,15000000.0,11821610.7
+Karl Etta Eyong,ES1,Attack,Centre-Forward,22.7,1668,7,4,15000000.0,9741657.4
+Maarten Vandevoordt,L1,Goalkeeper,Goalkeeper,24.3,1051,0,0,15000000.0,6193767.1
+Jhon Arias,GB1,Attack,Right Winger,28.7,1124,1,0,15000000.0,4345933.2
+Sofiane Diop,FR1,Attack,Left Winger,26.0,2145,8,2,15000000.0,5564728.0
+Zachary Athekame,IT1,Defender,Right-Back,21.5,823,2,2,15000000.0,7920591.5
+Andrea Pinamonti,IT1,Attack,Centre-Forward,27.1,2575,9,4,15000000.0,12758363.6
+Olivier Boscagli,GB1,Defender,Centre-Back,28.6,800,0,1,15000000.0,8570558.8
+Claudio Echeverri,ES1,Midfield,Attacking Midfield,20.4,748,1,1,15000000.0,3395201.6
+Christian Mawissa,FR1,Defender,Centre-Back,21.2,1191,0,0,15000000.0,6071568.9
+Ngal'ayel Mukau,FR1,Midfield,Defensive Midfield,21.6,1540,1,0,15000000.0,10634872.8
+Fabio Miretti,IT1,Midfield,Central Midfield,22.9,605,1,2,15000000.0,9159275.2
+Thiago Almada,ES1,Attack,Left Winger,25.1,1312,3,1,15000000.0,13550437.3
+Jeff Chabot,L1,Defender,Centre-Back,28.3,2296,0,0,15000000.0,17355885.6
+Jair Cunha,GB1,Defender,Centre-Back,21.3,516,0,0,15000000.0,8707691.9
+Nicolás Domínguez,GB1,Midfield,Central Midfield,28.0,1177,1,1,15000000.0,15446009.7
+Morten Frendrup,IT1,Midfield,Defensive Midfield,25.2,3089,1,0,15000000.0,12229299.9
+Lucien Agoumé,ES1,Midfield,Defensive Midfield,24.3,2693,1,3,15000000.0,14407859.3
+Sebastian Nanasi,FR1,Attack,Left Winger,24.1,1047,7,2,15000000.0,20117477.3
+Pierre-Emile Højbjerg,FR1,Midfield,Defensive Midfield,30.9,2715,4,5,15000000.0,9976839.6
+João Palhinha,GB1,Midfield,Defensive Midfield,30.9,2198,5,2,15000000.0,7803051.6
+Tiago Gabriel,IT1,Defender,Centre-Back,21.5,3220,2,0,15000000.0,12944319.6
+Viktor Tsygankov,ES1,Attack,Right Winger,28.6,2642,6,5,15000000.0,8077907.8
+Khalis Merah,FR1,Midfield,Central Midfield,19.3,1139,0,1,15000000.0,11271964.4
+Mio Backhaus,L1,Goalkeeper,Goalkeeper,22.2,2880,0,0,15000000.0,8002615.6
+Farès Chaïbi,L1,Midfield,Attacking Midfield,23.5,1797,2,9,15000000.0,10516265.9
+Sean Longstaff,GB1,Midfield,Central Midfield,28.6,1006,2,2,15000000.0,10048112.6
+Romano Schmid,L1,Midfield,Attacking Midfield,26.4,2993,4,8,15000000.0,10287343.3
+Ilaix Moriba,ES1,Midfield,Central Midfield,23.4,2489,2,3,15000000.0,16061272.7
+Omar El Hilali,ES1,Defender,Right-Back,22.8,2828,0,2,15000000.0,12108785.2
+Alisson,GB1,Goalkeeper,Goalkeeper,33.7,2340,0,0,15000000.0,4875287.5
+Bruno Ogbus,L1,Defender,Centre-Back,20.5,1175,0,0,15000000.0,5669415.0
+Tiago Tomás,L1,Attack,Right Winger,24.0,1013,5,3,15000000.0,14989784.2
+Enzo Boyomo,ES1,Defender,Centre-Back,24.7,2545,1,2,15000000.0,13355287.7
+Alexis Vossah,FR1,Midfield,Central Midfield,18.3,1093,1,1,15000000.0,6875918.9
+Jan Virgili,ES1,Attack,Left Winger,19.9,1796,2,6,15000000.0,14990362.0
+Dzenan Pejcinovic,L1,Attack,Centre-Forward,21.3,1456,8,0,15000000.0,9687402.4
+Frank Anguissa,IT1,Midfield,Central Midfield,30.6,1256,4,2,15000000.0,13110514.8
+Ansu Fati,FR1,Attack,Left Winger,23.6,1085,11,0,15000000.0,9201569.2
+Oscar Højlund,L1,Midfield,Central Midfield,21.4,1091,1,2,15000000.0,5501316.6
+Adrián Bernabé,IT1,Midfield,Central Midfield,25.1,2494,3,2,15000000.0,10197386.0
+Bamba Dieng,FR1,Attack,Centre-Forward,26.2,1219,10,1,15000000.0,6592330.8
+Teun Koopmeiners,IT1,Midfield,Defensive Midfield,28.3,1819,0,0,14000000.0,12834282.2
+Alessandro Marcandalli,IT1,Defender,Centre-Back,23.6,2600,0,2,14000000.0,7828798.6
+Leon Bailey,GB1,Attack,Right Winger,28.8,634,0,1,14000000.0,8803477.2
+Lewis Ferguson,IT1,Midfield,Central Midfield,26.8,1596,1,0,14000000.0,7189324.8
+Yunus Musah,IT1,Midfield,Central Midfield,23.5,651,1,0,14000000.0,6185261.1
+Jay Idzes,IT1,Defender,Centre-Back,26.0,3064,0,0,14000000.0,10246596.0
+Federico Gatti,IT1,Defender,Centre-Back,28.0,1090,2,0,14000000.0,9362655.1
+Jens Stage,L1,Midfield,Central Midfield,29.6,2468,10,2,14000000.0,8603399.9
+Roberto Piccoli,IT1,Attack,Centre-Forward,25.4,1664,4,1,14000000.0,7923205.0
+Joe Willock,GB1,Midfield,Central Midfield,26.8,980,0,2,14000000.0,10163356.7
+Nicolò Cambiaghi,IT1,Attack,Left Winger,25.5,1521,3,4,14000000.0,10873117.0
+Kike Salas,ES1,Defender,Centre-Back,24.1,2203,2,0,14000000.0,10351756.5
+Morato,GB1,Defender,Centre-Back,25.0,1341,1,0,14000000.0,16273663.5
+Zeki Çelik,IT1,Defender,Right-Back,29.3,2731,1,2,14000000.0,14007962.8
+Yáser Asprilla,ES1,Attack,Right Winger,22.6,605,0,1,14000000.0,3879506.6
+Maxence Caqueret,IT1,Midfield,Central Midfield,26.3,1488,2,5,13000000.0,19579463.7
+Ao Tanaka,GB1,Midfield,Central Midfield,27.8,1318,2,0,13000000.0,12232165.7
+Omar Alderete,GB1,Defender,Centre-Back,29.5,2802,1,1,13000000.0,20721249.9
+Martin Vitík,IT1,Defender,Centre-Back,23.4,1324,0,0,13000000.0,5607218.5
+Torbjørn Heggem,IT1,Defender,Centre-Back,27.4,2113,0,0,13000000.0,6171557.0
+Danilho Doekhi,L1,Defender,Centre-Back,28.0,3060,5,1,13000000.0,8596303.0
+John McGinn,GB1,Midfield,Central Midfield,31.7,2158,5,5,13000000.0,11180336.3
+Eljif Elmas,IT1,Midfield,Attacking Midfield,26.7,1783,1,3,13000000.0,16768099.5
+Loum Tchaouna,GB1,Attack,Right Winger,22.8,1270,2,1,13000000.0,10820116.7
+Jordan Pickford,GB1,Goalkeeper,Goalkeeper,32.3,3420,0,0,13000000.0,9642515.5
+Maximilian Kilman,GB1,Defender,Centre-Back,29.1,1558,0,0,13000000.0,14286069.7
+Rico Henry,GB1,Defender,Left-Back,28.9,1329,0,0,13000000.0,8208220.7
+Leo Østigård,IT1,Defender,Centre-Back,26.5,2623,5,1,13000000.0,11174990.9
+Joe Gomez,GB1,Defender,Centre-Back,29.1,600,0,2,13000000.0,7170479.3
+Chris Führich,L1,Attack,Left Winger,28.4,1706,7,8,12000000.0,14082524.2
+Thilo Kehrer,FR1,Defender,Centre-Back,29.7,2358,0,0,12000000.0,7764874.0
+Hicham Boudaoui,FR1,Midfield,Central Midfield,26.7,1694,1,2,12000000.0,4805297.6
+Kristjan Asllani,IT1,Midfield,Defensive Midfield,24.3,1136,0,0,12000000.0,5880180.7
+Rafa Marín,ES1,Defender,Centre-Back,24.1,1980,1,0,12000000.0,18278604.9
+Nuno Tavares,IT1,Defender,Left-Back,26.4,1471,0,0,12000000.0,6200874.9
+Gessime Yassine,FR1,Attack,Right Winger,20.6,510,0,2,12000000.0,4752548.0
+Giovane,IT1,Attack,Centre-Forward,22.6,1872,3,6,12000000.0,5405102.4
+David Brooks,GB1,Attack,Right Winger,28.9,1199,1,3,12000000.0,10763466.7
+Zian Flemming,GB1,Attack,Centre-Forward,27.9,1776,11,0,12000000.0,11891619.4
+Sergio Carreira,ES1,Defender,Right-Back,25.7,2693,2,1,12000000.0,10542252.2
+Harrison Armstrong,GB1,Midfield,Central Midfield,19.4,528,0,0,12000000.0,11149510.4
+Patrick Wimmer,L1,Attack,Right Winger,25.0,1634,4,3,12000000.0,5888023.7
+Johan Vásquez,IT1,Defender,Centre-Back,27.6,3217,1,0,12000000.0,8353213.4
+Ilyas Ansah,L1,Attack,Centre-Forward,21.6,1903,5,3,12000000.0,8176505.3
+Kristian Thorstvedt,IT1,Midfield,Central Midfield,27.3,2458,4,4,12000000.0,6997225.6
+Anthony Rouault,FR1,Defender,Centre-Back,25.0,1723,1,0,12000000.0,11820950.9
+Andriy Lunin,ES1,Goalkeeper,Goalkeeper,27.3,540,0,0,12000000.0,5529179.3
+Hugo Bueno,GB1,Defender,Left-Back,23.7,2366,1,2,12000000.0,7697075.0
+Fabian Rieder,L1,Midfield,Attacking Midfield,24.3,2485,6,4,12000000.0,12361697.5
+Thomas Kristensen,IT1,Defender,Centre-Back,24.4,2475,3,0,12000000.0,15615061.8
+Albert Gudmundsson,IT1,Attack,Second Striker,29.0,2262,5,4,12000000.0,5531118.1
+Aaron Ramsdale,GB1,Goalkeeper,Goalkeeper,28.1,1003,0,0,12000000.0,14553390.4
+Caio Henrique,FR1,Defender,Left-Back,28.9,1533,0,2,12000000.0,5643870.5
+Jan Ziolkowski,IT1,Defender,Centre-Back,21.0,507,0,0,12000000.0,5624705.9
+Nathan Aké,GB1,Defender,Centre-Back,31.3,688,0,0,12000000.0,7273776.6
+James Justin,GB1,Defender,Right-Back,28.3,1896,2,1,12000000.0,15914257.6
+Aljoscha Kemlein,L1,Midfield,Defensive Midfield,21.9,1968,0,2,12000000.0,8713431.0
+Abdelhamid Ait Boudlal,FR1,Defender,Centre-Back,20.2,1402,2,1,12000000.0,11166364.9
+Finn Dahmen,L1,Goalkeeper,Goalkeeper,28.2,3060,0,0,12000000.0,5611801.8
+Álex Valle,IT1,Defender,Left-Back,22.1,2025,1,4,12000000.0,23549494.7
+Lilian Brassier,FR1,Defender,Centre-Back,26.6,2252,0,1,12000000.0,10979721.9
+Héctor Fort,ES1,Defender,Right-Back,19.9,482,2,2,12000000.0,3195986.4
+Jacob Murphy,GB1,Attack,Right Winger,31.3,1620,3,2,12000000.0,9018626.4
+Jeanuël Belocian,L1,Defender,Centre-Back,21.3,1543,0,1,12000000.0,5127233.3
+Ilias Akhomach,ES1,Attack,Right Winger,22.2,894,0,1,12000000.0,3713839.1
+Kyle Walker-Peters,GB1,Defender,Right-Back,29.2,1380,1,0,12000000.0,10110881.6
+Emiliano Martínez,GB1,Goalkeeper,Goalkeeper,33.8,2835,0,1,12000000.0,6420125.3
+Mert Kömür,L1,Midfield,Attacking Midfield,20.9,1463,2,4,12000000.0,8821433.1
+Jorge de Frutos,ES1,Attack,Right Winger,29.3,2485,10,1,12000000.0,10418826.4
+Odsonne Édouard,FR1,Attack,Centre-Forward,28.4,1821,12,3,12000000.0,18655536.1
+Bashir Humphreys,GB1,Defender,Centre-Back,23.3,1578,0,2,12000000.0,8980063.3
+Jens Odgaard,IT1,Midfield,Attacking Midfield,27.2,1380,5,1,12000000.0,8550183.0
+Tajon Buchanan,ES1,Attack,Right Winger,27.3,1821,7,1,12000000.0,19640854.0
+Rubén Vargas,ES1,Attack,Left Winger,27.9,1610,3,6,12000000.0,5551108.4
+Leon Goretzka,L1,Midfield,Central Midfield,31.4,1954,5,4,12000000.0,12596011.0
+Alessandro Circati,IT1,Defender,Centre-Back,22.7,2666,1,1,12000000.0,10054231.1
+Kamil Grabara,L1,Goalkeeper,Goalkeeper,27.4,3060,0,0,12000000.0,4983570.9
+Jackson Tchatchoua,GB1,Defender,Right-Back,24.8,1837,0,1,12000000.0,10416432.9
+Pervis Estupiñán,IT1,Defender,Left-Back,28.4,1036,1,1,12000000.0,8591555.4
+Benjamin Pavard,FR1,Defender,Centre-Back,30.2,2019,1,2,12000000.0,6862502.0
+Urko González de Zárate,ES1,Midfield,Defensive Midfield,25.2,2631,0,1,12000000.0,8697033.4
+Diogo Leite,L1,Defender,Centre-Back,27.4,1970,0,0,12000000.0,5543847.1
+Ilia Gruev,GB1,Midfield,Defensive Midfield,26.1,1324,0,3,12000000.0,14608321.2
+Justin Devenny,GB1,Midfield,Attacking Midfield,22.7,789,1,0,12000000.0,10960217.2
+Albert Sambi Lokonga,L1,Midfield,Central Midfield,26.6,1714,5,0,12000000.0,5132047.6
+Saël Kumbedi,L1,Defender,Right-Back,21.2,1873,0,5,12000000.0,6860000.7
+Hugo Duro,ES1,Attack,Centre-Forward,26.6,1982,10,0,12000000.0,11738669.2
+Sebastian Szymanski,FR1,Midfield,Attacking Midfield,27.1,777,1,3,12000000.0,5371492.8
+José Ángel Carmona,ES1,Defender,Right-Back,24.4,2564,1,3,12000000.0,7713959.1
+Valentín Gómez,ES1,Defender,Centre-Back,23.0,1875,1,0,12000000.0,11864588.3
+Luiz Júnior,ES1,Goalkeeper,Goalkeeper,25.4,2520,0,0,12000000.0,30383642.8
+Mahdi Camara,FR1,Midfield,Central Midfield,28.0,2661,3,2,12000000.0,17440564.2
+Yerson Mosquera,GB1,Defender,Centre-Back,25.1,2143,0,0,12000000.0,8826237.3
+Kassoum Ouattara,FR1,Defender,Left-Back,21.7,970,0,3,12000000.0,5211877.8
+Ridle Baku,L1,Defender,Right-Back,28.2,2514,2,3,12000000.0,20598927.9
+Alexander Nübel,L1,Goalkeeper,Goalkeeper,29.7,3060,0,1,12000000.0,15984190.1
+Ilan Kebbal,FR1,Attack,Right Winger,27.9,2232,9,4,12000000.0,7338281.6
+Patrick Osterhage,L1,Midfield,Defensive Midfield,26.4,1187,1,0,12000000.0,6790694.7
+Semih Kılıçsoy,IT1,Attack,Centre-Forward,20.8,975,4,0,11000000.0,7911064.7
+Lewis Cook,GB1,Midfield,Central Midfield,29.4,872,0,1,11000000.0,14306443.1
+Piotr Zielinski,IT1,Midfield,Central Midfield,32.1,2045,6,3,10000000.0,9680861.3
+Beñat Turrientes,ES1,Midfield,Central Midfield,24.4,1347,0,3,10000000.0,5118251.1
+Azzedine Ounahi,ES1,Midfield,Central Midfield,26.2,1766,5,3,10000000.0,5961851.3
+Abner,FR1,Defender,Left-Back,26.1,2157,3,2,10000000.0,11390873.8
+Philipp Lienhart,L1,Defender,Centre-Back,29.9,1301,1,0,10000000.0,4368702.6
+Aurèle Amenda,L1,Defender,Centre-Back,22.9,1676,0,0,10000000.0,5555528.0
+Luca Jaquez,L1,Defender,Centre-Back,23.0,900,0,1,10000000.0,7211983.0
+Giovanni Fabbian,IT1,Midfield,Attacking Midfield,23.4,1168,2,0,10000000.0,7298032.8
+Marco Friedl,L1,Defender,Centre-Back,28.2,2549,1,0,10000000.0,3967083.5
+Anton Kade,L1,Midfield,Attacking Midfield,22.4,1747,6,1,10000000.0,9205935.9
+Robin Hranac,L1,Defender,Centre-Back,26.4,2251,1,0,10000000.0,9504221.8
+Stanislav Lobotka,IT1,Midfield,Defensive Midfield,31.6,2438,1,1,10000000.0,10183713.9
+Tyrhys Dolan,ES1,Attack,Right Winger,24.5,2433,2,6,10000000.0,7726666.1
+Luka Sucic,ES1,Midfield,Central Midfield,23.8,1019,3,1,10000000.0,6640858.8
+Melvin Bard,FR1,Defender,Left-Back,25.6,2396,2,1,10000000.0,4717014.1
+Emil Holm,IT1,Defender,Right-Back,26.1,884,1,4,10000000.0,4314016.2
+Félix Correia,FR1,Attack,Left Winger,25.4,2067,4,5,10000000.0,11581794.1
+Pep Chavarría,ES1,Defender,Left-Back,28.2,2681,1,2,10000000.0,8214893.8
+Josha Vagnoman,L1,Defender,Right-Back,25.5,1587,1,4,10000000.0,13729058.1
+Jens Castrop,L1,Midfield,Central Midfield,22.9,1594,3,1,10000000.0,6253665.8
+Ferran Jutglà,ES1,Attack,Right Winger,27.4,1663,9,3,10000000.0,9460523.0
+Maximilian Eggestein,L1,Midfield,Central Midfield,29.5,3060,3,1,10000000.0,8702904.5
+Santiago Bueno,GB1,Defender,Centre-Back,27.6,2553,3,2,10000000.0,12642413.5
+Martín Satriano,ES1,Attack,Centre-Forward,25.3,2301,8,2,10000000.0,13767636.1
+Corentin Tolisso,FR1,Midfield,Central Midfield,31.9,2307,11,4,10000000.0,8828367.1
+Lorenzo Colombo,IT1,Attack,Centre-Forward,24.3,2346,7,2,10000000.0,12162887.0
+Sacha Boey,L1,Defender,Right-Back,25.8,462,0,0,10000000.0,11788708.6
+Antonio Blanco,ES1,Midfield,Defensive Midfield,25.9,3117,2,3,10000000.0,10569455.9
+Takumi Minamino,FR1,Attack,Left Winger,31.4,950,3,2,10000000.0,5193824.5
+Xaver Schlager,L1,Midfield,Central Midfield,28.7,1837,3,1,10000000.0,15212174.6
+Mohammed Salisu,FR1,Defender,Centre-Back,27.2,1080,1,0,10000000.0,4497494.6
+Lassine Sinayoko,FR1,Attack,Centre-Forward,26.5,2781,12,4,10000000.0,12332839.0
+Mousa Tamari,FR1,Attack,Right Winger,29.0,2228,6,9,10000000.0,10801775.5
+Angel Gomes,FR1,Midfield,Attacking Midfield,25.8,1357,3,0,10000000.0,8543185.9
+Maduka Okoye,IT1,Goalkeeper,Goalkeeper,26.8,2617,0,0,10000000.0,10302805.0
+Niccolò Fortini,IT1,Defender,Left-Back,20.3,530,0,0,10000000.0,2015358.9
+Robin Koch,L1,Defender,Centre-Back,29.9,2835,3,2,10000000.0,6549955.4
+Amir Rrahmani,IT1,Defender,Centre-Back,32.3,1800,2,1,10000000.0,8327170.4
+Nhoa Sangui,FR1,Defender,Left-Back,20.3,1734,0,0,10000000.0,4837867.0
+Álvaro Rodríguez,ES1,Attack,Centre-Forward,21.9,2201,7,5,10000000.0,14767965.4
+Mario Martín,ES1,Midfield,Defensive Midfield,22.3,2135,2,1,10000000.0,16145498.9
+Nicolas Kühn,IT1,Attack,Right Winger,26.5,655,1,1,10000000.0,5301980.7
+Sascha Britschgi,IT1,Defender,Right-Back,19.8,2097,0,2,10000000.0,9050430.9
+Josep Martínez,IT1,Goalkeeper,Goalkeeper,28.1,450,0,0,10000000.0,6585535.0
+Roberto Fernández,ES1,Attack,Centre-Forward,24.0,2387,7,4,10000000.0,12686744.0
+Djaoui Cissé,FR1,Midfield,Central Midfield,22.4,982,0,0,10000000.0,6172498.1
+Lennon Miller,IT1,Midfield,Central Midfield,19.8,991,0,2,10000000.0,6007930.2
+Saša Lukić,GB1,Midfield,Central Midfield,29.8,1734,1,3,10000000.0,11708822.1
+Oliver Scarles,GB1,Defender,Left-Back,20.5,660,0,1,10000000.0,8473802.3
+Fran García,ES1,Defender,Left-Back,26.8,930,1,1,10000000.0,12271945.2
+Mathias Jensen,GB1,Midfield,Central Midfield,30.5,2252,3,1,10000000.0,6860449.9
+Niklas Beste,L1,Attack,Right Winger,27.4,1710,2,3,10000000.0,5522392.7
+Antoine Mendy,FR1,Defender,Centre-Back,22.1,2098,1,0,10000000.0,4585109.7
+Arijon Ibrahimovic,L1,Midfield,Attacking Midfield,20.5,2181,2,4,10000000.0,9011320.9
+Obed Vargas,ES1,Midfield,Central Midfield,20.9,739,0,1,10000000.0,7705284.7
+Cristian Volpato,IT1,Midfield,Attacking Midfield,22.6,1064,2,4,10000000.0,5941991.5
+Arnau Martínez,ES1,Defender,Right-Back,23.1,2678,2,3,10000000.0,9961781.2
+Lucas Perri,GB1,Goalkeeper,Goalkeeper,28.5,1440,0,0,10000000.0,16100558.6
+Otávio,FR1,Defender,Centre-Back,24.2,1904,1,0,10000000.0,4198798.5
+Daichi Kamada,GB1,Midfield,Attacking Midfield,29.9,1909,0,1,10000000.0,10325630.2
+Tiago Santos,FR1,Defender,Right-Back,23.9,709,0,1,10000000.0,4251541.7
+Rasmus Nissen Kristensen,L1,Defender,Right-Back,28.9,1542,2,0,10000000.0,5943527.9
+Jurgen Ekkelenkamp,IT1,Midfield,Central Midfield,26.2,2205,5,4,10000000.0,10125345.4
+Berke Özer,FR1,Goalkeeper,Goalkeeper,26.1,2835,0,1,10000000.0,10428464.6
+Ayoube Amaimouni-Echghouyab,L1,Attack,Right Winger,21.5,580,2,3,10000000.0,4138747.8
+Badredine Bouanani,L1,Attack,Right Winger,21.5,551,0,0,10000000.0,10328163.6
+Tom Rothe,L1,Defender,Left-Back,21.6,1024,2,0,10000000.0,6720731.5
+Daniel James,GB1,Attack,Right Winger,28.6,553,0,0,10000000.0,6662035.1
+Michele Di Gregorio,IT1,Goalkeeper,Goalkeeper,28.9,2655,0,0,10000000.0,18786232.6
+Nikola Vlašić,IT1,Midfield,Attacking Midfield,28.7,3055,8,3,10000000.0,9341604.6
+Wout Faes,FR1,Defender,Centre-Back,28.2,1141,0,0,10000000.0,5305090.4
+Luca Reggiani,L1,Defender,Centre-Back,18.4,513,1,0,10000000.0,6885963.7
+Ludovic Blas,FR1,Midfield,Right Midfield,28.5,1542,5,4,10000000.0,10425486.8
+Sofyan Amrabat,ES1,Midfield,Defensive Midfield,29.8,1296,0,0,10000000.0,6274496.6
+Yves Bissouma,GB1,Midfield,Defensive Midfield,29.8,605,0,0,10000000.0,12639704.6
+Kojo Peprah Oppong,FR1,Defender,Centre-Back,22.0,2429,1,0,10000000.0,4698600.7
+Keinan Davis,IT1,Attack,Centre-Forward,28.3,2078,10,4,10000000.0,8585262.0
+Ainsley Maitland-Niles,FR1,Defender,Right-Back,28.8,2486,1,4,10000000.0,10255854.0
+Louis Leroux,FR1,Midfield,Attacking Midfield,20.4,1444,1,1,10000000.0,4579796.8
+Tanner Tessmann,FR1,Midfield,Defensive Midfield,24.7,1954,1,0,10000000.0,10349132.1
+Juma Bah,FR1,Defender,Centre-Back,20.2,1954,0,0,10000000.0,6730456.7
+Tomáš Souček,GB1,Midfield,Defensive Midfield,31.3,2199,5,0,10000000.0,8587016.0
+Mariano Troilo,IT1,Defender,Centre-Back,23.0,1628,1,0,10000000.0,4711475.0
+Juan Rodríguez,IT1,Defender,Centre-Back,21.0,1314,1,0,10000000.0,6337437.4
+Dro Fernández,FR1,Midfield,Attacking Midfield,18.4,771,1,0,10000000.0,15454974.4
+Juanlu Sánchez,ES1,Defender,Right-Back,22.8,1994,0,3,10000000.0,6351752.9
+Nikolas Nartey,L1,Midfield,Central Midfield,26.3,1256,4,3,10000000.0,12361709.3
+Oso,ES1,Defender,Left-Back,22.9,1409,2,3,10000000.0,4991821.6
+Ben Chilwell,FR1,Defender,Left-Back,29.5,1602,0,2,10000000.0,5298045.3
+Joel Chima Fujita,L1,Midfield,Central Midfield,24.3,2671,1,3,10000000.0,4729194.7
+Freddie Potts,GB1,Midfield,Defensive Midfield,22.8,1167,0,1,10000000.0,11243318.0
+Lukas Nmecha,GB1,Attack,Centre-Forward,27.5,1073,6,1,10000000.0,11437675.0
+Álex Remiro,ES1,Goalkeeper,Goalkeeper,31.2,3330,0,0,9000000.0,7677470.1
+Jacques Ekomié,FR1,Defender,Left-Back,22.8,2240,0,0,9000000.0,3253336.9
+Thijs Dallinga,IT1,Attack,Centre-Forward,25.9,804,2,3,9000000.0,5870317.3
+Daniel Maldini,IT1,Midfield,Attacking Midfield,24.7,952,2,1,9000000.0,6845741.9
+Clément Akpa,FR1,Defender,Centre-Back,24.6,1941,0,0,9000000.0,4950976.7
+Saud Abdulhamid,FR1,Defender,Right-Back,26.9,1345,2,5,9000000.0,11028137.0
+Julen Agirrezabala,ES1,Goalkeeper,Goalkeeper,25.5,1620,0,0,9000000.0,4757769.5
+José María Giménez,ES1,Defender,Centre-Back,31.4,1177,0,1,9000000.0,4629503.0
+Benja Domínguez,IT1,Attack,Left Winger,22.7,542,0,3,9000000.0,6826608.1
+Osame Sahraoui,FR1,Attack,Left Winger,25.0,495,1,2,9000000.0,6039469.8
+Marco Brescianini,IT1,Midfield,Central Midfield,26.4,1034,2,1,9000000.0,3666702.4
+CJ Egan-Riley,FR1,Defender,Centre-Back,23.4,626,0,0,9000000.0,3476556.9
+Cristian Cásseres Jr.,FR1,Midfield,Central Midfield,26.4,2498,2,4,9000000.0,10651982.3
+Ionuț Radu,ES1,Goalkeeper,Goalkeeper,29.0,3420,0,0,9000000.0,8049602.6
+Diego López,ES1,Attack,Right Winger,24.1,1763,4,1,9000000.0,10756613.2
+Pape Demba Diop,FR1,Midfield,Central Midfield,22.8,1187,1,2,9000000.0,5382263.9
+Emerson,FR1,Defender,Left-Back,31.9,2113,0,3,9000000.0,4119611.1
+Rolando Mandragora,IT1,Midfield,Defensive Midfield,29.0,2438,7,4,9000000.0,7600575.3
+Nelson Deossa,ES1,Midfield,Central Midfield,26.4,735,0,0,9000000.0,3985404.8
+Dominik Greif,FR1,Goalkeeper,Goalkeeper,29.2,2610,0,1,9000000.0,11262764.4
+Nicolai Remberg,L1,Midfield,Defensive Midfield,26.0,2880,0,3,9000000.0,9129983.3
+Jahmai Simpson-Pusey,L1,Defender,Centre-Back,20.6,864,0,0,9000000.0,2997449.4
+Andrej Ilic,L1,Attack,Centre-Forward,26.2,2257,5,10,9000000.0,8881034.3
+Ragnar Ache,L1,Attack,Centre-Forward,27.9,1726,7,5,9000000.0,4366898.6
+Sergi Cardona,ES1,Defender,Left-Back,26.9,1965,1,4,9000000.0,25423018.7
+Alexander Prass,L1,Midfield,Left Midfield,25.1,1298,3,2,9000000.0,7346623.7
+Moustapha Mbow,FR1,Defender,Centre-Back,26.3,2716,0,1,9000000.0,4769266.8
+Kamory Doumbia,FR1,Midfield,Attacking Midfield,23.3,1766,5,4,9000000.0,7135860.9
+Lorenz Assignon,L1,Defender,Right-Back,26.0,1093,0,0,9000000.0,9993347.6
+César Tárrega,ES1,Defender,Centre-Back,24.3,2596,0,0,9000000.0,14277739.2
+Ruben Loftus-Cheek,IT1,Midfield,Central Midfield,30.4,1126,3,1,8500000.0,5310499.8
+Jacopo Fazzini,IT1,Midfield,Central Midfield,23.2,574,0,0,8500000.0,3760774.7
+Tommaso Baldanzi,IT1,Midfield,Attacking Midfield,23.2,784,1,2,8500000.0,3719243.3
+Devyne Rensch,IT1,Defender,Right-Back,23.4,1179,1,5,8500000.0,11374039.4
+Mattias Svanberg,L1,Midfield,Central Midfield,27.4,854,3,1,8000000.0,2483807.0
+Hugo Álvarez,ES1,Attack,Left Winger,23.0,1337,4,2,8000000.0,9354929.4
+Juan Foyth,ES1,Defender,Centre-Back,28.4,936,0,0,8000000.0,8024223.7
+Ísak Jóhannesson,L1,Midfield,Central Midfield,23.2,1812,1,3,8000000.0,3880974.6
+Lovro Majer,L1,Midfield,Attacking Midfield,28.4,1375,2,3,8000000.0,2238091.9
+Martin Terrier,L1,Attack,Left Winger,29.3,671,4,1,8000000.0,5232493.2
+Edoardo Motta,IT1,Goalkeeper,Goalkeeper,21.4,810,0,0,8000000.0,2765237.0
+Iñaki Williams,ES1,Attack,Right Winger,32.0,2168,3,6,8000000.0,5041603.5
+Jean Butez,IT1,Goalkeeper,Goalkeeper,31.0,3420,0,1,8000000.0,12244940.7
+Emersonn,FR1,Attack,Centre-Forward,21.9,1504,6,2,8000000.0,8720843.0
+Mauro Arambarri,ES1,Midfield,Central Midfield,30.7,3255,6,2,8000000.0,8332333.7
+Santi Comesaña,ES1,Midfield,Central Midfield,29.7,2413,3,6,8000000.0,25917350.3
+Nico Elvedi,L1,Defender,Centre-Back,29.7,2967,0,3,8000000.0,4649383.2
+Eric Martel,L1,Midfield,Defensive Midfield,24.1,2564,2,2,8000000.0,6861002.9
+Timothy Castagne,GB1,Defender,Right-Back,30.5,1842,0,0,8000000.0,5685308.8
+Amorim,IT1,Midfield,Central Midfield,21.1,554,0,0,8000000.0,2729500.8
+Largie Ramazani,ES1,Attack,Left Winger,25.3,1226,6,1,8000000.0,6086774.0
+Ethan Mbappé,FR1,Attack,Right Winger,19.5,559,3,1,8000000.0,8740346.7
+Senne Lynen,L1,Midfield,Defensive Midfield,27.3,2757,0,1,8000000.0,5525385.6
+Matthieu Udol,FR1,Defender,Left-Back,30.2,3005,1,7,8000000.0,9155599.3
+Tijjani Noslin,IT1,Attack,Right Winger,26.9,1138,4,3,8000000.0,4961307.3
+Pepelu,ES1,Midfield,Defensive Midfield,27.8,2234,2,0,8000000.0,7554189.7
+Jorge Cuenca,GB1,Defender,Centre-Back,26.6,938,0,0,8000000.0,10928753.1
+Montassar Talbi,FR1,Defender,Centre-Back,28.1,2610,0,1,8000000.0,4205339.8
+Terem Moffi,FR1,Attack,Centre-Forward,27.1,489,2,0,8000000.0,2242285.0
+Jones El-Abdellaoui,ES1,Attack,Right Winger,20.4,668,2,0,8000000.0,3609811.6
+Antoine Griezmann,ES1,Attack,Second Striker,35.2,1468,7,4,8000000.0,3630273.1
+Samuel Mbangula,L1,Attack,Left Winger,22.4,1169,3,4,8000000.0,5293283.7
+Taiwo Awoniyi,GB1,Attack,Centre-Forward,28.8,481,4,2,8000000.0,12696662.5
+Valentin Rongier,FR1,Midfield,Central Midfield,31.5,2745,2,5,8000000.0,5459283.4
+Simon Sohm,IT1,Midfield,Central Midfield,25.2,1429,0,1,8000000.0,8524420.8
+Harry Maguire,GB1,Defender,Centre-Back,33.3,1655,1,2,8000000.0,6495636.3
+Alex Meret,IT1,Goalkeeper,Goalkeeper,29.2,980,0,1,8000000.0,9683688.0
+Vitinha,IT1,Attack,Centre-Forward,26.3,2242,5,2,8000000.0,6544163.9
+Tommaso Pobega,IT1,Midfield,Central Midfield,26.9,1435,3,1,8000000.0,8799463.1
+Bilal Nadir,FR1,Midfield,Central Midfield,22.5,588,0,4,8000000.0,4113215.3
+Bryan Zaragoza,ES1,Attack,Left Winger,24.8,1270,1,2,8000000.0,8430167.9
+Nicolás Capaldo,L1,Defender,Centre-Back,27.8,2010,1,3,8000000.0,3025335.1
+Samuel Amo-Ameyaw,FR1,Attack,Right Winger,19.9,1041,2,2,8000000.0,9941834.7
+Ruben Kluivert,FR1,Defender,Centre-Back,25.1,768,1,2,8000000.0,4331870.2
+Kevin De Bruyne,IT1,Midfield,Attacking Midfield,35.0,1169,5,2,8000000.0,4702915.7
+Rassoul Ndiaye,FR1,Midfield,Central Midfield,24.5,2577,4,4,8000000.0,8204693.0
+Moritz Nicolas,L1,Goalkeeper,Goalkeeper,28.6,3060,0,0,8000000.0,5487763.0
+David Møller Wolfe,GB1,Defender,Left-Back,24.1,1048,0,2,8000000.0,4820670.8
+Rayan Fofana,FR1,Attack,Centre-Forward,20.3,785,5,1,8000000.0,11259058.5
+Brais Méndez,ES1,Midfield,Attacking Midfield,29.4,1671,6,2,8000000.0,6352003.0
+Pablo Fornals,ES1,Midfield,Central Midfield,30.3,2866,9,6,8000000.0,14562111.7
+Lucas Beltrán,ES1,Attack,Centre-Forward,25.2,1366,1,2,8000000.0,6344230.3
+Manor Solomon,IT1,Attack,Left Winger,26.9,1033,3,2,8000000.0,3659755.7
+Jérémie Boga,IT1,Attack,Left Winger,29.4,1322,6,3,8000000.0,8427342.0
+Luke Shaw,GB1,Defender,Left-Back,30.9,3233,1,1,8000000.0,16018529.6
+Iván Romero,ES1,Attack,Centre-Forward,25.2,2280,7,2,8000000.0,9265124.9
+Idrissa Gueye,IT1,Attack,Centre-Forward,19.7,536,1,0,8000000.0,3414193.2
+Benedict Hollerbach,L1,Attack,Centre-Forward,25.1,884,1,3,8000000.0,10550708.7
+Issa Diop,GB1,Defender,Centre-Back,29.4,814,1,0,8000000.0,8230327.5
+Han-Noah Massengo,L1,Midfield,Central Midfield,24.9,2437,2,1,8000000.0,7067297.8
+Ousmane Camara,FR1,Defender,Centre-Back,23.3,2719,1,0,8000000.0,5100946.9
+Granit Xhaka,GB1,Midfield,Defensive Midfield,33.7,2901,1,6,8000000.0,3806605.0
+Bryan Gil,ES1,Attack,Left Winger,25.3,1587,0,3,8000000.0,5265573.5
+João Mário,IT1,Defender,Right-Back,26.4,994,1,0,8000000.0,3220815.3
+Issa Soumaré,FR1,Attack,Left Winger,25.7,2949,8,5,8000000.0,11396929.2
+Arthur,L1,Defender,Right-Back,23.2,1132,1,3,8000000.0,10628747.1
+Lyle Foster,GB1,Attack,Centre-Forward,25.8,1372,3,2,8000000.0,8232417.6
+Aymeric Laporte,ES1,Defender,Centre-Back,32.1,2060,0,2,8000000.0,1734077.3
+Arouna Sangante,FR1,Defender,Centre-Back,24.2,2335,1,1,8000000.0,6336168.6
+Atakan Karazor,L1,Midfield,Defensive Midfield,29.7,1891,0,1,8000000.0,12037785.0
+Andrew Omobamidele,FR1,Defender,Centre-Back,24.0,1352,1,0,8000000.0,6860386.6
+Seko Fofana,FR1,Midfield,Central Midfield,31.1,654,1,0,8000000.0,2998472.6
+João Cancelo,ES1,Defender,Right-Back,32.1,953,2,3,8000000.0,6288452.2
+Ryan Christie,GB1,Midfield,Central Midfield,31.3,986,2,0,8000000.0,6574334.3
+Lorenzo Pellegrini,IT1,Midfield,Attacking Midfield,30.0,1476,4,2,8000000.0,12066739.5
+Eivind Helland,IT1,Defender,Centre-Back,21.1,488,0,0,8000000.0,3755245.8
+Luca Netz,L1,Defender,Left-Back,23.1,1293,0,2,8000000.0,4185599.5
+Kenny Tete,GB1,Defender,Right-Back,30.7,1795,1,0,8000000.0,7082051.5
+Giovani Lo Celso,ES1,Midfield,Attacking Midfield,30.2,1397,2,3,8000000.0,10142498.0
+Andrija Bulatovic,FR1,Midfield,Central Midfield,19.5,753,0,4,8000000.0,10646817.2
+Giovanni Di Lorenzo,IT1,Defender,Right-Back,32.9,2278,2,3,7500000.0,6901907.9
+Batista Mendy,ES1,Midfield,Defensive Midfield,26.4,1619,1,0,7500000.0,3483557.9
+Nobel Mendy,ES1,Defender,Centre-Back,21.8,1804,2,0,7500000.0,9689457.0
+Aimar Oroz,ES1,Midfield,Attacking Midfield,24.5,2154,0,2,7500000.0,10941045.3
+Arijanet Murić,IT1,Goalkeeper,Goalkeeper,27.6,2880,0,0,7500000.0,6775866.7
+Derry Scherhant,L1,Attack,Left Winger,23.6,1292,5,2,7500000.0,5431725.3
+Saúl Coco,IT1,Defender,Centre-Back,27.3,3090,1,1,7500000.0,6904378.0
+Aitor Paredes,ES1,Defender,Centre-Back,26.1,1629,2,0,7500000.0,6181428.2
+Djibril Sow,ES1,Midfield,Central Midfield,29.4,2195,5,4,7500000.0,5285129.4
+Toni Martínez,ES1,Attack,Centre-Forward,29.0,2730,14,3,7500000.0,10291377.6
+Javi Puado,ES1,Attack,Left Winger,28.1,678,2,0,7500000.0,7280778.2
+Mattia Zaccagni,IT1,Attack,Left Winger,31.0,2114,3,1,7500000.0,6611966.3
+Luca Lipani,IT1,Midfield,Defensive Midfield,21.1,1027,0,1,7500000.0,4789450.9
+Adam Daghim,L1,Attack,Right Winger,20.7,1358,2,3,7500000.0,4780250.2
+Joe Scally,L1,Defender,Right-Back,23.5,2611,2,3,7000000.0,9425859.7
+Gift Orban,IT1,Attack,Centre-Forward,23.9,2038,7,3,7000000.0,6875280.1
+Mark McKenzie,FR1,Defender,Centre-Back,27.3,2405,0,2,7000000.0,7505040.7
+Charles Vanhoutte,FR1,Midfield,Defensive Midfield,27.7,1779,0,2,7000000.0,1995181.1
+Brice Samba,FR1,Goalkeeper,Goalkeeper,32.1,2880,0,0,7000000.0,5123188.2
+Adam Obert,IT1,Defender,Left-Back,23.8,2782,0,3,7000000.0,7511024.4
+Ramy Bensebaini,L1,Defender,Centre-Back,31.2,1528,5,2,7000000.0,10632935.1
+Álvaro Valles,ES1,Goalkeeper,Goalkeeper,28.9,2520,0,0,7000000.0,12010421.5
+Andrew Robertson,GB1,Defender,Left-Back,32.3,1172,1,0,7000000.0,4845483.6
+Moses Simon,FR1,Attack,Left Winger,30.9,2021,3,3,7000000.0,4427848.1
+Mahamadou Nagida,FR1,Defender,Left-Back,21.0,798,0,0,7000000.0,4066401.3
+Mario Hermoso,IT1,Defender,Centre-Back,31.0,2096,3,2,7000000.0,11252712.8
+Giovanni Simeone,IT1,Attack,Centre-Forward,30.9,2247,11,2,7000000.0,3138334.0
+Matteo Cancellieri,IT1,Attack,Right Winger,24.3,1731,4,2,7000000.0,10054938.6
+Jon Moncayola,ES1,Midfield,Central Midfield,28.1,3029,0,4,7000000.0,8464797.3
+Domenico Berardi,IT1,Attack,Right Winger,31.9,1971,8,5,7000000.0,3357430.3
+Herba Guirassy,FR1,Attack,Left Winger,19.8,819,2,1,7000000.0,2799200.3
+Sadibou Sané,FR1,Defender,Centre-Back,22.0,1941,2,1,7000000.0,3601534.7
+Ibrahim Osman,FR1,Attack,Left Winger,21.5,623,0,2,7000000.0,2644221.4
+Michel Adopo,IT1,Midfield,Central Midfield,25.9,3057,1,2,7000000.0,8975751.1
+Robert Lewandowski,ES1,Attack,Centre-Forward,37.8,1656,14,3,7000000.0,8423290.4
+Yannik Engelhardt,L1,Midfield,Defensive Midfield,25.3,2491,2,2,7000000.0,10233234.0
+Ryan Yates,GB1,Midfield,Central Midfield,28.6,603,0,2,7000000.0,12730319.5
+Franck Honorat,L1,Attack,Right Winger,29.8,1988,2,6,7000000.0,5636243.8
+Nelson Weiper,L1,Attack,Centre-Forward,21.2,540,0,0,7000000.0,3351781.8
+Ebenezer Akinsanmiro,IT1,Midfield,Central Midfield,21.6,1446,0,1,7000000.0,4353676.4
+Rafik Belghali,IT1,Defender,Right-Back,24.0,1928,2,0,7000000.0,2530316.7
+Jovan Milosevic,L1,Attack,Centre-Forward,20.9,483,3,1,7000000.0,5518060.2
+Nidal Celik,FR1,Defender,Centre-Back,19.9,618,0,0,7000000.0,3772684.9
+Bryan Cristante,IT1,Midfield,Defensive Midfield,31.3,3103,2,1,7000000.0,16208370.6
+Pablo Marín,ES1,Midfield,Attacking Midfield,23.0,1494,0,1,7000000.0,6104846.2
+Kieron Bowie,IT1,Attack,Centre-Forward,23.7,1204,4,1,7000000.0,5472187.9
+Vini Souza,L1,Midfield,Defensive Midfield,27.0,1771,0,0,7000000.0,2579536.7
+Luca Marianucci,IT1,Defender,Centre-Back,21.9,691,0,1,7000000.0,2858334.2
+Anthony Caci,L1,Defender,Right-Back,29.0,520,0,0,7000000.0,4086852.6
+Felipe Loyola,IT1,Midfield,Central Midfield,25.6,539,1,0,7000000.0,1742944.8
+Yassin Belkhdim,FR1,Midfield,Central Midfield,24.3,2149,2,2,7000000.0,6264434.9
+Yehvann Diouf,FR1,Goalkeeper,Goalkeeper,26.6,2340,0,0,7000000.0,4267532.8
+Diant Ramaj,L1,Goalkeeper,Goalkeeper,24.7,2790,0,1,7000000.0,4090987.5
+Tom Louchet,FR1,Midfield,Right Midfield,23.1,1365,3,2,7000000.0,3011372.7
+Joris Chotard,FR1,Midfield,Defensive Midfield,24.7,2777,2,1,7000000.0,7762900.0
+Romain Del Castillo,FR1,Attack,Right Winger,30.2,2646,9,3,7000000.0,6004089.7
+Cameron Puertas,L1,Midfield,Central Midfield,27.8,1852,1,2,7000000.0,2500220.1
+Armel Bella-Kotchap,IT1,Defender,Centre-Back,24.5,1347,0,0,7000000.0,2234063.3
+Carlos Soler,ES1,Midfield,Central Midfield,29.4,2326,4,3,7000000.0,6247386.8
+Adam Karabec,FR1,Midfield,Attacking Midfield,23.0,925,1,0,7000000.0,4887467.3
+Amir Murillo,FR1,Defender,Right-Back,30.3,988,2,2,7000000.0,6142032.7
+Bamo Meïté,FR1,Defender,Centre-Back,24.5,1980,0,3,7000000.0,4340085.0
+Nadir Zortea,IT1,Defender,Right-Back,27.0,1811,0,3,7000000.0,7580827.2
+Dani Ceballos,ES1,Midfield,Central Midfield,29.9,482,0,0,7000000.0,4871162.7
+Nikola Moro,IT1,Midfield,Defensive Midfield,28.3,1798,2,0,7000000.0,7035838.5
+Nicolò Bertola,IT1,Defender,Centre-Back,23.2,1761,0,1,7000000.0,5550516.5
+Joakim Maehle,L1,Defender,Left-Back,29.1,1224,1,2,7000000.0,2803146.3
+Rav van den Berg,L1,Defender,Centre-Back,21.9,1132,0,1,7000000.0,4712223.9
+Tani Oluwaseyi,ES1,Attack,Centre-Forward,26.1,892,2,2,7000000.0,8268615.1
+Kauã Santos,L1,Goalkeeper,Goalkeeper,23.2,1085,0,0,7000000.0,3127124.0
+Cyril Ngonge,IT1,Attack,Right Winger,26.1,1418,1,3,7000000.0,2676300.3
+Johann Lepenant,FR1,Midfield,Defensive Midfield,23.6,2175,0,1,7000000.0,5385572.6
+Romain Perraud,FR1,Defender,Left-Back,28.7,2250,3,5,7000000.0,11607761.3
+Reda Belahyane,IT1,Midfield,Defensive Midfield,22.0,605,0,2,6800000.0,5945592.9
+Christian Ordóñez,IT1,Midfield,Central Midfield,21.9,1085,1,0,6500000.0,4250307.4
+Marin Pongracic,IT1,Defender,Centre-Back,28.8,2918,0,0,6500000.0,4817694.8
+Oliver Sørensen,IT1,Midfield,Central Midfield,24.3,1834,1,1,6500000.0,4071188.3
+Jack Harrison,IT1,Attack,Left Winger,29.6,1241,1,3,6500000.0,2891273.1
+Gabriel Strefezza,IT1,Attack,Right Winger,29.2,1016,2,2,6500000.0,5186738.5
+Gianluca Gaetano,IT1,Midfield,Defensive Midfield,26.1,1911,2,4,6500000.0,5894258.8
+Alidu Seidu,FR1,Defender,Centre-Back,26.0,1185,0,1,6000000.0,5225015.6
+Fabiano Parisi,IT1,Defender,Left-Back,25.6,1528,1,2,6000000.0,5363792.9
+Lukas Ullrich,L1,Defender,Left-Back,22.2,1306,0,0,6000000.0,5552626.1
+Bradley Locko,FR1,Defender,Left-Back,24.1,1285,0,2,6000000.0,2651061.3
+Germán Valera,ES1,Attack,Left Winger,24.2,2871,4,5,6000000.0,11805810.7
+Robert Andrich,L1,Midfield,Defensive Midfield,31.7,2547,2,0,6000000.0,6209360.9
+Jordy Makengo,L1,Defender,Left-Back,24.9,1173,0,1,6000000.0,3627785.2
+Matías Moreno,ES1,Defender,Centre-Back,22.7,2256,0,0,6000000.0,6762373.8
+Marcel Sabitzer,L1,Midfield,Central Midfield,32.2,1823,1,2,6000000.0,6498359.4
+Casemiro,GB1,Midfield,Defensive Midfield,34.3,2589,9,2,6000000.0,6124071.4
+Junior Mwanga,FR1,Midfield,Defensive Midfield,23.1,1642,1,1,6000000.0,5018562.2
+Hugo Bolin,L1,Attack,Left Winger,22.9,547,1,2,6000000.0,4232592.0
+Álvaro Morata,IT1,Attack,Centre-Forward,33.6,924,0,2,6000000.0,2263204.1
+Soumaïla Coulibaly,FR1,Defender,Centre-Back,22.7,1339,0,0,6000000.0,3446077.8
+Warren Bondo,IT1,Midfield,Central Midfield,22.7,1770,0,0,6000000.0,5533607.5
+Santiago Hidalgo,FR1,Attack,Centre-Forward,21.3,1303,4,6,6000000.0,6635454.8
+Félix Lemaréchal,FR1,Midfield,Attacking Midfield,22.9,555,0,2,6000000.0,11599366.6
+Sinaly Diomandé,FR1,Defender,Centre-Back,25.2,2134,2,2,6000000.0,6885055.2
+Ibrahim Sulemana,IT1,Midfield,Defensive Midfield,23.1,895,1,0,6000000.0,3787240.2
+Lucas Digne,GB1,Defender,Left-Back,32.9,1852,0,6,6000000.0,5006117.8
+Bernd Leno,GB1,Goalkeeper,Goalkeeper,34.3,3420,0,0,6000000.0,2515606.5
+Mark Flekken,L1,Goalkeeper,Goalkeeper,33.0,2130,0,0,6000000.0,5006147.7
+Javi Rueda,ES1,Defender,Right-Back,24.1,1405,2,6,6000000.0,5503683.9
+Mikael Egill Ellertsson,IT1,Midfield,Central Midfield,24.3,2768,1,2,6000000.0,12485353.9
+Andrés Castrín,ES1,Defender,Centre-Back,23.1,1276,1,0,6000000.0,3708983.0
+Max Rosenfelder,L1,Defender,Centre-Back,23.3,489,0,0,6000000.0,3212240.2
+Emirhan İlkhan,IT1,Midfield,Central Midfield,22.0,1008,1,2,6000000.0,4942992.0
+Joel Roca,ES1,Attack,Left Winger,21.0,1468,3,1,6000000.0,7352170.2
+Robert Navarro,ES1,Attack,Right Winger,24.2,1293,6,1,6000000.0,6070610.9
+Leo Román,ES1,Goalkeeper,Goalkeeper,25.9,2970,0,0,6000000.0,7059755.5
+Antonio Rüdiger,ES1,Defender,Centre-Back,33.3,1491,1,0,6000000.0,4210817.8
+Eren Dinkçi,L1,Attack,Right Winger,24.5,1381,3,3,6000000.0,3843831.3
+Luca Koleosho,FR1,Attack,Right Winger,21.7,603,3,1,6000000.0,2871513.2
+Junior Diaz,FR1,Defender,Centre-Back,22.9,1560,0,1,6000000.0,3749355.8
+Manu Sánchez,ES1,Defender,Left-Back,25.8,2818,1,2,6000000.0,8900559.9
+Lucas Gourna-Douath,FR1,Midfield,Defensive Midfield,22.9,1276,0,0,6000000.0,4123475.7
+Abdoulaye Ndiaye,IT1,Defender,Centre-Back,24.2,780,0,0,6000000.0,3990448.6
+Augusto Batalla,ES1,Goalkeeper,Goalkeeper,30.1,3060,0,0,6000000.0,7982075.3
+Jefferson Lerma,GB1,Midfield,Defensive Midfield,31.6,1724,0,4,6000000.0,6221251.3
+Antonio Sivera,ES1,Goalkeeper,Goalkeeper,29.8,3420,0,0,6000000.0,6236780.2
+André Almeida,ES1,Midfield,Attacking Midfield,26.0,1016,0,2,6000000.0,4953179.7
+Zakaria Aboukhlal,IT1,Attack,Right Winger,26.3,507,0,0,6000000.0,5213906.4
+Enrico Delprato,IT1,Defender,Right-Back,26.6,2953,2,0,6000000.0,7621596.9
+Nicolas Pépé,ES1,Attack,Right Winger,31.0,2397,8,10,6000000.0,16267880.2
+Danny Namaso,FR1,Attack,Left Winger,25.8,2528,3,3,6000000.0,6026689.0
+Victor Nelsson,IT1,Defender,Centre-Back,27.7,3316,0,0,6000000.0,2779724.9
+Yangel Herrera,ES1,Midfield,Central Midfield,28.4,638,0,1,6000000.0,5448943.6
+Adam Armstrong,GB1,Attack,Centre-Forward,29.3,1147,2,2,6000000.0,9219378.3
+Igor Zubeldia,ES1,Defender,Centre-Back,29.2,2082,0,1,6000000.0,6134724.6
+Filip Ugrinic,ES1,Midfield,Central Midfield,27.4,1507,0,3,6000000.0,3630785.3
+Luca Ranieri,IT1,Defender,Centre-Back,27.1,2463,1,0,6000000.0,7422822.1
+Gonçalo Guedes,ES1,Attack,Left Winger,29.5,1832,8,4,6000000.0,7750128.1
+Krépin Diatta,FR1,Midfield,Right Midfield,27.3,1011,0,1,6000000.0,4058186.6
+Hans Nicolussi Caviglia,IT1,Midfield,Defensive Midfield,26.0,1458,0,4,6000000.0,6387453.7
+Stefan Posch,L1,Defender,Centre-Back,29.1,1779,1,0,6000000.0,3423687.6
+Gabriel Suazo,ES1,Defender,Left-Back,28.8,2096,0,2,6000000.0,4697853.2
+Alberto Dossena,IT1,Defender,Centre-Back,27.7,856,0,1,6000000.0,3018575.2
+Álvaro Fidalgo,ES1,Midfield,Central Midfield,29.2,547,1,0,6000000.0,3597093.5
+Alessio Romagnoli,IT1,Defender,Centre-Back,31.4,2667,0,0,6000000.0,4381258.1
+Fisayo Dele-Bashiru,IT1,Midfield,Central Midfield,25.4,1182,1,0,6000000.0,5329254.2
+Kristijan Jakic,L1,Midfield,Defensive Midfield,29.1,1654,2,1,6000000.0,4573504.5
+Jean-Victor Makengo,FR1,Midfield,Attacking Midfield,28.0,1815,4,2,6000000.0,3562367.4
+Pol Lozano,ES1,Midfield,Central Midfield,26.7,2170,2,1,6000000.0,6049830.6
+Hugo Magnetti,FR1,Midfield,Central Midfield,28.0,2697,1,2,6000000.0,5400988.1
+Junior Dina Ebimbe,FR1,Midfield,Right Midfield,25.6,1167,5,0,6000000.0,3370517.7
+Borja Mayoral,ES1,Attack,Centre-Forward,29.2,1059,4,1,6000000.0,4818730.6
+Keven Schlotterbeck,L1,Defender,Centre-Back,29.1,2031,0,2,6000000.0,3993317.9
+Hee-chan Hwang,GB1,Attack,Centre-Forward,30.4,1455,2,2,6000000.0,4144146.8
+Przemyslaw Frankowski,FR1,Defender,Right-Back,31.2,1217,1,2,6000000.0,4157069.1
+Gerónimo Rulli,FR1,Goalkeeper,Goalkeeper,34.1,2610,0,0,6000000.0,2996627.1
+Mario Pašalić,IT1,Midfield,Central Midfield,31.3,1931,3,4,6000000.0,5373425.6
+Hervé Koffi,FR1,Goalkeeper,Goalkeeper,29.7,2659,0,0,6000000.0,2468909.7
+Marcus Edwards,GB1,Attack,Right Winger,27.5,1065,1,3,6000000.0,5549803.7
+Matteo Prati,IT1,Midfield,Defensive Midfield,22.5,1889,1,1,5500000.0,6436746.1
+Gvidas Gineitis,IT1,Midfield,Central Midfield,22.2,1763,0,1,5500000.0,7558798.8
+Sebastian Sebulonsen,L1,Defender,Right-Back,26.4,2505,0,0,5500000.0,3028573.5
+Yukinari Sugawara,L1,Defender,Right-Back,26.0,2434,0,6,5500000.0,3885155.0
+Jacob Ondrejka,IT1,Attack,Left Winger,23.8,776,0,0,5500000.0,3139939.7
+James Tarkowski,GB1,Defender,Centre-Back,33.6,3330,2,3,5000000.0,3189248.8
+Raphaël Guerreiro,L1,Defender,Left-Back,32.5,782,5,3,5000000.0,6940226.1
+David Carmo,ES1,Defender,Centre-Back,26.9,1787,1,0,5000000.0,2128509.7
+Théo Le Bris,FR1,Midfield,Right Midfield,23.7,1902,2,2,5000000.0,4759967.7
+Armando Broja,GB1,Attack,Centre-Forward,24.8,849,1,1,5000000.0,4535614.2
+Rasmus Nicolaisen,FR1,Defender,Centre-Back,29.2,2568,1,0,5000000.0,4550173.2
+İsak Vural,IT1,Midfield,Central Midfield,20.0,752,0,1,5000000.0,2426217.8
+Albert Grønbaek,L1,Midfield,Attacking Midfield,25.1,596,1,2,5000000.0,3964049.8
+Cédric Zesiger,L1,Defender,Centre-Back,28.0,1812,0,0,5000000.0,3955494.2
+Obed Nkambadio,FR1,Goalkeeper,Goalkeeper,23.4,1080,0,0,5000000.0,2158923.7
+Michael Folorunsho,IT1,Midfield,Central Midfield,28.4,2009,2,0,5000000.0,4204969.8
+Maxime Lopez,FR1,Midfield,Defensive Midfield,28.5,1960,0,3,5000000.0,3499036.3
+Aaron Zehnter,L1,Defender,Left-Back,21.6,1461,2,0,5000000.0,5292556.3
+Willem Geubbels,FR1,Attack,Centre-Forward,24.8,1012,5,0,5000000.0,3597092.2
+Aron Dønnum,FR1,Midfield,Right Midfield,28.2,2424,4,4,5000000.0,8789964.7
+Isaac Romero,ES1,Attack,Centre-Forward,26.1,1490,4,2,5000000.0,6199838.2
+Matteo Politano,IT1,Attack,Right Winger,32.9,2214,2,5,5000000.0,6075697.1
+Ayumu Seko,FR1,Defender,Centre-Back,26.0,2625,0,0,5000000.0,4091031.7
+Denis Vavro,L1,Defender,Centre-Back,30.2,1175,1,0,5000000.0,2271551.9
+Kaïl Boudache,FR1,Attack,Right Winger,20.0,528,1,0,5000000.0,1916718.7
+Justin Njinmah,L1,Attack,Right Winger,25.6,1955,5,0,5000000.0,4841068.7
+Himad Abdelli,FR1,Midfield,Attacking Midfield,26.6,1081,2,0,5000000.0,3677101.4
+James Sands,L1,Midfield,Defensive Midfield,25.9,1941,1,0,5000000.0,3180761.2
+Gaetano Oristanio,IT1,Midfield,Attacking Midfield,23.7,858,1,0,5000000.0,7111326.6
+Hjalmar Ekdal,GB1,Defender,Centre-Back,27.6,1540,0,0,5000000.0,4881918.1
+Jesús Areso,ES1,Defender,Right-Back,27.0,1504,0,1,5000000.0,4283226.3
+Paulo Dybala,IT1,Attack,Second Striker,32.6,1356,2,7,5000000.0,6805406.6
+Jan Thielmann,L1,Attack,Right Winger,24.1,1548,3,1,5000000.0,4210529.1
+Juan Iglesias,ES1,Defender,Right-Back,28.0,3189,1,2,5000000.0,8312704.6
+Abdallah Sima,FR1,Attack,Left Winger,25.0,711,2,2,5000000.0,8960636.7
+Medon Berisha,IT1,Midfield,Central Midfield,22.7,881,2,3,5000000.0,4921279.2
+Dehmaine Tabibou,FR1,Midfield,Central Midfield,21.2,1251,1,0,5000000.0,3009168.0
+Pablo Torre,ES1,Midfield,Attacking Midfield,23.2,1603,4,4,5000000.0,6724432.9
+Jon Pacheco,ES1,Defender,Centre-Back,25.4,1734,0,0,5000000.0,4067066.7
+Will Hughes,GB1,Midfield,Central Midfield,31.2,1568,0,0,5000000.0,6613392.5
+Matthias Ginter,L1,Defender,Centre-Back,32.4,2836,3,5,5000000.0,3781471.8
+Jenson Seelt,L1,Defender,Centre-Back,23.1,814,0,0,5000000.0,1963069.2
+Darlin Yongwa,FR1,Defender,Left-Back,25.7,1305,0,1,5000000.0,2265899.6
+Aster Vranckx,IT1,Midfield,Central Midfield,23.7,692,0,0,5000000.0,2408747.3
+Ransford Königsdörffer,L1,Attack,Centre-Forward,24.8,2350,5,0,5000000.0,6473876.3
+Axel Tuanzebe,GB1,Defender,Centre-Back,28.6,1202,1,0,5000000.0,7560582.7
+Rafa Obrador,IT1,Defender,Left-Back,22.3,1123,1,3,5000000.0,4926537.9
+Ché Adams,IT1,Attack,Centre-Forward,29.9,1897,6,3,5000000.0,4149218.8
+Diego Carlos,IT1,Defender,Centre-Back,33.3,1948,1,0,5000000.0,3370555.0
+Martín Payero,IT1,Midfield,Central Midfield,27.8,1460,1,0,5000000.0,2611598.7
+Adrian Benedyczak,IT1,Attack,Centre-Forward,25.6,486,1,1,5000000.0,2460373.6
+Willi Orbán,L1,Defender,Centre-Back,33.6,2950,2,0,5000000.0,4884890.9
+Arthur Chaves,L1,Defender,Centre-Back,25.4,1067,2,0,5000000.0,5866880.0
+Gauthier Hein,FR1,Attack,Right Winger,29.9,2355,8,7,5000000.0,4235512.9
+Rafael Luís,FR1,Midfield,Defensive Midfield,21.3,585,0,2,5000000.0,3949464.4
+Hugo Sotelo,ES1,Midfield,Central Midfield,22.5,1342,0,2,5000000.0,8699540.7
+Moritz Jenz,L1,Defender,Centre-Back,27.1,1789,1,0,5000000.0,3445726.1
+Lucas Boyé,ES1,Attack,Centre-Forward,30.3,1959,11,1,5000000.0,4769594.1
+Eric Smith,L1,Defender,Centre-Back,29.4,2314,2,2,5000000.0,3004083.2
+Unai Gómez,ES1,Midfield,Attacking Midfield,23.1,933,1,1,5000000.0,4399741.5
+Kevin Diks,L1,Defender,Centre-Back,29.7,2467,5,0,5000000.0,4627705.2
+Aleix Febas,ES1,Midfield,Central Midfield,30.4,3166,2,2,5000000.0,4187678.3
+Iván Martín,ES1,Midfield,Central Midfield,27.3,2540,0,1,5000000.0,5801849.6
+Jordan Zemura,IT1,Defender,Left-Back,26.6,1128,0,2,5000000.0,4061650.3
+Gorka Guruzeta,ES1,Attack,Centre-Forward,29.8,2370,10,3,5000000.0,7329620.6
+Koke,ES1,Midfield,Central Midfield,34.4,2220,2,2,5000000.0,2950497.7
+Wesley Saïd,FR1,Attack,Second Striker,31.2,2013,12,2,5000000.0,12345972.5
+Idrissa Touré,IT1,Midfield,Right Midfield,28.1,2281,1,1,5000000.0,1896362.0
+Victor Lindelöf,GB1,Defender,Centre-Back,31.9,944,0,1,5000000.0,4654067.9
+Altay Bayındır,GB1,Goalkeeper,Goalkeeper,28.2,540,0,0,5000000.0,7680105.3
+Florian Thauvin,FR1,Attack,Right Winger,33.4,2462,11,6,5000000.0,8222638.4
+Boulaye Dia,IT1,Attack,Centre-Forward,29.6,1250,1,2,5000000.0,4801623.6
+Aarón Martín,IT1,Defender,Left-Back,29.1,2161,1,5,5000000.0,4598735.7
+Sebastian Walukiewicz,IT1,Defender,Right-Back,26.2,2855,0,1,5000000.0,6728109.3
+Miro Muheim,L1,Defender,Left-Back,28.2,2437,0,4,5000000.0,3172643.7
+Ellyes Skhiri,L1,Midfield,Defensive Midfield,31.1,1442,0,0,5000000.0,2979254.3
+Alpha Touré,FR1,Midfield,Defensive Midfield,20.4,1602,0,1,5000000.0,3043089.0
+Chris Wood,GB1,Attack,Centre-Forward,34.5,907,3,0,5000000.0,4713636.2
+Max Finkgräfe,L1,Defender,Left-Back,22.2,502,1,1,5000000.0,5599365.1
+Javi López,ES1,Defender,Left-Back,24.2,1713,0,1,5000000.0,3373650.2
+Ardian Ismajli,IT1,Defender,Centre-Back,29.7,1907,0,1,5000000.0,3508194.4
+Edu Expósito,ES1,Midfield,Central Midfield,29.9,2542,1,6,5000000.0,3860382.8
+Alejandro Rego,ES1,Midfield,Central Midfield,23.0,1265,1,1,5000000.0,4666844.8
+James Ward-Prowse,GB1,Midfield,Central Midfield,31.6,1097,0,1,5000000.0,3451295.3
+Ayoze Pérez,ES1,Attack,Centre-Forward,32.9,1122,5,4,5000000.0,6928989.5
+Nick Pope,GB1,Goalkeeper,Goalkeeper,34.2,2417,0,0,5000000.0,2523656.1
+José Copete,ES1,Defender,Centre-Back,26.7,1761,0,0,5000000.0,5571237.4
+Hennes Behrens,L1,Defender,Left-Back,21.4,1319,1,2,5000000.0,5231361.9
+Konstantinos Tsimikas,IT1,Defender,Left-Back,30.1,638,0,0,4500000.0,3486472.7
+Samuele Angori,IT1,Midfield,Left Midfield,22.7,2605,0,3,4500000.0,4968828.2
+Josh Doig,IT1,Defender,Left-Back,24.1,1919,0,0,4500000.0,4234781.3
+Alessandro Zanoli,IT1,Defender,Right-Back,25.7,1292,1,2,4500000.0,4551006.3
+Daouda Guindo,FR1,Defender,Left-Back,23.7,1687,1,1,4500000.0,3155215.0
+Vedat Muriqi,ES1,Attack,Centre-Forward,32.1,3137,23,1,4500000.0,7997293.4
+Alieu Fadera,IT1,Attack,Left Winger,24.6,976,2,2,4500000.0,4469705.3
+Simone Canestrelli,IT1,Defender,Centre-Back,25.8,3201,1,0,4500000.0,3578229.2
+Jamil Siebert,IT1,Defender,Centre-Back,24.2,1700,1,0,4500000.0,3951128.3
+Morgan Guilavogui,FR1,Attack,Right Winger,28.3,481,1,0,4500000.0,7932080.3
+Matteo Tramoni,IT1,Midfield,Attacking Midfield,26.4,1610,2,2,4500000.0,2594056.9
+Filippo Terracciano,IT1,Defender,Centre-Back,23.3,3012,2,0,4500000.0,5808946.2
+Tom Krauß,L1,Midfield,Defensive Midfield,25.0,1787,0,2,4500000.0,4237817.2
+Nikola Vasilj,L1,Goalkeeper,Goalkeeper,30.5,3060,0,0,4500000.0,3023430.6
+Carl Starfelt,ES1,Defender,Centre-Back,31.0,1492,0,0,4500000.0,3212284.6
+Pierre Lees-Melou,FR1,Midfield,Defensive Midfield,33.1,1966,1,3,4500000.0,1953014.6
+Nabil Bentaleb,FR1,Midfield,Defensive Midfield,31.6,1278,2,2,4500000.0,3623724.2
+Thiago Fernández,ES1,Attack,Left Winger,22.2,822,0,4,4500000.0,3878313.7
+Luca Pellegrini,IT1,Defender,Left-Back,27.3,1477,1,0,4500000.0,5849368.4
+Abdoulaye Faye,FR1,Defender,Centre-Back,21.7,1446,0,0,4500000.0,4669182.1
+Buba Sangaré,ES1,Defender,Right-Back,18.9,541,0,0,4500000.0,2208765.8
+Simon Ebonog,FR1,Midfield,Central Midfield,21.8,1764,1,0,4500000.0,4883981.8
+Moatasem Al-Musrati,IT1,Midfield,Defensive Midfield,30.2,841,0,1,4500000.0,1149989.1
+András Schäfer,L1,Midfield,Central Midfield,27.2,1419,2,1,4500000.0,3944990.3
+Jakub Piotrowski,IT1,Midfield,Central Midfield,28.7,1699,1,1,4500000.0,3110453.0
+Felix Agu,L1,Defender,Left-Back,26.7,747,0,1,4500000.0,2879576.1
+Patrizio Masini,IT1,Midfield,Central Midfield,25.4,1400,0,1,4200000.0,4534652.6
+Fabian Schär,GB1,Defender,Centre-Back,34.5,1091,0,0,4000000.0,1526222.0
+Ross Barkley,GB1,Midfield,Central Midfield,32.5,852,3,1,4000000.0,5929849.8
+Jesper Karlström,IT1,Midfield,Defensive Midfield,31.0,3153,1,0,4000000.0,5986880.0
+José Gayà,ES1,Defender,Left-Back,31.1,2462,1,2,4000000.0,3724102.0
+Yassine Kechta,FR1,Midfield,Central Midfield,24.3,1330,2,1,4000000.0,4558534.0
+Mathias Løvik,IT1,Defender,Left-Back,22.5,472,0,0,4000000.0,1962943.9
+Adrien Thomasson,FR1,Midfield,Central Midfield,32.5,2691,3,10,4000000.0,11729386.2
+Fran Beltrán,ES1,Midfield,Central Midfield,27.4,1544,1,0,4000000.0,4861338.5
+Dan Burn,GB1,Defender,Centre-Back,34.1,2199,1,3,4000000.0,2515394.7
+Kilian Fischer,L1,Defender,Right-Back,25.7,804,0,0,4000000.0,2653030.2
+Jordan Torunarigha,L1,Defender,Centre-Back,28.9,1965,0,0,4000000.0,2607482.4
+Boubacar Traoré,FR1,Midfield,Defensive Midfield,24.8,1392,1,0,4000000.0,2397779.9
+Bertrand Traoré,GB1,Attack,Right Winger,30.8,639,1,0,4000000.0,5510475.5
+Jacob Bruun Larsen,GB1,Attack,Left Winger,27.7,1023,0,1,4000000.0,4961609.9
+Daniel Carvajal,ES1,Defender,Right-Back,34.4,976,0,1,4000000.0,1711605.6
+Neal Maupay,ES1,Attack,Centre-Forward,29.8,872,2,1,4000000.0,3467814.1
+Rodrigo Riquelme,ES1,Attack,Left Winger,26.2,811,1,1,4000000.0,5248501.4
+Nicolás Tagliafico,FR1,Defender,Left-Back,33.8,1310,0,3,4000000.0,1920287.4
+Michel Aebischer,IT1,Midfield,Central Midfield,29.4,2900,1,2,4000000.0,2334128.9
+Brendan Chardonnet,FR1,Defender,Centre-Back,31.5,2547,1,4,4000000.0,3134012.4
+Jonathan Ikoné,FR1,Attack,Right Winger,28.1,1101,3,1,4000000.0,2836217.2
+Damion Downs,L1,Attack,Centre-Forward,21.9,537,0,0,4000000.0,2548899.8
+Arnaud Nordin,FR1,Attack,Right Winger,28.0,1041,1,2,4000000.0,5104997.2
+Lilian Raolisoa,FR1,Defender,Right-Back,26.0,1969,2,4,4000000.0,2966257.0
+Amine Sbaï,FR1,Attack,Left Winger,25.6,1834,3,1,4000000.0,3864405.4
+Sead Kolasinac,IT1,Defender,Centre-Back,33.0,1219,0,0,4000000.0,2222986.9
+Alan Matturro,ES1,Defender,Centre-Back,21.7,941,1,1,4000000.0,4757531.5
+Rosen Bozhinov,IT1,Defender,Centre-Back,21.4,614,0,0,4000000.0,1627873.1
+Riyad Idrissi,IT1,Defender,Left-Back,21.0,767,2,0,4000000.0,3284497.4
+Habib Diallo,FR1,Attack,Centre-Forward,31.0,1911,4,2,4000000.0,1556790.4
+Guido Rodríguez,ES1,Midfield,Defensive Midfield,32.2,1485,4,0,4000000.0,2255234.7
+Amos Pieper,L1,Defender,Centre-Back,28.4,1504,0,0,4000000.0,2525251.8
+Louis Mouton,FR1,Midfield,Attacking Midfield,24.0,1905,2,1,4000000.0,3498075.1
+Pablo Durán,ES1,Attack,Centre-Forward,25.1,1425,2,2,4000000.0,6790658.8
+Adrián Dela,ES1,Defender,Centre-Back,27.3,2710,3,1,4000000.0,6070885.6
+Rémy Labeau Lascary,FR1,Attack,Centre-Forward,23.3,1195,5,1,4000000.0,3784098.2
+Álex Berenguer,ES1,Attack,Left Winger,30.9,2164,2,3,4000000.0,4817082.7
+Lucas Pires,GB1,Defender,Left-Back,25.2,1406,0,0,4000000.0,5863524.2
+Yoel Lago,ES1,Defender,Centre-Back,22.2,940,0,0,4000000.0,4304893.1
+Umar Sadiq,ES1,Attack,Centre-Forward,29.4,1055,4,4,4000000.0,4056147.3
+Ángel Ortiz,ES1,Defender,Right-Back,21.9,582,0,0,4000000.0,3218654.6
+M'Bala Nzola,IT1,Attack,Centre-Forward,29.8,1520,4,1,4000000.0,2599046.9
+Rafa Mir,ES1,Attack,Centre-Forward,29.0,1810,8,0,4000000.0,6553694.5
+Santiago Pierotti,IT1,Attack,Right Winger,25.2,2616,1,2,4000000.0,6138822.4
+Bernardo,L1,Defender,Left-Back,31.1,2319,0,0,4000000.0,4831742.6
+Philip Otele,L1,Attack,Left Winger,27.2,477,1,1,4000000.0,1997589.2
+Salis Abdul Samed,FR1,Midfield,Defensive Midfield,26.2,913,0,0,4000000.0,1543642.5
+Clemens Riedel,ES1,Defender,Centre-Back,22.9,1397,0,1,4000000.0,4163168.8
+Reinildo Mandava,GB1,Defender,Left-Back,32.4,1969,0,2,4000000.0,3477119.8
+Rayan Philippe,L1,Attack,Right Winger,25.6,1285,5,0,4000000.0,3838290.7
+Gideon Mensah,FR1,Defender,Left-Back,27.9,2334,0,1,4000000.0,3861688.2
+Elisha Owusu,FR1,Midfield,Defensive Midfield,28.6,2349,0,0,4000000.0,4411659.8
+Justin Bijlow,IT1,Goalkeeper,Goalkeeper,28.4,1395,0,0,4000000.0,2558509.0
+Josh Cullen,GB1,Midfield,Central Midfield,30.2,1520,2,2,4000000.0,6050429.0
+Vincenzo Grifo,L1,Attack,Left Winger,33.2,1715,7,5,4000000.0,3329592.1
+Derrick Köhn,L1,Defender,Left-Back,27.4,1902,1,2,4000000.0,3700804.7
+Marco Grüll,L1,Attack,Left Winger,27.9,2012,3,1,4000000.0,3291023.1
+Warmed Omari,L1,Defender,Centre-Back,26.1,1608,0,1,4000000.0,3200759.9
+Jonas Wind,L1,Attack,Centre-Forward,27.4,480,1,0,4000000.0,4045280.6
+Kevin Carlos,FR1,Attack,Centre-Forward,25.2,874,0,1,4000000.0,1531526.9
+Philipp Sander,L1,Midfield,Defensive Midfield,28.3,2454,2,0,4000000.0,5984471.4
+Rodrigo Ribeiro,L1,Attack,Centre-Forward,21.1,633,2,0,4000000.0,4003501.7
+Alphonse Areola,GB1,Goalkeeper,Goalkeeper,33.3,1800,0,1,4000000.0,3376190.0
+Youssef Enríquez,ES1,Defender,Left-Back,20.7,1332,0,1,4000000.0,4551620.1
+Aitor Ruibal,ES1,Attack,Right Winger,30.2,1814,4,2,4000000.0,8789558.7
+Pablo Ibáñez,ES1,Midfield,Central Midfield,27.7,2248,1,1,4000000.0,4114032.0
+Callum Wilson,GB1,Attack,Centre-Forward,34.3,1242,7,1,4000000.0,1601053.6
+Marc Roca,ES1,Midfield,Defensive Midfield,29.5,2025,1,1,4000000.0,8866476.7
+Álvaro Núñez,ES1,Defender,Right-Back,25.9,1984,0,2,4000000.0,3652679.9
+Kristoffer Lund,L1,Defender,Left-Back,24.1,2284,0,2,4000000.0,3385512.0
+Jesús Vázquez,ES1,Defender,Left-Back,23.4,961,0,0,4000000.0,3039819.0
+Livan Burcu,L1,Attack,Left Winger,21.7,645,1,1,4000000.0,2515414.6
+Arnau Tenas,ES1,Goalkeeper,Goalkeeper,25.0,900,0,0,4000000.0,6943692.0
+Giovanni Reyna,L1,Midfield,Attacking Midfield,23.6,509,1,1,4000000.0,2615061.2
+Iñaki Peña,ES1,Goalkeeper,Goalkeeper,27.3,1440,0,0,4000000.0,3638848.9
+Cenk Özkacar,L1,Defender,Centre-Back,25.7,1793,0,0,4000000.0,3682390.1
+Jonathan Clauss,FR1,Defender,Right-Back,33.7,2531,1,7,4000000.0,1544761.4
+Chidera Ejuke,ES1,Attack,Left Winger,28.4,922,1,1,4000000.0,2541710.3
+Federico Viñas,ES1,Attack,Centre-Forward,28.0,2451,9,1,4000000.0,4422017.3
+Michael Zetterer,L1,Goalkeeper,Goalkeeper,30.9,1975,0,0,4000000.0,3922737.3
+Victor Parada,ES1,Defender,Left-Back,24.2,2152,0,3,4000000.0,5296406.8
+Ilyas Chaira,ES1,Attack,Left Winger,25.4,2461,6,2,4000000.0,5012443.0
+Robin Gosens,IT1,Defender,Left-Back,31.9,1893,3,1,4000000.0,2745265.9
+Manuel Neuer,L1,Goalkeeper,Goalkeeper,40.2,1860,0,0,4000000.0,2562697.5
+Niklas Süle,L1,Defender,Centre-Back,30.8,487,0,1,4000000.0,3251479.6
+Phillip Tietz,L1,Attack,Centre-Forward,28.9,1809,6,4,4000000.0,5956089.3
+Berat Djimsiti,IT1,Defender,Centre-Back,33.3,2526,0,0,4000000.0,2871189.3
+Alemão,ES1,Attack,Centre-Forward,28.2,1133,4,0,4000000.0,2986457.6
+Eric Dier,FR1,Defender,Centre-Back,32.4,687,1,0,4000000.0,1902545.1
+Shuto Machino,L1,Attack,Centre-Forward,26.7,1063,3,1,4000000.0,4222833.5
+Romain Faivre,FR1,Midfield,Attacking Midfield,27.9,583,0,2,4000000.0,2587919.9
+Isak Jansson,FR1,Attack,Left Winger,24.4,634,1,0,4000000.0,1489399.4
+Clément Lenglet,ES1,Defender,Centre-Back,31.0,1393,0,1,4000000.0,6029958.5
+Sebastiano Luperto,IT1,Defender,Centre-Back,29.8,3017,1,1,4000000.0,5994918.5
+Bryan Okoh,FR1,Defender,Centre-Back,23.1,1006,3,0,4000000.0,3836174.7
+Grégoire Coudert,FR1,Goalkeeper,Goalkeeper,27.2,2191,0,0,4000000.0,3574182.6
+Martim Neto,ES1,Midfield,Central Midfield,23.4,1351,2,5,4000000.0,5565226.9
+Sékou Mara,FR1,Attack,Centre-Forward,23.9,1229,3,2,4000000.0,3235809.0
+Stephan Zagadou,FR1,Defender,Centre-Back,17.6,498,1,0,4000000.0,1893560.6
+Henrik Meister,IT1,Attack,Centre-Forward,22.6,1514,2,0,3800000.0,3833157.5
+Tommaso Barbieri,IT1,Defender,Right-Back,23.8,1704,0,1,3800000.0,2232277.6
+Nicolò Casale,IT1,Defender,Centre-Back,28.3,675,0,0,3800000.0,2796559.9
+Antoine Bernede,IT1,Midfield,Central Midfield,27.1,2316,1,2,3500000.0,2740311.3
+Danilo Cataldi,IT1,Midfield,Defensive Midfield,31.9,1993,3,3,3500000.0,3899420.0
+Sambou Soumano,FR1,Attack,Centre-Forward,25.4,928,4,2,3500000.0,2465701.4
+David de Gea,IT1,Goalkeeper,Goalkeeper,35.6,3330,0,0,3500000.0,1378350.4
+Nikola Stulic,IT1,Attack,Centre-Forward,24.8,1715,4,0,3500000.0,3695636.3
+Francesco Coppola,IT1,Defender,Centre-Back,21.2,456,0,0,3500000.0,2238992.6
+Mateo Joseph,ES1,Attack,Centre-Forward,22.7,1704,2,4,3500000.0,7323611.9
+Lameck Banda,IT1,Attack,Left Winger,25.4,1760,5,4,3500000.0,4680496.9
+Unai Núñez,IT1,Defender,Centre-Back,29.4,2177,0,1,3500000.0,1761923.0
+Luka Modrić,IT1,Midfield,Central Midfield,40.8,2816,2,3,3500000.0,1755385.8
+Arkadiusz Pyrka,L1,Defender,Right-Back,23.7,2581,0,1,3500000.0,3335932.8
+Tiago Gouveia,FR1,Attack,Right Winger,25.0,526,0,0,3500000.0,1320911.1
+Haris Tabakovic,L1,Attack,Centre-Forward,32.0,2396,13,2,3500000.0,4065905.4
+Wladimiro Falcone,IT1,Goalkeeper,Goalkeeper,31.2,3420,0,0,3500000.0,4368479.6
+Niclas Füllkrug,IT1,Attack,Centre-Forward,33.3,1056,1,0,3500000.0,1996385.0
+Matz Sels,GB1,Goalkeeper,Goalkeeper,34.3,2667,0,0,3500000.0,2911521.9
+Federico Bernardeschi,IT1,Attack,Right Winger,32.3,1208,4,2,3500000.0,2024864.8
+Víctor Chust,ES1,Defender,Centre-Back,26.3,2165,1,0,3500000.0,4033979.9
+Antonino Gallo,IT1,Defender,Left-Back,26.4,3058,0,4,3500000.0,5373991.5
+Luis Milla,ES1,Midfield,Central Midfield,31.7,3277,1,10,3500000.0,7397267.3
+Hugo Rincón,ES1,Defender,Right-Back,23.4,1741,1,2,3500000.0,3158595.4
+Philipp Köhn,FR1,Goalkeeper,Goalkeeper,28.2,1619,0,0,3500000.0,5630242.4
+Federico Baschirotto,IT1,Defender,Centre-Back,29.7,2541,2,0,3500000.0,4349962.1
+Jorge Herrando,ES1,Defender,Centre-Back,25.3,1598,0,2,3500000.0,5040148.1
+José Sá,GB1,Goalkeeper,Goalkeeper,33.4,2070,0,0,3500000.0,2221028.4
+Jean-Philippe Krasso,FR1,Attack,Centre-Forward,28.9,1089,2,2,3500000.0,2069162.9
+Elvis Rexhbecaj,L1,Midfield,Central Midfield,28.6,1109,2,0,3500000.0,2864715.5
+Andreas Hanche-Olsen,L1,Defender,Centre-Back,29.4,850,0,0,3500000.0,2283318.3
+Junior Firpo,ES1,Defender,Left-Back,29.8,832,0,1,3500000.0,3255647.6
+Marcus Pedersen,IT1,Defender,Right-Back,25.9,2135,1,3,3500000.0,3965169.5
+Ivan Smolcic,IT1,Defender,Right-Back,25.8,1665,0,1,3500000.0,11056543.6
+Morgan Sanson,FR1,Midfield,Central Midfield,31.8,1773,0,2,3500000.0,1132086.4
+Leonardo Spinazzola,IT1,Defender,Left-Back,33.2,1903,3,3,3500000.0,3405780.0
+Robin Fellhauer,L1,Midfield,Defensive Midfield,28.4,2809,3,2,3500000.0,5335117.3
+Davide Zappacosta,IT1,Midfield,Right Midfield,34.0,2581,3,4,3500000.0,3497355.0
+Marc Aguado,ES1,Midfield,Defensive Midfield,26.3,2514,1,2,3500000.0,5910759.9
+Abdel Abqar,ES1,Defender,Centre-Back,27.3,1441,0,2,3500000.0,5861858.8
+Sandi Lovrić,IT1,Midfield,Central Midfield,28.2,519,0,1,3500000.0,3063543.3
+Grischa Prömel,L1,Midfield,Central Midfield,31.4,1746,7,2,3500000.0,3805071.9
+Adam Buksa,IT1,Attack,Centre-Forward,29.9,911,3,0,3500000.0,2089415.6
+Roman Yaremchuk,FR1,Attack,Centre-Forward,30.5,561,4,1,3500000.0,3669161.8
+Haissem Hassan,ES1,Attack,Right Winger,24.3,1943,0,3,3500000.0,2973267.6
+Woo-yeong Jeong,L1,Midfield,Attacking Midfield,26.7,1193,4,1,3500000.0,4032220.1
+Marc Oliver Kempf,IT1,Defender,Centre-Back,31.4,2323,4,1,3500000.0,9846276.2
+Raúl Moro,ES1,Attack,Left Winger,23.5,623,0,2,3500000.0,9987597.3
+Lewis Dunk,GB1,Defender,Centre-Back,34.6,2837,1,0,3500000.0,1704455.7
+Mostafa Mohamed,FR1,Attack,Centre-Forward,28.5,1151,4,0,3500000.0,2457499.1
+Abel Bretones,ES1,Defender,Left-Back,25.8,1619,1,2,3500000.0,5580853.3
+Olivier Deman,L1,Defender,Left-Back,26.2,1255,1,3,3500000.0,2956844.9
+Marten de Roon,IT1,Midfield,Defensive Midfield,35.2,2704,1,2,3200000.0,2126935.2
+Gautier Lloris,FR1,Defender,Centre-Back,30.9,2400,1,1,3000000.0,3504847.1
+Sergio Camello,ES1,Attack,Centre-Forward,25.3,818,5,1,3000000.0,4883472.1
+Juan Musso,ES1,Goalkeeper,Goalkeeper,32.1,720,0,0,3000000.0,1605999.0
+Frank Magri,FR1,Attack,Centre-Forward,26.8,1264,5,1,3000000.0,7059531.7
+Alfon González,ES1,Attack,Left Winger,27.1,639,2,0,3000000.0,8192929.6
+Pedro Díaz,ES1,Midfield,Central Midfield,28.0,1870,0,1,3000000.0,4422446.6
+Ugo Raghouber,ES1,Midfield,Defensive Midfield,22.9,707,0,0,3000000.0,2270242.9
+Peque Fernández,ES1,Attack,Second Striker,23.7,978,2,1,3000000.0,4268116.9
+Arnaut Danjuma,ES1,Attack,Left Winger,29.4,1627,3,2,3000000.0,4788979.5
+Andréas Hountondji,L1,Attack,Centre-Forward,23.9,1075,4,0,3000000.0,3120503.9
+Marvin Senaya,FR1,Defender,Right-Back,25.4,1785,1,0,3000000.0,3045865.1
+Dimitrios Giannoulis,L1,Defender,Left-Back,30.7,1902,2,5,3000000.0,4046167.9
+Oumar Ngom,IT1,Midfield,Defensive Midfield,22.3,840,0,0,3000000.0,3169835.4
+Stefan de Vrij,IT1,Defender,Centre-Back,34.4,671,0,0,3000000.0,3425976.7
+Keke Topp,L1,Attack,Centre-Forward,22.2,629,1,1,3000000.0,2459859.0
+Ivan Provedel,IT1,Goalkeeper,Goalkeeper,32.2,2430,0,0,3000000.0,3849705.8
+Fali Candé,IT1,Defender,Centre-Back,28.4,507,0,0,3000000.0,2232826.0
+Mama Baldé,FR1,Attack,Centre-Forward,30.6,712,2,2,3000000.0,1928116.3
+André Silva,ES1,Attack,Centre-Forward,30.6,1853,10,0,3000000.0,4073261.7
+Adama Camara,FR1,Midfield,Defensive Midfield,29.7,2172,1,0,3000000.0,3074924.6
+Adrián Liso,ES1,Attack,Left Winger,21.2,1712,3,1,3000000.0,10695479.7
+Noah Cadiou,FR1,Midfield,Central Midfield,27.6,1873,3,2,3000000.0,4358517.9
+Marvin Schwäbe,L1,Goalkeeper,Goalkeeper,31.1,3060,0,0,3000000.0,2010696.7
+Gennaro Borrelli,IT1,Attack,Centre-Forward,26.3,1272,5,1,3000000.0,4034921.8
+Joël Schmied,L1,Defender,Centre-Back,27.7,1080,0,0,3000000.0,1616172.4
+Ramón Terrats,ES1,Midfield,Central Midfield,25.7,1023,1,2,3000000.0,3830490.5
+Gabriele Zappa,IT1,Defender,Right-Back,26.5,1594,0,3,3000000.0,3546022.0
+Ludovic Ajorque,FR1,Attack,Centre-Forward,32.3,2824,8,10,3000000.0,6285405.8
+Emre Can,L1,Defender,Centre-Back,32.4,623,3,0,3000000.0,5745878.4
+William Mikelbrencis,L1,Defender,Right-Back,22.3,1372,0,4,3000000.0,3759890.5
+Riccardo Sottil,IT1,Attack,Left Winger,27.0,1072,1,2,3000000.0,2496815.5
+Maximilian Arnold,L1,Midfield,Central Midfield,32.1,1854,1,4,3000000.0,2315018.3
+Terry Yegbe,FR1,Defender,Centre-Back,25.4,1966,0,1,3000000.0,2306893.1
+Martijn Kaars,L1,Attack,Centre-Forward,27.3,1346,3,1,3000000.0,1830737.5
+Andrias Edmundsson,IT1,Defender,Centre-Back,25.5,1320,0,0,3000000.0,2382160.9
+Álex Moreno,ES1,Defender,Left-Back,33.0,2558,0,3,3000000.0,1363226.4
+Ulisses Garcia,IT1,Defender,Left-Back,30.4,1155,1,2,3000000.0,2358800.1
+Emanuele Valeri,IT1,Defender,Left-Back,27.5,2646,0,2,3000000.0,5924922.1
+Hassane Kamara,IT1,Defender,Left-Back,32.3,1869,0,2,3000000.0,2324148.0
+Odysseas Vlachodimos,ES1,Goalkeeper,Goalkeeper,32.1,2970,0,0,3000000.0,2074514.8
+Aarón Escandell,ES1,Goalkeeper,Goalkeeper,30.7,3240,0,1,3000000.0,2046051.1
+Lucas Höler,L1,Attack,Centre-Forward,31.9,2044,3,3,3000000.0,2871791.3
+Fabio Chiarodia,L1,Defender,Centre-Back,21.0,674,0,1,3000000.0,2850620.4
+Josué Casimir,FR1,Attack,Right Winger,24.7,1521,1,0,3000000.0,4200050.0
+Carles Aleñá,ES1,Midfield,Central Midfield,28.4,1997,0,4,3000000.0,3599428.1
+Valentin Rosier,ES1,Defender,Right-Back,29.8,2554,1,1,3000000.0,4432454.3
+Jan Schöppner,L1,Midfield,Central Midfield,27.0,2260,3,3,3000000.0,5232247.0
+Ignace Van der Brempt,IT1,Defender,Right-Back,24.2,931,0,1,3000000.0,6784742.4
+Remo Freuler,IT1,Midfield,Central Midfield,34.2,2217,1,2,3000000.0,2396503.8
+Ángel Pérez,ES1,Attack,Right Winger,24.0,1291,1,3,3000000.0,4744349.0
+Pablo Martínez,ES1,Midfield,Central Midfield,28.3,1864,1,5,3000000.0,4127169.1
+Omri Gandelman,IT1,Midfield,Attacking Midfield,26.1,979,2,1,3000000.0,3093027.6
+Gaspar,IT1,Defender,Centre-Back,28.7,1830,0,0,3000000.0,3392253.2
+Cheikh Sabaly,FR1,Attack,Left Winger,27.3,971,0,2,3000000.0,1386763.3
+Sergi Darder,ES1,Midfield,Central Midfield,32.5,2689,1,5,3000000.0,2906231.3
+Michael Keane,GB1,Defender,Centre-Back,33.4,2590,3,1,3000000.0,2902479.9
+Geoffrey Kondogbia,FR1,Midfield,Defensive Midfield,33.3,593,0,0,3000000.0,1645302.2
+Stefano Turati,IT1,Goalkeeper,Goalkeeper,24.8,533,0,0,3000000.0,3591143.9
+Tyrone Mings,GB1,Defender,Centre-Back,33.3,1323,0,1,3000000.0,2994061.2
+Raúl Jiménez,GB1,Attack,Centre-Forward,35.1,2199,9,3,3000000.0,2348366.6
+Alejandro Francés,ES1,Defender,Centre-Back,23.9,1110,0,2,3000000.0,2814494.2
+Giorgi Tsitaishvili,FR1,Attack,Left Winger,25.6,2459,3,2,3000000.0,3022522.7
+Nahuel Tenaglia,ES1,Defender,Right-Back,30.3,3240,2,1,3000000.0,4302444.9
+Jari Vandeputte,IT1,Midfield,Central Midfield,30.3,1952,1,6,3000000.0,1689327.5
+Raúl García,ES1,Attack,Centre-Forward,25.6,1013,7,1,3000000.0,4758263.6
+Daniel Elfadli,L1,Defender,Centre-Back,29.2,1253,0,0,3000000.0,1706157.5
+Jofre Carreras,ES1,Attack,Right Winger,25.0,921,1,0,3000000.0,4641553.3
+Zito Luvumbo,ES1,Attack,Right Winger,24.3,830,0,2,3000000.0,3843259.7
+Toma Bašić,IT1,Midfield,Central Midfield,29.6,1746,2,3,3000000.0,5225062.5
+Linton Maina,L1,Attack,Left Winger,27.0,1020,2,1,3000000.0,2206763.4
+Tomoya Ando,L1,Defender,Centre-Back,27.4,1261,0,1,3000000.0,2043577.4
+Benjamin André,FR1,Midfield,Defensive Midfield,35.9,2334,2,2,3000000.0,1810109.7
+Nicolás Fonseca,ES1,Midfield,Defensive Midfield,27.7,1020,0,0,3000000.0,1644162.6
+Samir Chergui,FR1,Defender,Centre-Back,27.4,1155,1,0,3000000.0,2564637.4
+Danel Sinani,L1,Midfield,Attacking Midfield,29.2,2069,5,3,3000000.0,3627019.9
+Oliver Burke,L1,Attack,Centre-Forward,29.2,1674,6,2,3000000.0,4027364.4
+Zé Pedro,IT1,Defender,Centre-Back,29.0,1705,0,1,3000000.0,2651076.9
+Pablo Maffeo,ES1,Defender,Right-Back,28.9,2672,1,2,3000000.0,5513047.8
+Naouirou Ahamada,FR1,Midfield,Central Midfield,24.2,679,0,1,3000000.0,1797150.0
+Martin Valjent,ES1,Defender,Centre-Back,30.5,3309,0,0,3000000.0,4653397.3
+Nicolás Valentini,IT1,Defender,Centre-Back,25.2,1406,0,0,3000000.0,2518606.8
+Marvin Pieringer,L1,Attack,Centre-Forward,26.7,1655,4,1,3000000.0,4839825.9
+Gabriele Piccinini,IT1,Midfield,Central Midfield,25.2,860,0,0,3000000.0,1391131.7
+Mario Götze,L1,Midfield,Attacking Midfield,34.0,879,0,0,3000000.0,1138126.0
+Andoni Gorosabel,ES1,Defender,Right-Back,29.9,1358,0,1,3000000.0,2307762.2
+Henrikh Mkhitaryan,IT1,Midfield,Central Midfield,37.4,1556,4,2,3000000.0,4175906.1
+Jacen Russell-Rowe,FR1,Attack,Centre-Forward,23.8,469,1,0,3000000.0,3138846.3
+Danny Welbeck,GB1,Attack,Centre-Forward,35.6,2266,13,1,3000000.0,3443336.4
+Isi Palazón,ES1,Attack,Second Striker,31.5,2263,3,3,2800000.0,5089129.6
+Sergio Herrera,ES1,Goalkeeper,Goalkeeper,33.0,3285,0,0,2800000.0,3811714.7
+Borja Iglesias,ES1,Attack,Centre-Forward,33.4,1902,14,2,2800000.0,4466146.9
+Duje Caleta-Car,ES1,Defender,Centre-Back,29.7,2150,1,0,2800000.0,5371441.2
+Marius Marin,IT1,Midfield,Defensive Midfield,27.8,1287,0,0,2800000.0,1513430.3
+Emil Audero,IT1,Goalkeeper,Goalkeeper,29.4,3060,0,0,2800000.0,2418062.1
+David Soria,ES1,Goalkeeper,Goalkeeper,33.2,3420,0,0,2800000.0,3977078.9
+Suat Serdar,IT1,Midfield,Central Midfield,29.2,1109,2,0,2800000.0,2246837.6
+Ante Budimir,ES1,Attack,Centre-Forward,34.9,2953,17,0,2800000.0,6610521.6
+Morten Thorsby,IT1,Midfield,Central Midfield,30.1,1374,3,1,2800000.0,3049341.0
+Adrià Pedrosa,ES1,Defender,Left-Back,28.1,1084,1,1,2800000.0,3850494.3
+Enzo Ebosse,IT1,Defender,Centre-Back,27.3,1332,0,1,2800000.0,2414743.5
+Alejandro Catena,ES1,Defender,Centre-Back,31.6,3073,3,2,2600000.0,5077185.7
+Jon Ander Olasagasti,ES1,Midfield,Central Midfield,25.8,1730,1,5,2500000.0,4540314.8
+Mohamed Kaba,FR1,Midfield,Central Midfield,24.6,1550,0,2,2500000.0,2358347.6
+Jean-Luc Dompé,L1,Attack,Left Winger,30.8,1138,3,0,2500000.0,1809809.0
+Marius Wolf,L1,Defender,Right-Back,31.1,1012,1,2,2500000.0,1759848.1
+Pascal Groß,GB1,Midfield,Central Midfield,35.0,2252,1,4,2500000.0,2249527.6
+Vladimír Coufal,L1,Defender,Right-Back,33.8,3018,1,9,2500000.0,2465274.1
+Valentino Lazaro,IT1,Midfield,Right Midfield,30.2,2260,0,2,2500000.0,3274389.4
+Alessio Castro-Montes,L1,Midfield,Right Midfield,29.1,670,1,3,2500000.0,2020198.0
+Ali Youssif,FR1,Defender,Centre-Back,24.9,968,0,0,2500000.0,1744777.2
+Florian Neuhaus,L1,Midfield,Central Midfield,29.2,935,0,1,2500000.0,2389511.0
+Ander Guevara,ES1,Midfield,Central Midfield,28.9,635,1,1,2500000.0,1820574.1
+Răzvan Sava,IT1,Goalkeeper,Goalkeeper,24.0,619,0,0,2500000.0,2480434.0
+Diego Llorente,ES1,Defender,Centre-Back,32.8,1227,1,0,2500000.0,3043237.1
+Armindo Sieb,L1,Attack,Second Striker,23.3,534,2,0,2500000.0,3960327.7
+Luis Vázquez,ES1,Attack,Centre-Forward,25.1,1205,3,1,2500000.0,5485198.6
+Dermane Karim,FR1,Midfield,Attacking Midfield,22.5,1361,1,2,2500000.0,3181391.6
+Goduine Koyalipou,FR1,Attack,Centre-Forward,26.3,908,3,1,2500000.0,2734949.3
+Yvon Mvogo,FR1,Goalkeeper,Goalkeeper,32.0,2790,0,0,2500000.0,1817446.1
+Lucas Torró,ES1,Midfield,Defensive Midfield,31.9,2307,0,1,2500000.0,3326541.6
+Pathé Mboup,FR1,Attack,Left Winger,22.7,1048,1,0,2500000.0,2553420.4
+Niklas Dorsch,L1,Midfield,Defensive Midfield,28.4,2269,0,1,2500000.0,3103279.0
+Abdoulaye Touré,FR1,Midfield,Defensive Midfield,32.3,741,2,0,2500000.0,2451771.4
+Radoslaw Majecki,FR1,Goalkeeper,Goalkeeper,26.6,865,0,0,2500000.0,2060736.3
+Aihen Muñoz,ES1,Defender,Left-Back,28.8,843,1,0,2500000.0,2110260.7
+Alfonso Pedraza,ES1,Defender,Left-Back,30.2,1690,1,3,2500000.0,8735252.9
+Christian Eriksen,L1,Midfield,Attacking Midfield,34.3,2424,3,10,2500000.0,1235225.6
+Clinton Mata,FR1,Defender,Centre-Back,33.6,2836,0,0,2500000.0,2384877.1
+Chidozie Awaziem,FR1,Defender,Centre-Back,29.5,2232,1,2,2500000.0,1691721.5
+Fran Pérez,ES1,Attack,Right Winger,23.8,1233,2,1,2500000.0,4340649.0
+Gerard Moreno,ES1,Attack,Centre-Forward,34.2,1350,10,0,2500000.0,4576301.8
+Filip Stojilkovic,IT1,Attack,Centre-Forward,26.4,659,0,0,2500000.0,1464421.8
+Sebastian Otoa,IT1,Defender,Centre-Back,22.1,829,0,0,2500000.0,3225782.9
+Lamine Sy,FR1,Defender,Right-Back,23.8,1532,0,1,2500000.0,2713572.2
+Calvin Verdonk,FR1,Defender,Left-Back,29.1,786,0,0,2500000.0,2996574.7
+Unai López,ES1,Midfield,Central Midfield,30.6,1619,0,4,2500000.0,3587949.6
+Thierry Correia,ES1,Defender,Right-Back,27.3,1394,0,2,2500000.0,3148369.0
+Duván Zapata,IT1,Attack,Centre-Forward,35.2,1096,3,1,2500000.0,841164.5
+Robin Zentner,L1,Goalkeeper,Goalkeeper,31.6,877,0,0,2500000.0,2493353.6
+Lennard Maloney,L1,Midfield,Defensive Midfield,26.7,472,0,0,2500000.0,1971715.3
+Federico Bonazzoli,IT1,Attack,Centre-Forward,29.1,2524,10,2,2500000.0,4922757.6
+Branco van den Boomen,FR1,Midfield,Central Midfield,30.9,1242,0,1,2500000.0,1729301.3
+Franco Israel,IT1,Goalkeeper,Goalkeeper,26.1,810,0,0,2500000.0,1392122.4
+Andrej Kramaric,L1,Attack,Second Striker,35.0,2223,14,6,2500000.0,3965079.1
+Ruslan Malinovskyi,IT1,Midfield,Central Midfield,33.1,2251,6,3,2500000.0,2118265.8
+Santiago Colombatto,ES1,Midfield,Defensive Midfield,29.4,2070,0,1,2500000.0,1889003.3
+Jonathan Gradit,FR1,Defender,Centre-Back,33.6,809,0,0,2500000.0,2536733.8
+Patrick Mainka,L1,Defender,Centre-Back,31.6,3060,2,2,2500000.0,2471380.5
+Abde Rebbach,ES1,Attack,Left Winger,27.8,1493,1,4,2500000.0,3254308.0
+Pau López,ES1,Goalkeeper,Goalkeeper,31.5,810,0,0,2500000.0,2029214.3
+Danilo Veiga,IT1,Defender,Right-Back,23.7,3022,0,1,2500000.0,5088084.1
+Marcão,ES1,Defender,Centre-Back,30.0,937,1,0,2500000.0,1912756.9
+Mërgim Vojvoda,IT1,Defender,Right-Back,31.4,1593,2,2,2500000.0,5178223.5
+Jeffrey de Lange,FR1,Goalkeeper,Goalkeeper,28.2,450,0,0,2500000.0,1921810.3
+Adama Boiro,ES1,Defender,Left-Back,24.0,810,0,0,2500000.0,2566389.0
+Martin Frese,IT1,Defender,Left-Back,28.4,2413,2,0,2500000.0,2228471.6
+Pierre-Emerick Aubameyang,FR1,Attack,Centre-Forward,37.0,2047,10,6,2500000.0,1680629.9
+Eray Cömert,ES1,Defender,Centre-Back,28.4,1339,2,1,2500000.0,4852863.7
+Ruben Aguilar,FR1,Defender,Right-Back,33.1,1731,2,2,2500000.0,3796459.9
+Koffi Kouao,FR1,Defender,Right-Back,28.1,2274,2,2,2500000.0,2066432.9
+Nicolas Cozza,FR1,Defender,Centre-Back,27.4,2303,0,1,2500000.0,2886323.1
+Niklas Stark,L1,Defender,Centre-Back,31.2,701,0,0,2500000.0,1639806.9
+Oliver Baumann,L1,Goalkeeper,Goalkeeper,36.0,3060,0,0,2500000.0,1324174.1
+Zaid Romero,ES1,Defender,Centre-Back,26.5,1350,1,0,2500000.0,3704311.1
+Nikolas Veratschnig,L1,Midfield,Right Midfield,23.4,652,0,1,2500000.0,2126501.0
+Mathias Pereira Lage,L1,Attack,Left Winger,29.5,2032,2,2,2500000.0,2678877.8
+Yerry Mina,IT1,Defender,Centre-Back,31.7,2153,2,0,2500000.0,3407179.9
+Adam Marusic,IT1,Defender,Right-Back,33.7,2783,1,2,2500000.0,1632125.8
+Louis Oppie,L1,Defender,Left-Back,24.1,1616,1,0,2500000.0,2474115.3
+Baptiste Santamaria,ES1,Midfield,Defensive Midfield,31.3,743,1,1,2500000.0,2102231.0
+Yanis Zouaoui,FR1,Defender,Left-Back,28.1,2350,1,1,2500000.0,3490722.6
+Romano Floriani Mussolini,IT1,Defender,Right-Back,23.4,1164,0,3,2500000.0,2103398.7
+Charles Pickel,ES1,Midfield,Defensive Midfield,29.1,693,1,0,2500000.0,1437036.6
+Amin Sarr,IT1,Attack,Centre-Forward,25.3,1086,0,1,2400000.0,2328465.4
+Héctor Bellerín,ES1,Defender,Right-Back,31.2,1821,2,3,2400000.0,5039376.1
+Manu Morlanes,ES1,Midfield,Central Midfield,27.4,1775,3,0,2400000.0,4569068.6
+Stephan El Shaarawy,IT1,Attack,Left Winger,33.6,657,1,3,2400000.0,3166316.1
+Jonny Otto,ES1,Defender,Right-Back,32.3,2998,0,0,2200000.0,1406731.0
+Lassana Coulibaly,IT1,Midfield,Central Midfield,30.2,2696,3,1,2200000.0,4237875.7
+Isaac Schmidt,L1,Defender,Left-Back,26.5,676,1,0,2200000.0,1456354.6
+Frederik Rönnow,L1,Goalkeeper,Goalkeeper,33.9,2641,0,0,2000000.0,1822848.8
+Panos Katseris,FR1,Midfield,Right Midfield,24.9,746,1,2,2000000.0,2411228.4
+Óscar Valentín,ES1,Midfield,Central Midfield,31.8,2115,1,0,2000000.0,3040496.0
+Guillermo Maripán,IT1,Defender,Centre-Back,32.1,2145,2,0,2000000.0,2580199.7
+Janik Haberer,L1,Midfield,Central Midfield,32.2,1652,0,1,2000000.0,1631119.0
+Lautaro Valenti,IT1,Defender,Centre-Back,27.4,2251,0,0,2000000.0,5039184.8
+Mahmoud Dahoud,L1,Midfield,Central Midfield,30.5,716,2,3,2000000.0,2549533.0
+Antonio Sánchez,ES1,Midfield,Central Midfield,29.1,1061,0,0,2000000.0,2079795.5
+Grady Diangana,ES1,Attack,Right Winger,28.2,929,1,0,2000000.0,2283231.8
+Francesco Acerbi,IT1,Defender,Centre-Back,38.3,1379,0,0,2000000.0,2619557.8
+Kelvin Amian,FR1,Defender,Right-Back,28.3,1962,0,1,2000000.0,2305482.9
+Walid Cheddira,IT1,Attack,Centre-Forward,28.4,1211,4,1,2000000.0,1920908.2
+Denis Huseinbasic,L1,Midfield,Central Midfield,25.0,725,0,0,2000000.0,2097873.5
+Alessio Zerbin,IT1,Midfield,Right Midfield,27.3,1644,0,3,2000000.0,2272270.7
+Chancel Mbemba,FR1,Defender,Centre-Back,31.9,952,0,0,2000000.0,2853561.3
+Carlos Domínguez,ES1,Defender,Centre-Back,25.3,610,0,0,2000000.0,2780743.7
+Kervin Arriaga,ES1,Midfield,Defensive Midfield,28.4,1526,3,3,2000000.0,3653814.9
+Jae-sung Lee,L1,Midfield,Attacking Midfield,33.8,2201,4,2,2000000.0,3057352.9
+Julián Malatini,L1,Defender,Centre-Back,25.0,516,0,0,2000000.0,1788725.9
+Christian Günter,L1,Defender,Left-Back,33.3,1549,0,3,2000000.0,1884178.2
+Mohamed Bamba,FR1,Attack,Centre-Forward,24.5,677,1,2,2000000.0,1907819.7
+Sam Johnstone,GB1,Goalkeeper,Goalkeeper,33.2,1080,0,0,2000000.0,1145227.4
+Abu Francis,FR1,Midfield,Central Midfield,25.1,532,0,0,2000000.0,2223984.4
+Luiz Felipe,ES1,Defender,Centre-Back,29.2,470,0,0,2000000.0,1408420.6
+Jean-Philippe Gbamin,FR1,Defender,Centre-Back,30.7,2489,1,1,2000000.0,1197560.0
+Iñigo Ruiz de Galarreta,ES1,Midfield,Central Midfield,32.9,2231,1,2,2000000.0,1821904.1
+Manuel Lazzari,IT1,Defender,Right-Back,32.5,933,0,1,2000000.0,1383112.0
+Lucas Tousart,FR1,Midfield,Central Midfield,29.1,827,1,1,2000000.0,1740783.9
+Luca Kerber,L1,Midfield,Central Midfield,24.3,677,2,0,2000000.0,2227646.7
+Roger Brugué,ES1,Attack,Left Winger,29.6,1007,1,1,2000000.0,2474378.0
+Woyo Coulibaly,IT1,Defender,Right-Back,27.1,1049,0,0,2000000.0,2370433.3
+Ali Abdi,FR1,Defender,Left-Back,32.5,1165,3,0,2000000.0,1419846.5
+Cheikh Niasse,IT1,Midfield,Defensive Midfield,26.4,978,0,1,2000000.0,2252945.2
+Luca Waldschmidt,L1,Attack,Centre-Forward,30.1,666,5,4,2000000.0,1666279.6
+Stanley Nsoki,L1,Defender,Centre-Back,27.2,819,1,2,2000000.0,2576658.2
+Giuseppe Pezzella,IT1,Defender,Left-Back,28.5,2591,0,1,2000000.0,3384417.4
+Jonathan Fischer,FR1,Goalkeeper,Goalkeeper,24.6,2353,0,0,2000000.0,2420350.8
+Daniele Rugani,IT1,Defender,Centre-Back,31.9,577,0,0,2000000.0,1093852.4
+Lukasz Skorupski,IT1,Goalkeeper,Goalkeeper,35.1,1594,0,0,2000000.0,1233729.2
+Ibrahima Sissoko,FR1,Midfield,Defensive Midfield,28.6,804,0,0,2000000.0,2820957.7
+Omar Traoré,L1,Defender,Right-Back,28.4,1500,0,2,2000000.0,1803527.1
+Jessy Deminguet,FR1,Midfield,Central Midfield,28.4,2013,2,1,2000000.0,1759280.2
+Rani Khedira,L1,Midfield,Defensive Midfield,32.4,2835,5,2,2000000.0,3206766.3
+Giorgi Gocholeishvili,L1,Defender,Right-Back,25.3,933,0,1,2000000.0,1880072.1
+Manolis Saliakas,L1,Defender,Right-Back,29.8,1110,1,4,2000000.0,2245870.3
+Mathias Rasmussen,L1,Midfield,Central Midfield,28.6,692,0,0,2000000.0,1234234.7
+Yann Sommer,IT1,Goalkeeper,Goalkeeper,37.5,2961,0,0,2000000.0,3486448.5
+Nemanja Gudelj,ES1,Midfield,Defensive Midfield,34.6,2348,2,0,2000000.0,1471891.8
+Joe Worrall,GB1,Defender,Centre-Back,29.4,497,0,0,2000000.0,3069479.6
+Thomas Partey,ES1,Midfield,Defensive Midfield,33.0,923,0,0,2000000.0,4059302.1
+Alberto Reina,ES1,Midfield,Central Midfield,28.6,2480,4,1,2000000.0,3275442.7
+Pablo Marí,IT1,Defender,Centre-Back,32.8,809,0,0,2000000.0,1304762.4
+Fernando Calero,ES1,Defender,Centre-Back,30.8,2150,0,0,2000000.0,2431215.4
+Filip Kostić,IT1,Midfield,Left Midfield,33.6,468,3,1,2000000.0,1612170.4
+Dominik Kohr,L1,Defender,Centre-Back,32.4,2346,2,0,2000000.0,2663777.1
+Kareem Tunde,ES1,Attack,Right Winger,20.8,1143,0,1,2000000.0,5188126.9
+Mattia Perin,IT1,Goalkeeper,Goalkeeper,33.6,765,0,0,2000000.0,1175531.5
+Iker Muñoz,ES1,Midfield,Defensive Midfield,23.8,949,0,0,2000000.0,4312771.7
+Stole Dimitrievski,ES1,Goalkeeper,Goalkeeper,32.5,1800,0,0,2000000.0,1600698.3
+Marius Louër,FR1,Defender,Right-Back,19.3,541,0,0,2000000.0,1424238.0
+Fodé Doucouré,FR1,Defender,Right-Back,25.4,1242,3,1,2000000.0,2941956.8
+Jeremy Toljan,ES1,Defender,Right-Back,31.9,3173,1,4,2000000.0,2059692.0
+Kingsley Ehizibue,IT1,Defender,Right-Back,31.1,1810,2,0,2000000.0,2523738.4
+Ignatius Ganago,FR1,Attack,Centre-Forward,27.3,842,3,1,2000000.0,2456557.8
+Haris Belkebla,FR1,Midfield,Central Midfield,32.4,2880,0,0,1800000.0,1964079.6
+Tim Siersleben,L1,Defender,Centre-Back,26.3,1082,0,0,1800000.0,2016238.7
+Laurent Abergel,FR1,Midfield,Defensive Midfield,33.4,2325,1,0,1800000.0,1324266.5
+Aiyegun Tosin,FR1,Attack,Centre-Forward,28.0,1068,5,0,1800000.0,2381029.5
+Pontus Almqvist,IT1,Attack,Right Winger,26.9,452,0,1,1800000.0,2344931.7
+Pathé Ciss,ES1,Midfield,Central Midfield,32.2,1994,2,1,1800000.0,3894080.8
+Thibault De Smet,FR1,Defender,Left-Back,28.0,1148,0,1,1800000.0,1904074.4
+Sofiane Boufal,FR1,Midfield,Attacking Midfield,32.7,1028,1,4,1800000.0,1350860.4
+Hans Hateboer,FR1,Defender,Right-Back,32.4,762,0,0,1800000.0,1502369.5
+Tete Morente,ES1,Attack,Left Winger,29.5,1792,1,2,1800000.0,4177306.5
+Oussama El Azzouzi,FR1,Midfield,Defensive Midfield,25.0,814,1,0,1800000.0,2507273.1
+Antonio Sanabria,IT1,Attack,Centre-Forward,30.3,940,1,1,1800000.0,1388704.2
+Deiver Machado,FR1,Defender,Left-Back,32.8,1186,0,1,1800000.0,978924.0
+Jon Guridi,ES1,Midfield,Central Midfield,31.3,1240,0,0,1800000.0,2190252.1
+Thomas Lemar,ES1,Midfield,Attacking Midfield,30.6,1259,3,1,1800000.0,1891511.8
+Iker Losada,ES1,Attack,Second Striker,24.9,898,3,1,1800000.0,3904832.7
+Mathew Ryan,ES1,Goalkeeper,Goalkeeper,34.2,3240,0,0,1800000.0,1833629.1
+Yannick Gerhardt,L1,Midfield,Central Midfield,32.3,1071,1,1,1800000.0,1550482.2
+Gonzalo Villar,ES1,Midfield,Central Midfield,28.2,718,1,0,1800000.0,2413764.1
+Kevin Trapp,FR1,Goalkeeper,Goalkeeper,35.9,1980,0,0,1800000.0,725886.6
+Javi Galán,ES1,Defender,Left-Back,31.6,1807,0,1,1800000.0,3020491.6
+Kevin Stöger,L1,Midfield,Attacking Midfield,32.8,1324,1,1,1800000.0,1406291.9
+Ciro Immobile,FR1,Attack,Centre-Forward,36.3,902,2,2,1800000.0,542015.9
+Rubén Sánchez,ES1,Defender,Right-Back,25.4,805,0,1,1800000.0,1692280.3
+Florian Lejeune,ES1,Defender,Centre-Back,35.1,3231,2,1,1800000.0,1963010.8
+Calebe,ES1,Midfield,Attacking Midfield,26.1,753,0,0,1800000.0,2017252.2
+Leander Dendoncker,ES1,Midfield,Defensive Midfield,31.2,1333,1,0,1800000.0,1271421.9
+Federico Ravaglia,IT1,Goalkeeper,Goalkeeper,26.6,1469,0,0,1800000.0,5544874.7
+Carlens Arcus,FR1,Defender,Right-Back,30.0,2045,0,3,1800000.0,2059942.7
+Ylber Ramadani,IT1,Midfield,Defensive Midfield,30.2,3215,1,0,1800000.0,3751872.3
+Adrian Semper,IT1,Goalkeeper,Goalkeeper,28.4,2250,0,0,1800000.0,1848038.8
+Marius Bülter,L1,Attack,Left Winger,33.2,1591,5,4,1800000.0,1671084.4
+Paulo Gazzaniga,ES1,Goalkeeper,Goalkeeper,34.5,3103,0,0,1800000.0,1732862.9
+Mehdi Léris,IT1,Attack,Right Winger,28.1,1907,2,3,1800000.0,1986681.0
+Oriol Rey,ES1,Midfield,Defensive Midfield,28.3,1319,0,1,1800000.0,3142421.0
+Luis Rioja,ES1,Attack,Right Winger,32.7,2636,3,6,1800000.0,3204028.1
+Daniel Mosquera,IT1,Attack,Centre-Forward,26.7,585,0,2,1800000.0,2101684.6
+Mathias Honsak,L1,Attack,Left Winger,29.5,1249,2,1,1700000.0,1839599.2
+Iago Aspas,ES1,Attack,Centre-Forward,38.9,1130,5,3,1600000.0,1992249.7
+Abdou Harroui,IT1,Midfield,Central Midfield,28.4,906,1,0,1600000.0,1259714.9
+Unai Vencedor,ES1,Midfield,Central Midfield,25.6,818,0,0,1600000.0,2316816.3
+Nemanja Matić,IT1,Midfield,Defensive Midfield,37.9,2670,1,1,1600000.0,968036.1
+Rubén García,ES1,Attack,Right Winger,32.9,2247,2,5,1600000.0,2478982.8
+Phillipp Mwene,L1,Defender,Left-Back,32.4,2073,1,5,1500000.0,2732562.9
+Léo Pétrot,ES1,Defender,Centre-Back,29.2,1568,0,0,1500000.0,3327392.2
+Marco Bizot,GB1,Goalkeeper,Goalkeeper,35.3,585,0,0,1500000.0,1482156.2
+Benedikt Gimber,L1,Defender,Centre-Back,29.3,1437,0,0,1500000.0,2080202.4
+Rémy Descamps,FR1,Goalkeeper,Goalkeeper,30.0,450,0,0,1500000.0,1769888.1
+Paco Cortés,ES1,Attack,Left Winger,18.8,471,0,0,1500000.0,2746145.6
+Hauke Wahl,L1,Defender,Centre-Back,32.2,2591,2,1,1500000.0,2193609.1
+Mouctar Diakhaby,ES1,Defender,Centre-Back,29.5,544,1,0,1500000.0,2588912.7
+Takuma Asano,ES1,Attack,Right Winger,31.6,659,1,0,1500000.0,1532357.7
+Álvaro García,ES1,Attack,Left Winger,33.6,2108,4,6,1500000.0,3005482.0
+Vincent Marchetti,FR1,Midfield,Central Midfield,28.9,819,2,1,1500000.0,2036764.4
+Connor Metcalfe,L1,Midfield,Central Midfield,26.6,576,0,2,1500000.0,1216090.9
+Moi Gómez,ES1,Midfield,Attacking Midfield,32.0,1197,0,2,1500000.0,1496413.2
+Kenny Lala,FR1,Defender,Right-Back,34.7,2792,0,3,1500000.0,895750.4
+Hamari Traoré,FR1,Defender,Right-Back,34.4,1154,0,1,1500000.0,595718.8
+Carlos Martín,ES1,Attack,Left Winger,24.1,452,0,0,1500000.0,3527115.5
+Juan Jesus,IT1,Defender,Centre-Back,35.0,1676,0,0,1500000.0,2592553.4
+Rahim Alhassane,ES1,Defender,Left-Back,24.5,1710,0,0,1500000.0,2068014.9
+Fredrik Oppegård,FR1,Defender,Left-Back,23.9,1248,0,0,1500000.0,2279540.1
+Kieran Trippier,GB1,Defender,Right-Back,35.7,1592,0,1,1500000.0,1046539.4
+Sheraldo Becker,L1,Attack,Left Winger,31.3,1104,3,3,1500000.0,2285963.9
+Michael Gregoritsch,L1,Attack,Centre-Forward,32.2,917,6,3,1500000.0,2166986.6
+Kyle Walker,GB1,Defender,Right-Back,36.0,3097,0,2,1500000.0,593657.6
+Aritz Elustondo,ES1,Defender,Centre-Back,32.2,718,0,1,1500000.0,1450642.9
+Ibrahim Diabate,ES1,Attack,Centre-Forward,26.6,581,2,0,1500000.0,2606584.3
+Oier Zarraga,IT1,Midfield,Central Midfield,27.4,456,0,0,1500000.0,1970035.4
+Lukas Hradecky,FR1,Goalkeeper,Goalkeeper,36.6,1441,0,0,1500000.0,612958.2
+Josh Laurent,GB1,Midfield,Central Midfield,31.1,1759,1,0,1500000.0,2697440.5
+Johan Mojica,ES1,Defender,Left-Back,33.8,2726,0,4,1500000.0,1599618.5
+Jonas Hofmann,L1,Midfield,Attacking Midfield,33.9,1009,2,3,1500000.0,2268780.8
+Alessandro Deiola,IT1,Midfield,Central Midfield,30.9,1435,0,2,1500000.0,2988858.2
+Lucas Vázquez,L1,Defender,Right-Back,35.0,479,1,2,1500000.0,1411008.0
+Youssef Maleh,IT1,Midfield,Central Midfield,27.8,1566,1,0,1500000.0,2779359.8
+Timo Hübers,L1,Defender,Centre-Back,29.9,671,0,0,1500000.0,1029265.5
+Alimami Gory,FR1,Attack,Left Winger,29.8,978,5,2,1500000.0,2478476.8
+Manu Fernández,ES1,Defender,Centre-Back,25.1,759,0,0,1500000.0,2475787.6
+Edoardo Corvi,IT1,Goalkeeper,Goalkeeper,25.2,1530,0,0,1500000.0,3502837.1
+Patric,IT1,Defender,Centre-Back,33.2,661,0,0,1500000.0,998709.8
+Rafik Messali,FR1,Defender,Right-Back,23.1,501,0,0,1500000.0,1695275.8
+Julian Niehues,L1,Midfield,Defensive Midfield,25.2,1389,3,0,1500000.0,3563304.0
+Domagoj Bradarić,IT1,Defender,Left-Back,26.5,1971,0,1,1500000.0,2661428.0
+Tim Skarke,L1,Attack,Centre-Forward,29.8,607,1,1,1500000.0,1449481.8
+Joël Veltman,GB1,Defender,Right-Back,34.4,1050,1,0,1500000.0,767060.8
+Lanroy Machine,FR1,Attack,Centre-Forward,20.7,505,1,0,1500000.0,1599997.4
+Víctor García,ES1,Attack,Right Winger,28.7,1040,2,1,1500000.0,2327309.2
+Joel Mvuka,FR1,Midfield,Right Midfield,23.6,556,0,0,1500000.0,1628575.8
+Konan N’Dri,IT1,Attack,Right Winger,25.6,521,2,0,1500000.0,1965146.1
+Lukas Kübler,L1,Defender,Right-Back,33.8,1594,2,2,1500000.0,1689272.9
+Mikkel Kaufmann,L1,Attack,Centre-Forward,25.4,534,1,1,1500000.0,1756063.3
+Mario Sauer,FR1,Midfield,Central Midfield,22.1,638,1,0,1500000.0,1848195.8
+Robert Glatzel,L1,Attack,Centre-Forward,32.4,609,3,2,1500000.0,892658.3
+Thomas Meunier,FR1,Defender,Right-Back,34.8,1910,2,2,1500000.0,1595882.5
+Álex Sancris,ES1,Attack,Right Winger,29.4,705,0,1,1500000.0,1890804.5
+Adrian Beck,L1,Midfield,Attacking Midfield,29.0,860,1,1,1500000.0,1785985.2
+Nathaniel Adjei,FR1,Defender,Centre-Back,23.8,833,0,0,1500000.0,1923241.2
+Toni Lato,ES1,Defender,Left-Back,28.6,585,0,1,1400000.0,1465496.3
+Kwasi Sibo,ES1,Midfield,Central Midfield,28.0,1686,0,0,1400000.0,1706350.7
+Mateu Morey,ES1,Defender,Right-Back,26.3,700,1,0,1400000.0,1869126.0
+Alberto Grassi,IT1,Midfield,Defensive Midfield,31.3,1755,0,0,1400000.0,1809002.2
+Dakonam Djené,ES1,Defender,Centre-Back,34.5,2585,0,0,1400000.0,1424010.2
+Lucas Bergström,ES1,Goalkeeper,Goalkeeper,23.8,450,0,0,1400000.0,933178.7
+Nahuel Estévez,IT1,Midfield,Defensive Midfield,30.6,1032,0,1,1400000.0,1310790.4
+Ricardo Rodríguez,ES1,Defender,Left-Back,33.8,1546,0,1,1400000.0,1933762.8
+Luka Ilic,ES1,Midfield,Attacking Midfield,27.0,738,1,0,1400000.0,1466961.8
+Sergi Roberto,IT1,Midfield,Central Midfield,34.4,533,0,0,1400000.0,1314917.1
+Roberto Gagliardini,IT1,Midfield,Central Midfield,32.2,2216,1,0,1300000.0,1083510.0
+Stefano Sabelli,IT1,Defender,Right-Back,33.4,919,0,0,1300000.0,969786.9
+David López,ES1,Defender,Centre-Back,23.4,833,0,0,1200000.0,2536348.7
+Florian Sotoca,FR1,Attack,Centre-Forward,35.6,494,1,0,1200000.0,1027737.0
+Cédric Bakambu,ES1,Attack,Centre-Forward,35.2,562,3,1,1200000.0,1362697.8
+Caleb Ekuban,IT1,Attack,Centre-Forward,32.2,975,4,1,1200000.0,1518256.2
+Javi Muñoz,ES1,Midfield,Central Midfield,31.3,545,0,0,1200000.0,2345278.7
+Alexis Sánchez,ES1,Attack,Second Striker,37.5,1300,4,2,1200000.0,864468.7
+Adrien Tamèze,IT1,Midfield,Defensive Midfield,32.4,1117,0,0,1200000.0,1062543.8
+Lorenzo Montipò,IT1,Goalkeeper,Goalkeeper,30.3,3150,0,1,1200000.0,3369118.1
+Gerard Gumbau,ES1,Midfield,Defensive Midfield,31.5,1172,0,3,1200000.0,1953875.2
+Warren Kamanzi,FR1,Defender,Right-Back,25.6,856,1,2,1200000.0,2578230.9
+Sirlord Conteh,L1,Attack,Right Winger,29.9,619,2,1,1200000.0,1434689.3
+Daley Blind,ES1,Defender,Centre-Back,36.3,2610,0,0,1200000.0,968122.2
+David Costas,ES1,Defender,Centre-Back,31.2,2064,1,0,1200000.0,1137411.4
+Francisco Sierralta,FR1,Defender,Centre-Back,29.1,862,1,0,1200000.0,1611652.2
+Marcos Alonso,ES1,Defender,Centre-Back,35.5,2770,1,0,1200000.0,1399380.1
+Rémy Cabella,FR1,Midfield,Attacking Midfield,36.3,569,2,0,1200000.0,619050.2
+Igor Silva,FR1,Defender,Right-Back,29.8,1213,1,0,1200000.0,1679823.5
+Jordan Henderson,GB1,Midfield,Defensive Midfield,36.0,1921,1,3,1200000.0,1291987.6
+Stefano Moreo,IT1,Attack,Centre-Forward,33.0,2316,7,1,1200000.0,1085208.9
+Portu,ES1,Attack,Right Winger,34.1,473,0,0,1200000.0,986078.1
+Eric Bailly,ES1,Defender,Centre-Back,32.2,1236,1,0,1200000.0,1097652.5
+Luca Mazzitelli,IT1,Midfield,Central Midfield,30.6,765,2,2,1200000.0,1645306.1
+Daniel Heuer Fernandes,L1,Goalkeeper,Goalkeeper,33.6,2970,0,0,1200000.0,1239343.4
+Budu Zivzivadze,L1,Attack,Centre-Forward,32.3,1147,6,0,1200000.0,1963871.2
+Alberto Paleari,IT1,Goalkeeper,Goalkeeper,33.8,2610,0,0,1200000.0,1180629.9
+Nacho Vidal,ES1,Defender,Right-Back,31.4,2272,0,0,1200000.0,1034832.2
+Charalampos Lykogiannis,IT1,Defender,Left-Back,32.6,627,0,1,1200000.0,1281104.0
+Axel Witsel,ES1,Midfield,Defensive Midfield,37.4,2533,1,2,1200000.0,848422.7
+Malthe Højholt,IT1,Midfield,Defensive Midfield,25.2,850,0,0,1200000.0,1798649.2
+Tanguy Nianzou,ES1,Defender,Centre-Back,24.0,646,0,0,1200000.0,2394012.8
+Danny da Costa,L1,Defender,Centre-Back,32.9,2698,2,3,1200000.0,2130340.5
+Junior Messias,IT1,Attack,Right Winger,35.1,675,3,1,1100000.0,937442.8
+Dani Parejo,ES1,Midfield,Central Midfield,37.2,1390,1,0,1000000.0,1737138.0
+Pere Milla,ES1,Attack,Left Winger,33.7,1988,7,1,1000000.0,1802415.4
+Daniel Oyegoke,IT1,Defender,Right-Back,23.4,593,0,0,1000000.0,1388375.7
+Juan Cruz,ES1,Defender,Left-Back,33.9,646,0,0,1000000.0,859542.5
+Nicola Leali,IT1,Goalkeeper,Goalkeeper,33.3,1848,0,0,1000000.0,1701225.4
+Bakery Jatta,L1,Attack,Right Winger,28.0,918,1,1,1000000.0,2078607.2
+César Azpilicueta,ES1,Defender,Centre-Back,36.8,1218,0,1,1000000.0,750336.5
+Péter Gulácsi,L1,Goalkeeper,Goalkeeper,36.1,2009,0,0,1000000.0,2095772.7
+Giorgi Abuashvili,FR1,Attack,Left Winger,23.3,687,2,0,1000000.0,1500946.6
+Yuri Berchiche,ES1,Defender,Left-Back,36.3,2709,0,7,1000000.0,1008451.5
+Matías Vecino,IT1,Midfield,Central Midfield,34.8,733,0,2,1000000.0,952554.4
+Jamie Vardy,IT1,Attack,Centre-Forward,39.4,2108,7,3,1000000.0,1006040.4
+Denis Suárez,ES1,Midfield,Attacking Midfield,32.4,1407,1,2,1000000.0,1355225.6
+Jackson Irvine,L1,Midfield,Central Midfield,33.3,1625,0,1,1000000.0,1145865.3
+Iñigo Lekue,ES1,Defender,Right-Back,33.1,600,0,0,1000000.0,714189.2
+Lars Ritzka,L1,Defender,Left-Back,28.1,970,0,0,1000000.0,1348283.0
+Iván Balliu,ES1,Defender,Right-Back,34.5,578,0,0,1000000.0,505734.1
+Alberto Moreno,IT1,Defender,Left-Back,33.9,1234,2,2,1000000.0,2744433.9
+Matt Doherty,GB1,Defender,Right-Back,34.4,792,0,0,1000000.0,874056.5
+Djibril Sidibé,FR1,Defender,Right-Back,33.9,2147,3,4,1000000.0,1645690.5
+Antonio Raíllo,ES1,Defender,Centre-Back,34.7,2070,0,1,1000000.0,1252666.2
+Pedro,IT1,Attack,Right Winger,38.9,972,5,2,1000000.0,1615394.8
+Diego Pampín,ES1,Defender,Left-Back,26.3,534,0,0,1000000.0,1363201.6
+Jonas Föhrenbach,L1,Defender,Left-Back,30.4,2327,1,1,1000000.0,1776979.7
+Hyeok-kyu Kwon,FR1,Midfield,Defensive Midfield,25.3,758,0,0,1000000.0,1815369.5
+Jeffrey Gouweleeuw,L1,Defender,Centre-Back,34.9,851,0,1,1000000.0,987245.5
+John Donald,ES1,Defender,Centre-Back,25.7,652,1,0,1000000.0,1857502.7
+Joseph Aidoo,ES1,Defender,Centre-Back,30.7,639,0,0,1000000.0,1740373.1
+Diego Rico,ES1,Defender,Left-Back,33.3,1754,0,0,1000000.0,1507890.3
+Jordan Lefort,FR1,Defender,Centre-Back,32.8,3060,0,2,1000000.0,1581179.4
+Marnon Busch,L1,Defender,Right-Back,31.5,1913,1,5,1000000.0,1340827.0
+Aïssa Mandi,FR1,Defender,Centre-Back,34.6,2427,1,0,1000000.0,1903791.6
+Davinchi,ES1,Defender,Left-Back,18.7,698,0,0,1000000.0,3872934.9
+Fabien Centonze,FR1,Defender,Right-Back,30.4,733,3,0,1000000.0,1164556.8
+Olivier Giroud,FR1,Attack,Centre-Forward,39.7,1610,7,1,900000.0,959985.6
+Giorgi Kvilitaia,FR1,Attack,Centre-Forward,32.7,495,2,0,900000.0,703850.5
+Corrie Ndaba,IT1,Defender,Left-Back,26.5,539,0,0,900000.0,1472550.5
+Fodé Ballo-Touré,FR1,Defender,Left-Back,29.4,843,0,0,900000.0,1067590.8
+Mory Diaw,FR1,Goalkeeper,Goalkeeper,33.0,2655,0,1,900000.0,1537786.5
+Michel Mboula,FR1,Defender,Centre-Back,23.1,746,0,0,900000.0,1357481.6
+Yeray Álvarez,ES1,Defender,Centre-Back,31.4,514,0,0,900000.0,1727992.8
+Leonardo Bittencourt,L1,Midfield,Central Midfield,32.5,610,0,1,900000.0,1147998.7
+Simone Scuffet,IT1,Goalkeeper,Goalkeeper,30.0,630,0,0,900000.0,932469.9
+Dani Calvo,ES1,Defender,Centre-Back,32.2,1609,0,0,900000.0,790977.3
+Marc Bartra,ES1,Defender,Centre-Back,35.4,1978,1,0,900000.0,1747349.1
+Leandro Cabrera,ES1,Defender,Centre-Back,35.0,3330,3,0,900000.0,1909098.5
+Dimitri Foulquier,ES1,Defender,Right-Back,33.2,1148,0,0,900000.0,1306016.0
+Anthony Lopes,FR1,Goalkeeper,Goalkeeper,35.7,2789,0,0,900000.0,508172.4
+Cristiano Biraghi,IT1,Defender,Left-Back,33.8,511,0,0,900000.0,766192.1
+Alfonso Espino,ES1,Defender,Left-Back,34.4,1481,2,0,900000.0,1085627.0
+Matteo Bianchetti,IT1,Defender,Centre-Back,33.2,2197,0,2,800000.0,821556.1
+Francesco Folino,IT1,Defender,Centre-Back,24.4,712,1,0,800000.0,1696252.1
+Donovan Léon,FR1,Goalkeeper,Goalkeeper,33.6,2463,0,0,800000.0,1945209.6
+Antonio Caracciolo,IT1,Defender,Centre-Back,36.0,3075,2,0,800000.0,436124.6
+Wojciech Szczesny,ES1,Goalkeeper,Goalkeeper,36.2,720,0,0,800000.0,2268153.0
+Adam Dzwigala,L1,Defender,Centre-Back,30.7,1295,1,1,800000.0,1046196.7
+Silvan Widmer,L1,Defender,Right-Back,33.3,1819,2,1,800000.0,1075070.0
+Arturo Calabresi,IT1,Defender,Centre-Back,30.2,1519,0,1,800000.0,1072225.2
+Frédéric Guilbert,FR1,Defender,Right-Back,31.5,610,0,0,800000.0,1438357.3
+Juan Cuadrado,IT1,Midfield,Right Midfield,38.1,491,1,0,800000.0,475007.5
+Domingos Duarte,ES1,Defender,Centre-Back,31.3,2929,1,1,800000.0,4134266.2
+Ørjan Nyland,ES1,Goalkeeper,Goalkeeper,35.8,450,0,0,800000.0,630688.1
+Christian Kabasele,IT1,Defender,Centre-Back,35.3,2256,3,0,750000.0,1329602.2
+Luke O'Nien,GB1,Defender,Centre-Back,31.6,564,0,1,700000.0,3084502.6
+Ally Samatta,FR1,Attack,Centre-Forward,33.5,1545,2,1,700000.0,1058775.2
+Raúl Albiol,IT1,Defender,Centre-Back,40.8,502,0,1,700000.0,424094.8
+Francis Coquelin,FR1,Midfield,Defensive Midfield,35.1,655,0,1,700000.0,413701.3
+Maxime Dupé,FR1,Goalkeeper,Goalkeeper,33.3,720,0,0,700000.0,505121.5
+Kiko Femenía,ES1,Defender,Right-Back,35.4,2021,1,1,700000.0,863408.2
+Janis Blaswich,L1,Goalkeeper,Goalkeeper,35.1,930,0,0,700000.0,815609.5
+Omar Mascarell,ES1,Midfield,Defensive Midfield,33.4,2245,2,2,700000.0,2404119.6
+Kike García,ES1,Attack,Centre-Forward,36.6,1727,8,1,700000.0,1510279.4
+Marko Dmitrovic,ES1,Goalkeeper,Goalkeeper,34.4,3330,0,0,700000.0,1868489.4
+Lorenzo De Silvestri,IT1,Defender,Right-Back,38.1,491,0,0,600000.0,506262.0
+Lucas Ahijado,ES1,Defender,Right-Back,31.4,1092,0,1,600000.0,830061.7
+Christopher Trimmel,L1,Defender,Right-Back,39.3,1869,0,3,600000.0,518708.2
+Franco Vázquez,IT1,Midfield,Attacking Midfield,37.3,516,1,2,600000.0,399440.3
+Karol Mets,L1,Defender,Centre-Back,33.1,1934,1,0,600000.0,916661.1
+Stefan Bell,L1,Defender,Centre-Back,34.8,1041,2,2,600000.0,982354.4
+Anthony Jung,L1,Defender,Centre-Back,34.6,521,0,0,600000.0,786508.2
+Pape Sy,FR1,Goalkeeper,Goalkeeper,29.1,707,0,0,600000.0,576737.0
+Unai Elgezabal,ES1,Defender,Centre-Back,33.1,958,1,0,500000.0,810246.9
+Dante,FR1,Defender,Centre-Back,42.7,852,0,1,500000.0,335795.2
+Felix Mambimbi,FR1,Attack,Left Winger,25.4,529,1,0,500000.0,1713392.5
+James Milner,GB1,Midfield,Central Midfield,40.4,778,1,1,500000.0,717026.4
+Loïc Nego,FR1,Defender,Right-Back,35.4,2340,0,0,500000.0,566875.7
+Tom Cairney,GB1,Midfield,Central Midfield,35.4,765,2,0,500000.0,1015599.4
+Martin Dúbravka,GB1,Goalkeeper,Goalkeeper,37.4,3150,0,0,500000.0,719780.0
+Jean-Daniel Akpa Akpro,IT1,Midfield,Central Midfield,33.7,1507,1,0,500000.0,823875.2
+Idrissa Gueye,GB1,Midfield,Defensive Midfield,36.7,2102,2,3,500000.0,1915839.5
+Théo De Percin,FR1,Goalkeeper,Goalkeeper,25.4,595,0,0,400000.0,1260175.3
+Federico Ceccherini,IT1,Defender,Centre-Back,34.1,481,0,1,400000.0,456272.2
+Daniel Batz,L1,Goalkeeper,Goalkeeper,35.4,1890,0,0,350000.0,687106.8
+Salomón Rondón,ES1,Attack,Centre-Forward,36.7,1038,2,0,350000.0,556217.0
+Bouna Sarr,FR1,Defender,Right-Back,34.4,897,0,0,350000.0,289131.2
+Pedro Bigas,ES1,Defender,Centre-Back,36.1,2069,1,3,300000.0,877306.6
+Nathaniel Clyne,GB1,Defender,Right-Back,35.2,597,0,1,300000.0,500861.6
+Adam Smith,GB1,Defender,Right-Back,35.1,1080,0,2,300000.0,854196.2
+Stefan Schimmer,L1,Attack,Centre-Forward,32.1,805,5,1,300000.0,1051676.2
+Benjamin Stambouli,FR1,Midfield,Defensive Midfield,35.8,960,0,0,250000.0,317072.5
+Maxime Colin,FR1,Defender,Right-Back,34.6,1692,0,0,250000.0,308574.8
+Santi Cazorla,ES1,Midfield,Central Midfield,41.5,924,0,1,200000.0,378736.9
+Karl Darlow,GB1,Goalkeeper,Goalkeeper,35.7,1980,0,0,200000.0,934484.4
+Florent Hanin,FR1,Defender,Left-Back,36.4,861,0,0,200000.0,331521.2
+Timothée Kolodziejczak,FR1,Defender,Centre-Back,34.7,660,0,0,150000.0,456323.9
+Pierrick Capelle,FR1,Midfield,Central Midfield,39.2,649,0,1,150000.0,287415.1
+Allan Nyom,ES1,Defender,Right-Back,38.1,524,0,1,100000.0,565399.4
+Youssef El Arabi,FR1,Attack,Centre-Forward,39.4,938,3,1,100000.0,280784.7
+Matías Dituro,ES1,Goalkeeper,Goalkeeper,39.1,1980,0,0,100000.0,564688.1
+Josan,ES1,Attack,Right Winger,36.5,554,0,3,100000.0,621794.0
+Nícolas,IT1,Goalkeeper,Goalkeeper,38.2,540,0,0,100000.0,248910.0
