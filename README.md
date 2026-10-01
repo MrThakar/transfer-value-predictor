@@ -2,93 +2,85 @@
 
 ![CI](https://github.com/MrThakar/transfer-value-predictor/actions/workflows/ci.yml/badge.svg)
 
-Predicts a footballer's market value from one season of statistics across the
-top five European leagues. The pipeline downloads Transfermarkt data, builds
-player-season features, compares four models with time-based cross-validation,
-and serves the best one through a FastAPI service with a React front end.
+A model that estimates what a footballer is worth from one season of stats,
+with a small web app for trying it out. It covers the top five European
+leagues and uses Transfermarkt market values as the target.
+
+Football is my favourite sport, and I wanted a project that combined the
+software skills I already had with something new to me: machine learning.
+Player values seemed like a good fit, because everyone who watches has an
+opinion on what a player is worth, and I wanted to see how far stats alone
+could get.
 
 ![Actual vs. predicted market value](outputs/actual_vs_predicted.png)
 
-## Results
+## How well it works
 
-Trained on the 2021/22 – 2024/25 seasons (7,800 player-seasons) and tested on
-the unseen 2025/26 season (1,964 player-seasons).
+I trained on the 2021/22 to 2024/25 seasons (7,800 player-seasons) and held
+back 2025/26 (1,964 player-seasons) as a test set the models never saw.
 
-| Model | CV MAE | Hold-out MAE | Hold-out R² | Hold-out R² (log) |
-| --- | --- | --- | --- | --- |
-| Median baseline | €10.90m | €12.25m | -0.19 | -0.01 |
-| Random Forest, basic features | €8.46m | €9.52m | 0.27 | 0.47 |
-| Ridge regression | €5.72m | €6.10m | 0.63 | 0.79 |
-| Random Forest | €5.39m | €6.05m | 0.64 | 0.80 |
-| **Gradient Boosting** | **€4.84m** | **€5.41m** | **0.73** | **0.83** |
+| Model | CV error | Test error | Test R² |
+| --- | --- | --- | --- |
+| Median baseline | €10.90m | €12.25m | -0.19 |
+| Random Forest, basic features | €8.46m | €9.52m | 0.27 |
+| Ridge regression | €5.72m | €6.10m | 0.63 |
+| Random Forest | €5.39m | €6.05m | 0.64 |
+| Gradient Boosting | €4.84m | €5.41m | 0.73 |
 
-Gradient Boosting was selected on cross-validation error alone; the hold-out
-season was only used for the final score.
+Errors are mean absolute error in euros. I picked Gradient Boosting from the
+cross-validation column and only looked at the test season after that.
 
-![Model comparison](outputs/model_comparison.png)
+The first version was a Random Forest on goals, assists, minutes, age and
+position ("basic features" above). Adding club strength, last season's stats,
+detailed position and league helped far more than changing the algorithm did:
+with those features even plain Ridge regression beats the original forest.
 
-What the comparison shows:
-
-- **Features mattered more than the algorithm.** The same Random Forest drops
-  from €9.52m to €6.05m error when club strength, previous-season output,
-  detailed position and league are added. Even a linear model with the full
-  feature set beats a Random Forest with the basic one.
-- **Gradient Boosting cuts error by 56% against the baseline** and by 43%
-  against the first version of the model.
-- **The Premier League is hardest to price** (€8.6m error, against €3.8m for
-  Serie A) because its values are the highest and most spread out.
+The Premier League is the hardest league to price (€8.6m error vs €3.8m in
+Serie A), since its values are the highest and the most spread out.
 
 ![Feature importances](outputs/feature_importance.png)
 
-### Limitations
+### What it gets wrong
 
-- The target is Transfermarkt's crowd-sourced market value, not an actual
-  transfer fee.
-- The model still undervalues superstars: Haaland is valued at €200m and
-  predicted at €91m. Reputation, contract length and commercial value are not
-  in the data.
-- Most players appear in several seasons, so the model has usually seen an
-  earlier season of a hold-out player. That matches real use (past seasons are
-  known), but error on players new to these leagues will be higher.
-- A player's previous market value is deliberately not a feature. It would
-  dominate the model and turn the task into "predict the change in value".
+- It predicts Transfermarkt's estimated value, not what a club would actually
+  pay.
+- It undervalues the biggest names. Haaland is worth €200m on Transfermarkt
+  and the model says €91m. Reputation and contract length aren't in the data.
+- Most players show up in more than one season, so the model has usually seen
+  an earlier season of a test player. I think that's fair, since in practice
+  you would know a player's history, but it will do worse on players who are
+  new to these leagues.
+- I left out a player's previous market value on purpose. With it the model
+  would mostly just repeat last year's number.
 
 ## Data
 
-All data comes from Transfermarkt via the open
+Everything comes from the
 [transfermarkt-datasets](https://github.com/dcaribou/transfermarkt-datasets)
 project, downloaded with `requests` (about 60 MB, cached after the first run).
+I use four tables: match appearances, player profiles, historical valuations
+and match results.
 
-| Table | Used for |
-| --- | --- |
-| `appearances` | goals, assists, minutes and cards per match |
-| `players` | date of birth, position, height |
-| `player_valuations` | historical market values (the target) |
-| `games` | match results, for club strength |
+I started with football-data.org, but it has no market values and no minutes
+played, so I switched.
 
-football-data.org was the original plan, but its API has no market values and
-no minutes played.
+## How it works
 
-## Method
+1. Add up each player's league appearances into one row per season. If someone
+   moved mid-season they count for the club where they played most.
+2. Drop anyone with under 450 league minutes.
+3. Use the Transfermarkt valuation closest to the end of the season (15 June,
+   within 90 days) as the target. I model `log(1 + value)` because a handful
+   of €100m+ players would otherwise dominate.
+4. Build 38 features: season totals and per-90 rates, last season's minutes,
+   goals and assists, the club's points and goal difference per game, plus
+   age, height, position and league.
+5. Compare models with expanding-window cross-validation (train on earlier
+   seasons, validate on the next one). A random split would let the model
+   train on seasons that come after the ones it is tested on.
+6. Score every model once on the held-out season.
 
-1. **Aggregate** league appearances to one row per player per season
-   (Premier League, La Liga, Serie A, Bundesliga, Ligue 1). Players who moved
-   mid-season are assigned to the club where they played most.
-2. **Filter** out player-seasons under 450 league minutes.
-3. **Target**: the Transfermarkt valuation closest to the end of the season
-   (15 June, ±90 days), modelled as `log(1 + value)` because values are
-   heavily right-skewed.
-4. **Features** (38):
-   - season output: appearances, minutes, goals, assists, cards, goals/90, assists/90
-   - previous-season minutes, goals and assists
-   - club strength: points and goal difference per game
-   - age, height, position, detailed position, league
-5. **Model selection** with expanding-window cross-validation: train on all
-   earlier seasons, validate on the next. A random split would let the model
-   train on the future.
-6. **Evaluate** every model once on the held-out latest season.
-
-## Run it
+## Running it
 
 ```bash
 git clone https://github.com/MrThakar/transfer-value-predictor.git
@@ -99,35 +91,30 @@ pip install -r requirements-dev.txt
 python -m transfer_value.train
 ```
 
-Options:
+That downloads the data, trains the models and writes the charts and metrics
+to `outputs/` and the model to `models/`. There are a few options:
 
 ```bash
 python -m transfer_value.train --leagues GB1 --seasons 2022 2023 2024 2025
 python -m transfer_value.train --min-minutes 900 --refresh
 ```
 
-Training writes the charts, `model_comparison.csv`, `test_predictions.csv` and
-`metrics.json` to `outputs/`, and the fitted model to `models/model.joblib`.
-
 ### Web app
-
-Build the React front end once, then start the server. FastAPI serves both the
-API and the built page from one process:
 
 ```bash
 cd frontend && npm install && npm run build && cd ..
 uvicorn transfer_value.api:app
 ```
 
-Open `http://127.0.0.1:8000`. Pick a position, league and club strength, enter
-a season's statistics, and the estimate updates as you type, alongside the
-real players valued closest to it.
+Then open `http://127.0.0.1:8000`. Change any number and the estimate updates,
+along with the real players valued closest to it. FastAPI serves the built
+React page and the API from the same process.
 
-For front-end development with hot reload, run `uvicorn transfer_value.api:app`
-in one terminal and `npm run dev` inside `frontend/` in another, then open
+When working on the front end, run `uvicorn transfer_value.api:app` in one
+terminal and `npm run dev` inside `frontend/` in another, and use
 `http://localhost:5173`.
 
-### Prediction API
+### API
 
 ```bash
 curl -X POST http://127.0.0.1:8000/predict \
@@ -143,25 +130,18 @@ curl -X POST http://127.0.0.1:8000/predict \
 {"predicted_value_eur": 84671000.0, "model": "Gradient Boosting"}
 ```
 
-Interactive docs are at `http://127.0.0.1:8000/docs`. Inputs are validated
-with Pydantic; only age, position, appearances and minutes are required.
+Only age, position, appearances and minutes are required. The other endpoints
+are `/comparables`, `/metadata` and `/health`; `/docs` has the full list.
 
-| Endpoint | Purpose |
-| --- | --- |
-| `POST /predict` | Predicted market value for one player-season |
-| `GET /comparables` | Real players whose actual value is closest to a given value |
-| `GET /metadata` | Form options, model name and hold-out accuracy |
-| `GET /health` | Liveness check |
-
-### Deploy
-
-The `Dockerfile` builds the front end, trains the model and serves everything
-on one port, so any Docker host works (Render, Azure Container Apps, Fly.io):
+### Docker
 
 ```bash
 docker build -t transfer-value .
 docker run -p 8000:8000 transfer-value
 ```
+
+The image builds the front end, trains the model and serves everything on one
+port.
 
 ### Tests
 
@@ -169,37 +149,28 @@ docker run -p 8000:8000 transfer-value
 python -m pytest
 ```
 
-The 20 tests use small synthetic tables, so they need no network access.
-GitHub Actions runs them, and type-checks and builds the front end, on every
+The tests run on small made-up tables, so they don't need the real data or a
+network connection. GitHub Actions runs them and builds the front end on every
 push.
 
-## Project structure
+## Layout
 
 ```
-transfer-value-predictor/
-├── transfer_value/
-│   ├── config.py        # paths, leagues, constants
-│   ├── data.py          # download and load raw tables
-│   ├── features.py      # player-season aggregation and feature matrix
-│   ├── model.py         # candidate models, time-based CV, scoring
-│   ├── plots.py         # matplotlib charts
-│   ├── train.py         # command-line pipeline
-│   └── api.py           # FastAPI service (API + built front end)
-├── frontend/            # React + TypeScript + Tailwind (Vite)
-│   └── src/
-│       ├── App.tsx      # form, live prediction, comparable players
-│       └── api.ts       # typed client for the backend
-├── tests/               # pytest suite (features, model, API)
-├── Dockerfile           # one image: build front end, train, serve
-├── .github/workflows/ci.yml
-├── outputs/             # committed charts and metrics
-├── requirements.txt
-└── requirements-dev.txt
+transfer_value/    Python package
+  data.py          downloads and loads the tables
+  features.py      builds the player-season rows and features
+  model.py         models, cross-validation, scoring
+  train.py         runs the whole pipeline
+  plots.py         charts
+  api.py           FastAPI app
+frontend/          React + TypeScript + Tailwind
+tests/             pytest
+outputs/           charts and metrics from the last training run
 ```
 
-## Ideas for improvement
+## To do
 
-- Add richer metrics (xG, xA, progressive passes) from FBref or Understat
-- Add contract length and international caps as of each season
-- Tune hyperparameters and try quantile regression for prediction intervals
-- Evaluate separately on players new to the dataset
+- Add xG and xA from FBref or Understat
+- Add contract length
+- Report error separately for players who are new to the dataset
+- Prediction ranges, not just a single number
